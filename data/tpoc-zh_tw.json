@@ -1,0 +1,1250 @@
+[
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98NX003T1",
+      "98NX003T2",
+      "04NX022T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX003-full.png"
+      }
+    ],
+    "regions": [
+      "諾克薩斯"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 5,
+    "cost": 4,
+    "health": 3,
+    "description": "每回合，我第一次殺死敵人時，在手牌生成一張<link=card.create><style=AssociatedCard>午夜突襲</style></link>。",
+    "descriptionRaw": "每回合，我第一次殺死敵人時，在手牌生成一張午夜突襲。",
+    "levelupDescription": "我方已攻擊5次以上<style=Variable></style>。",
+    "levelupDescriptionRaw": "我方已攻擊5次以上。",
+    "flavorText": "「你說得對！梅德拉達將軍并不將我作爲一名戰士或者策士加以尊重！我拼死提升我的軍銜。是時候讓她看看我的決意了！」——無名的諾克薩斯士兵（推定已死亡）",
+    "artistName": "Envar Studio",
+    "name": "安比薩",
+    "cardCode": "98NX003",
+    "keywords": [
+      "挑戰者",
+      "光盾"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "Barrier"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98NX003",
+      "98NX003T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX003T2-full.png"
+      }
+    ],
+    "regions": [
+      "諾克薩斯"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個敵軍單位。若該單位陣亡，則<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>安比薩</style></link>。",
+    "descriptionRaw": "使1個友軍單位打擊1個敵軍單位。若該單位陣亡，則備戰。\r\n在我方牌組生成1張安比薩。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「眾人齊聚後，將軍繼續講述，我們身為諾克薩斯一員的意義。這之後的殘酷暴行隨之降臨，我意識到，我們只能俯首稱臣。」——義務役士兵，瓦萊斯卡圖科",
+    "artistName": "League of Legends",
+    "name": "安比薩的公開處刑",
+    "cardCode": "98NX003T2",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98NX003",
+      "98NX003T2",
+      "04NX022T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX003T1-full.png"
+      }
+    ],
+    "regions": [
+      "諾克薩斯"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 6,
+    "cost": 4,
+    "health": 4,
+    "description": "每回合，我第一次殺死敵人時，<br><link=vocab.Rally><style=Vocab>備戰</style></link>。",
+    "descriptionRaw": "每回合，我第一次殺死敵人時，備戰。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「嗯……我聽了你的建議，並堅定支持梅德拉達將軍。她告訴我，我是“可以犧牲的”，只是“一顆棋子”，而且比起浪費她的時間，我“死了更好”。我只需要低著頭……趁我還有頭能低下。」——無名諾克薩斯士兵（推定已死亡）",
+    "artistName": "Envar Studio",
+    "name": "安比薩",
+    "cardCode": "98NX003T1",
+    "keywords": [
+      "挑戰者",
+      "光盾"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "Barrier"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX007-full.png"
+      }
+    ],
+    "regions": [
+      "諾克薩斯"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "召喚1個友軍侍從單位的<br>複製單位。",
+    "descriptionRaw": "召喚1個友軍侍從單位的複製單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「你雀屏中選，得享至高榮耀：為諾克薩斯效力。你將光耀帝國，為此壯烈犧牲，成為真正的英雄。」<br>——諾克薩斯徵兵通知",
+    "artistName": "Wild Blue",
+    "name": "徵兵",
+    "cardCode": "98NX007",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX008-full.png"
+      }
+    ],
+    "regions": [
+      "諾克薩斯"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍後排單位。",
+    "descriptionRaw": "攻擊：擊暈最強敵軍後排單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "在安比薩．梅德拉達的軍團中，沒有人比齜牙咧嘴更能體現強盛的法則。他一次又一次地證明，自己值得將軍的信任。",
+    "artistName": "Fortiche",
+    "name": "齜牙咧嘴",
+    "cardCode": "98NX008",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX004-full.png"
+      }
+    ],
+    "regions": [
+      "諾克薩斯"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個敵軍單位。若該單位陣亡，則<link=vocab.Rally><style=Vocab>備戰</style></link>。 ",
+    "descriptionRaw": "使1個友軍單位打擊1個敵軍單位。若該單位陣亡，則備戰。 ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「眾人齊聚後，將軍繼續講述，我們身為諾克薩斯一員的意義。這之後的殘酷暴行隨之降臨，我意識到，我們只能俯首稱臣。」——義務役士兵，瓦萊斯卡圖科",
+    "artistName": "League of Legends",
+    "name": "公開處刑",
+    "cardCode": "98NX004",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX006-full.png"
+      }
+    ],
+    "regions": [
+      "諾克薩斯"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。<br>若其已<link=keyword.Stun><sprite name=Stunned><style=Keyword>遭到擊暈</style></link>，則改為造成6點傷害。",
+    "descriptionRaw": "擊暈1個敵軍單位。若其已遭到擊暈，則改為造成6點傷害。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "戰場上不容憐憫之心。如同狼群，我們掌握先機，先發制人。",
+    "artistName": "League of Legends",
+    "name": "裂斬",
+    "cardCode": "98NX006",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98NX006"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98NX005-full.png"
+      }
+    ],
+    "regions": [
+      "諾克薩斯"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。在手牌生成1張<link=card.create><style=AssociatedCard>裂斬</style></link>。",
+    "descriptionRaw": "擊暈1個敵軍單位。在手牌生成1張裂斬。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "宛若沙漠中的狐狸，我們眼觀四面，耳聽八方。",
+    "artistName": "League of Legends",
+    "name": "暗襲",
+    "cardCode": "98NX005",
+    "keywords": [
+      "快速"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "快速",
+    "spellSpeedRef": "Fast",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98SI003-full.png"
+      }
+    ],
+    "regions": [
+      "闇影島"
+    ],
+    "regionRefs": [
+      "ShadowIsles"
+    ],
+    "attack": 5,
+    "cost": 8,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：擊殺1個單位。\r\n<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：本回合每有1個單位陣亡，<link=vocab.Terrify><style=Vocab>恐懼</style></link>1。",
+    "descriptionRaw": "出牌：擊殺1個單位。\r\n回合結束：本回合每有1個單位陣亡，恐懼1。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "我夢見戰事。我們離勝利只差一步……然後牠出現了。有人倒下，有人逃難。我無法阻止牠啃食腐肉。我擔心那是個惡兆。",
+    "artistName": "Envar Studio",
+    "name": "恐怖收割者",
+    "cardCode": "98SI003",
+    "keywords": [
+      "威嚇"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98SI002-full.png"
+      }
+    ],
+    "regions": [
+      "闇影島"
+    ],
+    "regionRefs": [
+      "ShadowIsles"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "賦予2個敵軍單位<link=keyword.Gloom><sprite name=Gloom><style=Keyword>無望</style></link>，或賦予1個敵軍單位2層<link=keyword.Gloom><sprite name=Gloom><style=Keyword>無望</style></link>。",
+    "descriptionRaw": "賦予2個敵軍單位無望，或賦予1個敵軍單位2層無望。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "",
+    "artistName": "Wild Blue",
+    "name": "駭懼收割",
+    "cardCode": "98SI002",
+    "keywords": [
+      "快速"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "快速",
+    "spellSpeedRef": "Fast",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98SI002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98SI002T1-full.png"
+      }
+    ],
+    "regions": [
+      "闇影島"
+    ],
+    "regionRefs": [
+      "ShadowIsles"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "賦予1個敵軍單位2層<link=keyword.Gloom><sprite name=Gloom><style=Keyword>無望</style></link>。",
+    "descriptionRaw": "賦予1個敵軍單位2層無望。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "",
+    "artistName": "Wild Blue",
+    "name": "駭懼收割",
+    "cardCode": "98SI002T1",
+    "keywords": [
+      "快速"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "快速",
+    "spellSpeedRef": "Fast",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc",
+    "formats": [
+      "普通牌限定",
+      "永恆",
+      "魔耗值為偶數的卡牌",
+      "單卡",
+      "標準"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_EvenCostCards_name",
+      "client_Deckbuilder_RulesFilters_Singleton",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98SI002T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98SI002T2-full.png"
+      }
+    ],
+    "regions": [
+      "闇影島"
+    ],
+    "regionRefs": [
+      "ShadowIsles"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "賦予2個敵軍單位<link=keyword.Gloom><sprite name=Gloom><style=Keyword>無望</style></link>。",
+    "descriptionRaw": "賦予2個敵軍單位無望。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "",
+    "artistName": "Wild Blue",
+    "name": "駭懼收割",
+    "cardCode": "98SI002T2",
+    "keywords": [
+      "快速"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "快速",
+    "spellSpeedRef": "Fast",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc",
+    "formats": [
+      "普通牌限定",
+      "永恆",
+      "魔耗值為偶數的卡牌",
+      "單卡",
+      "標準"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_EvenCostCards_name",
+      "client_Deckbuilder_RulesFilters_Singleton",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ001T2",
+      "98PZ001T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98PZ001-full.png"
+      }
+    ],
+    "regions": [
+      "皮爾托福&佐恩"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：此牌<link=vocab.Strike><style=Vocab>打擊</style></link>1個受傷的敵軍單位。",
+    "descriptionRaw": "出牌：此牌打擊1個受傷的敵軍單位。",
+    "levelupDescription": "您在本場比賽中已造成<br>12次以上傷害。<style=Variable></style>",
+    "levelupDescriptionRaw": "您在本場比賽中已造成12次以上傷害。",
+    "flavorText": "「『爪子像刀子，眼睛閃著紅光』？聽起來像是那些神志不清的瘋子的胡言亂語，但如果警長堅持……我會長途跋涉去那裡檢查一下。」——皮爾托福警員（新手）",
+    "artistName": "Envar Studio",
+    "name": "沃維克",
+    "cardCode": "98PZ001",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtypes": [
+      "犬族"
+    ],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98PZ001T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98PZ001T4-full.png"
+      }
+    ],
+    "regions": [
+      "皮爾托福&佐恩"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "對一個單位或主堡造成1點傷害，並對另一目標造成1點傷害。然後，賦予所有負傷敵軍<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    "descriptionRaw": "對一個單位或主堡造成1點傷害，並對另一目標造成1點傷害。然後，賦予所有負傷敵軍弱勢。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「那是一頭野獸……又一個被科技玩壞的東西。渾身的牙齒和利爪。尖叫聲停止的時候……除了屍首殘渣和骨頭，什麼也不剩。」——佐恩礦工",
+    "artistName": "Fortiche",
+    "name": "血跡獵蹤",
+    "cardCode": "98PZ001T4",
+    "keywords": [
+      "快速"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "快速",
+    "spellSpeedRef": "Fast",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ001",
+      "98PZ001T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98PZ001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98PZ001T2-full.png"
+      }
+    ],
+    "regions": [
+      "皮爾托福&佐恩"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 5,
+    "cost": 3,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：此牌<link=vocab.Strike><style=Vocab>打擊</style></link>1個受傷的敵軍單位。\r\n<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：此牌隨機<link=vocab.Strike><style=Vocab>打擊</style></link>1個受傷的敵軍單位。",
+    "descriptionRaw": "出牌：此牌打擊1個受傷的敵軍單位。\r\n回合結束：此牌隨機打擊1個受傷的敵軍單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「這位警員的肢體被撕碎，看起來是因失血過多而死。這些爪痕與污水坑中身份不明的遺骸上發現的痕跡相符。我們到底面對的是怎樣的怪物？」——驗屍官",
+    "artistName": "Envar Studio",
+    "name": "沃維克",
+    "cardCode": "98PZ001T2",
+    "keywords": [
+      "快速攻擊"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtypes": [
+      "犬族"
+    ],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ001",
+      "98PZ001T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98PZ001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98PZ001T1-full.png"
+      }
+    ],
+    "regions": [
+      "皮爾托福&佐恩"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "對一個單位或主堡造成1點傷害，並對另一目標造成1點傷害。然後，賦予所有負傷敵軍<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>沃維克</style></link>。",
+    "descriptionRaw": "對一個單位或主堡造成1點傷害，並對另一目標造成1點傷害。然後，賦予所有負傷敵軍弱勢。\r\n在我方牌組生成1張沃維克。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「那是一頭野獸……又一個被科技玩壞的東西。渾身的牙齒和利爪。尖叫聲停止的時候……除了屍首殘渣和骨頭，什麼也不剩。」——佐恩礦工",
+    "artistName": "Fortiche",
+    "name": "沃維克的血跡獵蹤",
+    "cardCode": "98PZ001T1",
+    "keywords": [
+      "快速"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "快速",
+    "spellSpeedRef": "Fast",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98PZ004-full.png"
+      }
+    ],
+    "regions": [
+      "皮爾托福&佐恩"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "對1個敵軍單位造成10點傷害。 若場上沒有敵軍單位，則改為對敵方主堡造成10點傷害。<br>有50%機率造成<link=vocab.CriticalStrike><style=Vocab>暴擊</style></link>。",
+    "descriptionRaw": "對1個敵軍單位造成10點傷害。 若場上沒有敵軍單位，則改為對敵方主堡造成10點傷害。有50%機率造成暴擊。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "",
+    "artistName": "Wild Blue and Penelope Aretos",
+    "name": "王牌射手",
+    "cardCode": "98PZ004",
+    "keywords": [
+      "慢速",
+      "蠻力"
+    ],
+    "keywordRefs": [
+      "Slow",
+      "SpellOverwhelm"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98RU004T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98DE001-full.png"
+      }
+    ],
+    "regions": [
+      "蒂瑪西亞"
+    ],
+    "regionRefs": [
+      "Demacia"
+    ],
+    "attack": 5,
+    "cost": 4,
+    "health": 3,
+    "description": "<link=vocab.Strike><style=Vocab>打擊</style></link>：以<link=card.create><style=AssociatedCard>夢魘</style></link>的形式在敵方牌組植入1張此牌的複製牌。",
+    "descriptionRaw": "打擊：以夢魘的形式在敵方牌組植入1張此牌的複製牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「小造夢者，夢魘不會放棄驅逐你的光輝……但只要你還在樹節間發光，我就永遠能找到你。」——莉莉亞",
+    "artistName": "Envar Studio",
+    "name": "惡毒刺探者",
+    "cardCode": "98DE001",
+    "keywords": [
+      "挑戰者"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98RU003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98RU003-full.png"
+      }
+    ],
+    "regions": [
+      "符文大地"
+    ],
+    "regionRefs": [
+      "Runeterra"
+    ],
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "賦予敵軍單位2層<link=keyword.Gloom><sprite name=Gloom><style=Keyword>無望</style></link>。<br><link=vocab.Terrify><style=Vocab>恐懼</style></link>2。",
+    "descriptionRaw": "賦予敵軍單位2層無望。恐懼2。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「那具稻草人根本嚇不走半隻鳥，反而還吸引牠們過來。我都懷疑它的帽簷上全是鳥食！」<br>——蒂瑪西亞農夫，埃森",
+    "artistName": "Caravan Studio",
+    "name": "群鴉風暴",
+    "cardCode": "98RU003",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98RU004T1",
+      "98RU004T2",
+      "98RU004T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98RU004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98RU004-full.png"
+      }
+    ],
+    "regions": [
+      "符文大地"
+    ],
+    "regionRefs": [
+      "Runeterra"
+    ],
+    "attack": 7,
+    "cost": 3,
+    "health": 6,
+    "description": "牌局開始：以<link=card.create><style=AssociatedCard>夢魘</style></link>的形式將此牌的複製牌植入敵方牌組。\r\n召喚此牌時，賦予敵軍單位<br>2層<link=keyword.Gloom><sprite name=Gloom><style=Keyword>無望</style></link>。",
+    "descriptionRaw": "牌局開始：以夢魘的形式將此牌的複製牌植入敵方牌組。\r\n召喚此牌時，賦予敵軍單位2層無望。",
+    "levelupDescription": "敵方牌組剩餘卡牌數量等於或低於15張。<style=Variable></style>",
+    "levelupDescriptionRaw": "敵方牌組剩餘卡牌數量等於或低於15張。",
+    "flavorText": " 「長久以來，他們都覺得我瘋了，認為費德提克不過是虛假的傳言，是用來嚇唬小孩讓他們乖乖聽話的故事。但我在那片森林裡的遭遇可不是什麼傳言，而是恐懼本身貨真價實地直接現形。」<br>——蒂瑪西亞惡魔學者維吉爾·卡斯特",
+    "artistName": "Envar Studio",
+    "name": "費德提克",
+    "cardCode": "98RU004",
+    "keywords": [
+      "威嚇"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98RU004T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98RU004T3-full.png"
+      }
+    ],
+    "regions": [
+      "符文大地"
+    ],
+    "regionRefs": [
+      "Runeterra"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "敵方從我方的夢魘中召喚一個單位。若該單位是敵方已經擁有的英雄，或其盤面已滿，則改為在手牌中生成一張該牌的複製牌。",
+    "descriptionRaw": "敵方從我方的夢魘中召喚一個單位。若該單位是敵方已經擁有的英雄，或其盤面已滿，則改為在手牌中生成一張該牌的複製牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「小造夢者……你到哪裡去了？」——莉莉亞",
+    "artistName": "Wild Blue",
+    "name": "夢魘",
+    "cardCode": "98RU004T3",
+    "keywords": [
+      "陷阱"
+    ],
+    "keywordRefs": [
+      "Autoplay"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "陷阱",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98RU004",
+      "98RU004T2",
+      "98RU004T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98RU004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98RU004T1-full.png"
+      }
+    ],
+    "regions": [
+      "符文大地"
+    ],
+    "regionRefs": [
+      "Runeterra"
+    ],
+    "attack": 8,
+    "cost": 3,
+    "health": 7,
+    "description": "牌局開始：以<link=card.create><style=AssociatedCard>夢魘</style></link>的形式將此牌的複製牌植入敵方牌組。\r\n召喚此牌或<link=vocab.Attack><style=Vocab>攻擊</style></link>時：賦予敵軍單位2層<link=keyword.Gloom><sprite name=Gloom><style=Keyword>無望</style></link>。",
+    "descriptionRaw": "牌局開始：以夢魘的形式將此牌的複製牌植入敵方牌組。\r\n召喚此牌或攻擊時：賦予敵軍單位2層無望。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「我現在懷疑只要提到它，或甚至只要想起它，就會讓它開始逼近。這些聲音本來是從森林裡傳出來，但現在就在我的窗外，但我不敢去查看。我只想趕快從這場噩夢中醒來。」——蒂瑪西亞惡魔學者維吉爾·卡斯特",
+    "artistName": "Wild Blue",
+    "name": "費德提克",
+    "cardCode": "98RU004T1",
+    "keywords": [
+      "威嚇"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98RU004",
+      "98RU004T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98RU004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98RU004T2-full.png"
+      }
+    ],
+    "regions": [
+      "符文大地"
+    ],
+    "regionRefs": [
+      "Runeterra"
+    ],
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "賦予敵軍單位2層<link=keyword.Gloom><sprite name=Gloom><style=Keyword>無望</style></link>。<br><link=vocab.Terrify><style=Vocab>恐懼</style></link>2。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>費德提克</style></link>。",
+    "descriptionRaw": "賦予敵軍單位2層無望。恐懼2。\r\n在我方牌組生成1張費德提克。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「那具稻草人根本嚇不走半隻鳥，反而還吸引牠們過來。我都懷疑它的帽簷上全是鳥食！」<br>——蒂瑪西亞農夫，埃森",
+    "artistName": "Caravan Studio",
+    "name": "費德提克 群鴉風暴",
+    "cardCode": "98RU004T2",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98RU001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98RU001-full.png"
+      }
+    ],
+    "regions": [
+      "符文大地"
+    ],
+    "regionRefs": [
+      "Runeterra"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "對所有敵軍單位與敵方主堡造成1點傷害。每有1個攻擊中且有卡牌次類的友軍單位，便增加1點傷害。",
+    "descriptionRaw": "對所有敵軍單位與敵方主堡造成1點傷害。每有1個攻擊中且有卡牌次類的友軍單位，便增加1點傷害。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "",
+    "artistName": "",
+    "name": "萬紫千紅",
+    "cardCode": "98RU001",
+    "keywords": [
+      "技能"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "技能",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SH001T1",
+      "98RU004T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98SH001-full.png"
+      }
+    ],
+    "regions": [
+      "蘇瑞瑪"
+    ],
+    "regionRefs": [
+      "Shurima"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：以<link=card.trap><style=AssociatedCard>夢魘</style></link>的形式將1張<br><link=card.create><style=AssociatedCard>遺忘之懼</style></link>植入敵方牌組。",
+    "descriptionRaw": "遺願：以夢魘的形式將1張遺忘之懼植入敵方牌組。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "我以為一切都在我們的掌控之中……直到我目睹第一頭坐騎被拖入沙中。那不是什麼風暴……而是有某種怪物潛伏於沙漠中。",
+    "artistName": "Envar Studio",
+    "name": "潛伏噩夢",
+    "cardCode": "98SH001",
+    "keywords": [
+      "遺願"
+    ],
+    "keywordRefs": [
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98SH001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98SH001T1-full.png"
+      }
+    ],
+    "regions": [
+      "蘇瑞瑪"
+    ],
+    "regionRefs": [
+      "Shurima"
+    ],
+    "attack": 6,
+    "cost": 1,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "鐵鍊從地面竄出，飛沙遮蔽了我的雙眼。我聽見男人與野獸的叫聲，然後是一片寂靜。當我再次聽到聲音，事態已經變得不對勁。非常不對勁。",
+    "artistName": "Envar Studio",
+    "name": "遺忘之懼",
+    "cardCode": "98SH001T1",
+    "keywords": [
+      "挑戰者",
+      "蠻力"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98BC001-full.png"
+      }
+    ],
+    "regions": [
+      "班德爾城"
+    ],
+    "regionRefs": [
+      "BandleCity"
+    ],
+    "attack": 1,
+    "cost": 2,
+    "health": 3,
+    "description": "<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合賦予所有敵軍單位<nobr>-1|-0。</nobr>",
+    "descriptionRaw": "攻擊：本回合賦予所有敵軍單位-1|-0。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「聽說要是在夢中死去的話，在現實也會死掉哦。好喔，那大家一起來大演特演。」——薇可絲",
+    "artistName": "Envar Studio",
+    "name": "虛假友誼",
+    "cardCode": "98BC001",
+    "keywords": [
+      "威嚇",
+      "衝擊"
+    ],
+    "keywordRefs": [
+      "Fearsome",
+      "Impact"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_1_0/tpoc/zh_tw/img/cards/98BW002-full.png"
+      }
+    ],
+    "regions": [
+      "比爾吉沃特"
+    ],
+    "regionRefs": [
+      "Bilgewater"
+    ],
+    "attack": 1,
+    "cost": 3,
+    "health": 4,
+    "description": "我方抽牌時，<link=vocab.Terrify><style=Vocab>恐懼</style></link>1。",
+    "descriptionRaw": "我方抽牌時，恐懼1。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「我今天交了新朋友，是人魚哦！她邀請我一起游泳，還說要教我怎麼游！晚餐之後我要溜出去找她！」<br>——波巴克勒，目前行蹤成謎",
+    "artistName": "Wild Blue",
+    "name": "淺灘水妖",
+    "cardCode": "98BW002",
+    "keywords": [
+      "隱密"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  }
+]
