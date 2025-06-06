@@ -8,8 +8,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98BW003-full.png"
       }
     ],
     "regions": [
@@ -50,8 +50,92 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98BW004-full.png"
+      }
+    ],
+    "regions": [
+      "Bilgewater"
+    ],
+    "regionRefs": [
+      "Bilgewater"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Infligez 7 pt(s) de dégâts à l'ennemi <link=vocab.Strongest><style=Vocab>le plus fort</style></link> et <link=keyword.Stun><sprite name=Stunned><style=Keyword>étourdissez</style></link>-le.",
+    "descriptionRaw": "Infligez 7 pt(s) de dégâts à l'ennemi le plus fort et étourdissez-le.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "« Aussi brillant que l'or. » - Twisted Fate",
+    "artistName": "Kudos Productions",
+    "name": "Carte or",
+    "cardCode": "98BW004",
+    "keywords": [
+      "Compétence"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Aucune",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Compétence",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98BW005-full.png"
+      }
+    ],
+    "regions": [
+      "Bilgewater"
+    ],
+    "regionRefs": [
+      "Bilgewater"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Remplissez 2 gemmes.\r\nPiochez 2 cartes.",
+    "descriptionRaw": "Remplissez 2 gemmes.\r\nPiochez 2 cartes.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "« Bleu comme la Serpentine. » - Twisted Fate",
+    "artistName": "Kudos Productions",
+    "name": "Carte bleue",
+    "cardCode": "98BW005",
+    "keywords": [
+      "Compétence"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Aucune",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Compétence",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98BW002-full.png"
       }
     ],
     "regions": [
@@ -89,6 +173,48 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98BW006-full.png"
+      }
+    ],
+    "regions": [
+      "Bilgewater"
+    ],
+    "regionRefs": [
+      "Bilgewater"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Infligez 2 pt(s) de dégâts à tous les ennemis et au Nexus ennemi.",
+    "descriptionRaw": "Infligez 2 pt(s) de dégâts à tous les ennemis et au Nexus ennemi.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "« Tout le monde y trouve son bonheur. » - Twisted Fate",
+    "artistName": "Kudos Productions",
+    "name": "Carte rouge",
+    "cardCode": "98BW006",
+    "keywords": [
+      "Compétence"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Aucune",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Compétence",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "98NX003T1",
       "98NX003T2",
@@ -96,8 +222,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX003-full.png"
       }
     ],
     "regions": [
@@ -143,8 +269,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX003T2-full.png"
       }
     ],
     "regions": [
@@ -189,8 +315,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX003T1-full.png"
       }
     ],
     "regions": [
@@ -233,8 +359,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX007-full.png"
       }
     ],
     "regions": [
@@ -275,8 +401,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX008-full.png"
       }
     ],
     "regions": [
@@ -313,8 +439,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX004-full.png"
       }
     ],
     "regions": [
@@ -355,8 +481,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX006-full.png"
       }
     ],
     "regions": [
@@ -399,8 +525,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98NX005-full.png"
       }
     ],
     "regions": [
@@ -441,8 +567,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98SI003-full.png"
       }
     ],
     "regions": [
@@ -483,8 +609,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98SI002-full.png"
       }
     ],
     "regions": [
@@ -525,8 +651,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98SI002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98SI002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98SI002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98SI002T1-full.png"
       }
     ],
     "regions": [
@@ -581,8 +707,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98SI002T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98SI002T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98SI002T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98SI002T2-full.png"
       }
     ],
     "regions": [
@@ -637,8 +763,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU007-full.png"
       }
     ],
     "regions": [
@@ -681,8 +807,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU006-full.png"
       }
     ],
     "regions": [
@@ -725,8 +851,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU009-full.png"
       }
     ],
     "regions": [
@@ -769,8 +895,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU003-full.png"
       }
     ],
     "regions": [
@@ -811,8 +937,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU005-full.png"
       }
     ],
     "regions": [
@@ -859,8 +985,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU004-full.png"
       }
     ],
     "regions": [
@@ -901,8 +1027,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU004T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU004T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU004T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU004T3-full.png"
       }
     ],
     "regions": [
@@ -947,8 +1073,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU004T1-full.png"
       }
     ],
     "regions": [
@@ -992,8 +1118,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU004T2-full.png"
       }
     ],
     "regions": [
@@ -1034,8 +1160,50 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU001-full.png"
+      }
+    ],
+    "regions": [
+      "Runeterra"
+    ],
+    "regionRefs": [
+      "Runeterra"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Infligez 1 pt(s) de dégâts à tous les ennemis et au Nexus ennemi. Ces dégâts sont augmentés de 1 pour chaque allié attaquant doté d'un sous-type.",
+    "descriptionRaw": "Infligez 1 pt(s) de dégâts à tous les ennemis et au Nexus ennemi. Ces dégâts sont augmentés de 1 pour chaque allié attaquant doté d'un sous-type.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "",
+    "artistName": "",
+    "name": "Floraison renversante",
+    "cardCode": "98RU001",
+    "keywords": [
+      "Compétence"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Aucune",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Compétence",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU011-full.png"
       }
     ],
     "regions": [
@@ -1090,50 +1258,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU001-full.png"
-      }
-    ],
-    "regions": [
-      "Runeterra"
-    ],
-    "regionRefs": [
-      "Runeterra"
-    ],
-    "attack": 0,
-    "cost": 0,
-    "health": 0,
-    "description": "Infligez 1 pt(s) de dégâts à tous les ennemis et au Nexus ennemi. Ces dégâts sont augmentés de 1 pour chaque allié attaquant doté d'un sous-type.",
-    "descriptionRaw": "Infligez 1 pt(s) de dégâts à tous les ennemis et au Nexus ennemi. Ces dégâts sont augmentés de 1 pour chaque allié attaquant doté d'un sous-type.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "",
-    "artistName": "",
-    "name": "Floraison renversante",
-    "cardCode": "98RU001",
-    "keywords": [
-      "Compétence"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "Aucune",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "Compétence",
-    "collectible": false,
-    "set": "Tpoc"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU008-full.png"
       }
     ],
     "regions": [
@@ -1176,8 +1302,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98RU010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98RU010-full.png"
       }
     ],
     "regions": [
@@ -1223,8 +1349,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98PZ001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98PZ001-full.png"
       }
     ],
     "regions": [
@@ -1263,8 +1389,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98PZ001T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98PZ001T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98PZ001T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98PZ001T4-full.png"
       }
     ],
     "regions": [
@@ -1308,8 +1434,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98PZ001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98PZ001T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98PZ001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98PZ001T2-full.png"
       }
     ],
     "regions": [
@@ -1355,8 +1481,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98PZ001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98PZ001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98PZ001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98PZ001T1-full.png"
       }
     ],
     "regions": [
@@ -1397,8 +1523,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98PZ004-full.png"
       }
     ],
     "regions": [
@@ -1410,8 +1536,8 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "Infligez 10 pts de dégâts à un ennemi. S'il n'y a aucun ennemi, infligez 10 pts de dégâts au Nexus ennemi à la place.<br> 50% de chances d'infliger un <link=vocab.CriticalStrike><style=Vocab>coup critique</style></link>.",
-    "descriptionRaw": "Infligez 10 pts de dégâts à un ennemi. S'il n'y a aucun ennemi, infligez 10 pts de dégâts au Nexus ennemi à la place. 50% de chances d'infliger un coup critique.",
+    "description": "Infligez 10 pts de dégâts à un ennemi. S'il n'y a aucun ennemi, infligez 10 pts de dégâts au Nexus ennemi à la place.<br>+50% de chances d'infliger un <link=vocab.CriticalStrike><style=Vocab>coup critique</style></link>.",
+    "descriptionRaw": "Infligez 10 pts de dégâts à un ennemi. S'il n'y a aucun ennemi, infligez 10 pts de dégâts au Nexus ennemi à la place.+50% de chances d'infliger un coup critique.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "",
@@ -1443,8 +1569,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98DE001-full.png"
       }
     ],
     "regions": [
@@ -1485,8 +1611,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98FR003-full.png"
       }
     ],
     "regions": [
@@ -1527,8 +1653,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98SH002-full.png"
       }
     ],
     "regions": [
@@ -1540,8 +1666,8 @@
     "attack": 0,
     "cost": 8,
     "health": 0,
-    "description": "Quand vous jouez une carte d'un coût de <style=Variable>2</style>, réduisez mon décompte de 2 rounds.\r\nQuand je réduis mon décompte, je change mon numéro d'activation.\r\n<link=vocab.Countdown><style=Vocab>Décompte 24</style></link><style=Variable></style> : vous gagnez la partie.",
-    "descriptionRaw": "Quand vous jouez une carte d'un coût de 2, réduisez mon décompte de 2 rounds.\r\nQuand je réduis mon décompte, je change mon numéro d'activation.\r\nDécompte 24 : vous gagnez la partie.",
+    "description": "Quand vous jouez une carte d'un coût de <style=Variable>2</style>, <link=vocab.Advance><style=Vocab>réduisez mon Décompte</style></link> de 2 rounds.\r\nQuand je réduis mon Décompte, je change mon numéro d'activation.\r\n<link=vocab.Countdown><style=Vocab>Décompte de 24</style></link><style=Variable></style> : vous gagnez la partie.",
+    "descriptionRaw": "Quand vous jouez une carte d'un coût de 2, réduisez mon Décompte de 2 rounds.\r\nQuand je réduis mon Décompte, je change mon numéro d'activation.\r\nDécompte de 24 : vous gagnez la partie.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "",
@@ -1588,8 +1714,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98SH001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98SH001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98SH001-full.png"
       }
     ],
     "regions": [
@@ -1630,8 +1756,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98SH001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98SH001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98SH001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98SH001T1-full.png"
       }
     ],
     "regions": [
@@ -1674,8 +1800,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98BC001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/fr_fr/img/cards/98BC001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_6_0/tpoc/fr_fr/img/cards/98BC001-full.png"
       }
     ],
     "regions": [
