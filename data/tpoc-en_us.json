@@ -8,8 +8,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98BW003-full.png"
       }
     ],
     "regions": [
@@ -50,8 +50,92 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98BW004-full.png"
+      }
+    ],
+    "regions": [
+      "Bilgewater"
+    ],
+    "regionRefs": [
+      "Bilgewater"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Deal 7 and <link=keyword.Stun><sprite name=Stunned><style=Keyword>Stun</style></link> the <link=vocab.Strongest><style=Vocab>strongest</style></link> enemy.",
+    "descriptionRaw": "Deal 7 and Stun the strongest enemy.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"All that glitters...\" - Twisted Fate",
+    "artistName": "Kudos Productions",
+    "name": "Gold Card",
+    "cardCode": "98BW004",
+    "keywords": [
+      "Skill"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Ability",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98BW005-full.png"
+      }
+    ],
+    "regions": [
+      "Bilgewater"
+    ],
+    "regionRefs": [
+      "Bilgewater"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Refill 2 spell mana.\r\nDraw 2.",
+    "descriptionRaw": "Refill 2 spell mana.\r\nDraw 2.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Blue as the Serpentine.\" - Twisted Fate",
+    "artistName": "Kudos Productions",
+    "name": "Blue Card",
+    "cardCode": "98BW005",
+    "keywords": [
+      "Skill"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Ability",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98BW002-full.png"
       }
     ],
     "regions": [
@@ -89,6 +173,48 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98BW006-full.png"
+      }
+    ],
+    "regions": [
+      "Bilgewater"
+    ],
+    "regionRefs": [
+      "Bilgewater"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Deal 2 to all enemies and the enemy Nexus.",
+    "descriptionRaw": "Deal 2 to all enemies and the enemy Nexus.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Somethin' for everyone.\" - Twisted Fate",
+    "artistName": "Kudos Productions",
+    "name": "Red Card",
+    "cardCode": "98BW006",
+    "keywords": [
+      "Skill"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Ability",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "98NX003T1",
       "98NX003T2",
@@ -96,8 +222,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX003-full.png"
       }
     ],
     "regions": [
@@ -143,8 +269,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX003T2-full.png"
       }
     ],
     "regions": [
@@ -189,8 +315,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX003T1-full.png"
       }
     ],
     "regions": [
@@ -233,8 +359,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX007-full.png"
       }
     ],
     "regions": [
@@ -275,8 +401,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX008-full.png"
       }
     ],
     "regions": [
@@ -313,8 +439,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX004-full.png"
       }
     ],
     "regions": [
@@ -355,8 +481,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX006-full.png"
       }
     ],
     "regions": [
@@ -399,8 +525,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98NX005-full.png"
       }
     ],
     "regions": [
@@ -441,8 +567,576 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ007-full.png"
+      }
+    ],
+    "regions": [
+      "Piltover & Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 1,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: Create an exact copy of a spell in hand.",
+    "descriptionRaw": "Play: Create an exact copy of a spell in hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "“Exploit their ignorance. True deception can fool even the sharpest minds.” – unnamed Black Rose mage",
+    "artistName": "Envar Studio",
+    "name": "Elora",
+    "cardCode": "98PZ007",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ005-full.png"
+      }
+    ],
+    "regions": [
+      "Piltover & Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Deal damage to an enemy equal to its Power.",
+    "descriptionRaw": "Deal damage to an enemy equal to its Power.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "“It seems you’re unfamiliar with the Golden Rule.” - Mel Medarda",
+    "artistName": "League of Legends",
+    "name": "Rebuttal",
+    "cardCode": "98PZ005",
+    "keywords": [
+      "Fast"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Fast",
+    "spellSpeedRef": "Fast",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ006T1",
+      "98PZ006T3",
+      "98PZ006T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ006-full.png"
+      }
+    ],
+    "regions": [
+      "Noxus",
+      "Piltover & Zaun"
+    ],
+    "regionRefs": [
+      "Noxus",
+      "PiltoverZaun"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "Your spells targeting enemies have <link=keyword.SpellOverwhelm><sprite name=Overwhelm><style=Keyword>Overwhelm</style></link>.\r\nWhen I'm summoned or allies attack, create a <link=card.create><style=AssociatedCard>Radiant Volley</style></link> in hand.",
+    "descriptionRaw": "Your spells targeting enemies have Overwhelm.\r\nWhen I'm summoned or allies attack, create a Radiant Volley in hand.",
+    "levelupDescription": "You've played 3 different spells twice. <style=Variable></style>",
+    "levelupDescriptionRaw": "You've played 3 different spells twice. ",
+    "flavorText": "“I see it now. The corruption behind the Progress. I had hoped it wouldn’t come to this… but perhaps compromise is no longer an option. No matter, my countermeasures are already in place.”",
+    "artistName": "Envar Studio",
+    "name": "Mel",
+    "cardCode": "98PZ006",
+    "keywords": [
+      "Missing Translation"
+    ],
+    "keywordRefs": [
+      "AuraVisualFakeKeyword"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Champion",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ006T2-full.png"
+      }
+    ],
+    "regions": [
+      "Piltover & Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Deal 1 to a unit.",
+    "descriptionRaw": "Deal 1 to a unit.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"“Apologies… This may burn.” - Mel Medarda",
+    "artistName": "League of Legends",
+    "name": "Radiant Volley",
+    "cardCode": "98PZ006T2",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ006",
+      "98PZ006T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ006T3-full.png"
+      }
+    ],
+    "regions": [
+      "Piltover & Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Deal damage to an enemy equal to its Power.\r\nCreate a <link=card.level1><style=AssociatedCard>Mel</style></link> in your deck.",
+    "descriptionRaw": "Deal damage to an enemy equal to its Power.\r\nCreate a Mel in your deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "“It seems you’re unfamiliar with the Golden Rule.” - Mel Medarda",
+    "artistName": "League of Legends",
+    "name": "Mel's Rebuttal",
+    "cardCode": "98PZ006T3",
+    "keywords": [
+      "Fast"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Fast",
+    "spellSpeedRef": "Fast",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ006",
+      "98PZ006T3",
+      "98PZ006T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ006T1-full.png"
+      }
+    ],
+    "regions": [
+      "Noxus",
+      "Piltover & Zaun"
+    ],
+    "regionRefs": [
+      "Noxus",
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 3,
+    "health": 4,
+    "description": "Your spells targeting enemies have <link=keyword.SpellOverwhelm><sprite name=Overwhelm><style=Keyword>Overwhelm</style></link>.\r\nWhen I'm summoned or allies attack, create 2 <link=card.create><style=AssociatedCard>Radiant Volleys</style></link> in hand.",
+    "descriptionRaw": "Your spells targeting enemies have Overwhelm.\r\nWhen I'm summoned or allies attack, create 2 Radiant Volleys in hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "“Piltovan or Noxian. Medarda or Mage. The Wolf or the Fox. They know not what I am, but they will never forget what I can do.”",
+    "artistName": "Envar Studio",
+    "name": "Mel",
+    "cardCode": "98PZ006T1",
+    "keywords": [
+      "Missing Translation"
+    ],
+    "keywordRefs": [
+      "AuraVisualFakeKeyword"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Champion",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ001T2",
+      "98PZ001T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ001-full.png"
+      }
+    ],
+    "regions": [
+      "Piltover & Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: I <link=vocab.Strike><style=Vocab>strike</style></link> a damaged enemy.",
+    "descriptionRaw": "Play: I strike a damaged enemy.",
+    "levelupDescription": "You've dealt damage 12+ times this game.<style=Variable></style>",
+    "levelupDescriptionRaw": "You've dealt damage 12+ times this game.",
+    "flavorText": "\"'Claws like knives and glowing red eyes'? Sounds like the ramblings of those shimmered-up lunatics, but if the Sheriff insists… I'll trek down there and check it out.\" - Piltovan Enforcer (trainee)",
+    "artistName": "Envar Studio",
+    "name": "Warwick",
+    "cardCode": "98PZ001",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Champion",
+    "rarityRef": "Champion",
+    "subtypes": [
+      "DOG"
+    ],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ001T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ001T4-full.png"
+      }
+    ],
+    "regions": [
+      "Piltover & Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Deal 1 to a unit or Nexus, and 1 to another. Then, grant all damaged enemies <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link>.",
+    "descriptionRaw": "Deal 1 to a unit or Nexus, and 1 to another. Then, grant all damaged enemies Vulnerable.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "“It was a beast, one of those screwed up chemtech things. All teeth and claws. And when the screaming stopped... there was nothin' but bits of meat and bone.” - Zaunite miner",
+    "artistName": "Fortiche",
+    "name": "Blood Hunt",
+    "cardCode": "98PZ001T4",
+    "keywords": [
+      "Fast"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Fast",
+    "spellSpeedRef": "Fast",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ001",
+      "98PZ001T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ001T2-full.png"
+      }
+    ],
+    "regions": [
+      "Piltover & Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 5,
+    "cost": 3,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: I <link=vocab.Strike><style=Vocab>strike</style></link> a damaged enemy.\r\n<link=vocab.RoundEnd><style=Vocab>Round End</style></link>: I <link=vocab.Strike><style=Vocab>strike</style></link> a random damaged enemy.",
+    "descriptionRaw": "Play: I strike a damaged enemy.\r\nRound End: I strike a random damaged enemy.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Torn limb from limb, the deceased enforcer appears to have succumbed to blood loss. The claw marks match those found on the unidentified remains in the Sump. Just what kind of monster are we dealing with?\" - Coroner",
+    "artistName": "Envar Studio",
+    "name": "Warwick",
+    "cardCode": "98PZ001T2",
+    "keywords": [
+      "Quick Attack"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Champion",
+    "rarityRef": "Champion",
+    "subtypes": [
+      "DOG"
+    ],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ001",
+      "98PZ001T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ001T1-full.png"
+      }
+    ],
+    "regions": [
+      "Piltover & Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Deal 1 to a unit or Nexus, and 1 to another. Then, grant all damaged enemies <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link>.\r\nCreate a <link=card.level1><style=AssociatedCard>Warwick</style></link> in your deck.",
+    "descriptionRaw": "Deal 1 to a unit or Nexus, and 1 to another. Then, grant all damaged enemies Vulnerable.\r\nCreate a Warwick in your deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "“It was a beast, one of those screwed up chemtech things. All teeth and claws. And when the screaming stopped... there was nothin' but bits of meat and bone.” - Zaunite miner",
+    "artistName": "Fortiche",
+    "name": "Warwick's Blood Hunt",
+    "cardCode": "98PZ001T1",
+    "keywords": [
+      "Fast"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Fast",
+    "spellSpeedRef": "Fast",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ004-full.png"
+      }
+    ],
+    "regions": [
+      "Piltover & Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Deal 10 to an enemy. If there are no enemies, deal 10 to the enemy Nexus instead.<br>+50% chance to <link=vocab.CriticalStrike><style=Vocab>Critical Strike</style></link>.",
+    "descriptionRaw": "Deal 10 to an enemy. If there are no enemies, deal 10 to the enemy Nexus instead.+50% chance to Critical Strike.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "",
+    "artistName": "Wild Blue and Penelope Aretos",
+    "name": "Ace in the Hole",
+    "cardCode": "98PZ004",
+    "keywords": [
+      "Slow",
+      "Overwhelm"
+    ],
+    "keywordRefs": [
+      "Slow",
+      "SpellOverwhelm"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ008-full.png"
+      }
+    ],
+    "regions": [
+      "Piltover & Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Deal 1 to a unit or the enemy Nexus, then another, then another.",
+    "descriptionRaw": "Deal 1 to a unit or the enemy Nexus, then another, then another.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "“My influence is vast, and my resources are plentiful. My magic is no different.” - Mel Medarda",
+    "artistName": "League of Legends",
+    "name": "Solar Snare",
+    "cardCode": "98PZ008",
+    "keywords": [
+      "Fast"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Fast",
+    "spellSpeedRef": "Fast",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98PZ009-full.png"
+      }
+    ],
+    "regions": [
+      "Piltover & Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Last Breath</style></link>: Refill 2 spell mana.",
+    "descriptionRaw": "Last Breath: Refill 2 spell mana.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "“I’ve done what the Council requested, but… why are they planning to investigate one of their own? I must wait… surely the Medardas will see through this ruse.” – unnamed Piltovan",
+    "artistName": "Envar Studio",
+    "name": "Lest",
+    "cardCode": "98PZ009",
+    "keywords": [
+      "Last Breath"
+    ],
+    "keywordRefs": [
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98SI003-full.png"
       }
     ],
     "regions": [
@@ -483,8 +1177,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98SI002-full.png"
       }
     ],
     "regions": [
@@ -525,8 +1219,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98SI002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98SI002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98SI002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98SI002T1-full.png"
       }
     ],
     "regions": [
@@ -581,8 +1275,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98SI002T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98SI002T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98SI002T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98SI002T2-full.png"
       }
     ],
     "regions": [
@@ -637,8 +1331,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU007-full.png"
       }
     ],
     "regions": [
@@ -681,8 +1375,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU006-full.png"
       }
     ],
     "regions": [
@@ -725,8 +1419,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU009-full.png"
       }
     ],
     "regions": [
@@ -769,8 +1463,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU003-full.png"
       }
     ],
     "regions": [
@@ -811,8 +1505,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU005-full.png"
       }
     ],
     "regions": [
@@ -859,8 +1553,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU004-full.png"
       }
     ],
     "regions": [
@@ -901,8 +1595,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU004T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU004T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU004T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU004T3-full.png"
       }
     ],
     "regions": [
@@ -947,8 +1641,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU004T1-full.png"
       }
     ],
     "regions": [
@@ -992,8 +1686,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU004T2-full.png"
       }
     ],
     "regions": [
@@ -1034,8 +1728,50 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU001-full.png"
+      }
+    ],
+    "regions": [
+      "Runeterra"
+    ],
+    "regionRefs": [
+      "Runeterra"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Deal 1 to all enemies and the enemy Nexus. Increased by 1 for each attacking subtyped ally.",
+    "descriptionRaw": "Deal 1 to all enemies and the enemy Nexus. Increased by 1 for each attacking subtyped ally.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "",
+    "artistName": "",
+    "name": "Pop Blossom",
+    "cardCode": "98RU001",
+    "keywords": [
+      "Skill"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Ability",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU011-full.png"
       }
     ],
     "regions": [
@@ -1090,50 +1826,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU001-full.png"
-      }
-    ],
-    "regions": [
-      "Runeterra"
-    ],
-    "regionRefs": [
-      "Runeterra"
-    ],
-    "attack": 0,
-    "cost": 0,
-    "health": 0,
-    "description": "Deal 1 to all enemies and the enemy Nexus. Increased by 1 for each attacking subtyped ally.",
-    "descriptionRaw": "Deal 1 to all enemies and the enemy Nexus. Increased by 1 for each attacking subtyped ally.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "",
-    "artistName": "",
-    "name": "Pop Blossom",
-    "cardCode": "98RU001",
-    "keywords": [
-      "Skill"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "None",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "Ability",
-    "collectible": false,
-    "set": "Tpoc"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU008-full.png"
       }
     ],
     "regions": [
@@ -1176,8 +1870,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98RU010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98RU010-full.png"
       }
     ],
     "regions": [
@@ -1218,233 +1912,12 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
-      "98PZ001T2",
-      "98PZ001T1"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98PZ001-full.png"
-      }
-    ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 4,
-    "cost": 3,
-    "health": 3,
-    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: I <link=vocab.Strike><style=Vocab>strike</style></link> a damaged enemy.",
-    "descriptionRaw": "Play: I strike a damaged enemy.",
-    "levelupDescription": "You've dealt damage 12+ times this game.<style=Variable></style>",
-    "levelupDescriptionRaw": "You've dealt damage 12+ times this game.",
-    "flavorText": "\"'Claws like knives and glowing red eyes'? Sounds like the ramblings of those shimmered-up lunatics, but if the Sheriff insists… I'll trek down there and check it out.\" - Piltovan Enforcer (trainee)",
-    "artistName": "Envar Studio",
-    "name": "Warwick",
-    "cardCode": "98PZ001",
-    "keywords": [],
-    "keywordRefs": [],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "Champion",
-    "rarityRef": "Champion",
-    "subtypes": [
-      "DOG"
-    ],
-    "supertype": "Champion",
-    "type": "Unit",
-    "collectible": false,
-    "set": "Tpoc"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98PZ001T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98PZ001T4-full.png"
-      }
-    ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 0,
-    "cost": 3,
-    "health": 0,
-    "description": "Deal 1 to a unit or Nexus, and 1 to another. Then, grant all damaged enemies <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link>.",
-    "descriptionRaw": "Deal 1 to a unit or Nexus, and 1 to another. Then, grant all damaged enemies Vulnerable.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "“It was a beast, one of those screwed up chemtech things. All teeth and claws. And when the screaming stopped... there was nothin' but bits of meat and bone.” - Zaunite miner",
-    "artistName": "Fortiche",
-    "name": "Blood Hunt",
-    "cardCode": "98PZ001T4",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
-    "spellSpeed": "Fast",
-    "spellSpeedRef": "Fast",
-    "rarity": "COMMON",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "",
-    "type": "Spell",
-    "collectible": false,
-    "set": "Tpoc"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "98PZ001",
-      "98PZ001T1"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98PZ001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98PZ001T2-full.png"
-      }
-    ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 5,
-    "cost": 3,
-    "health": 4,
-    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: I <link=vocab.Strike><style=Vocab>strike</style></link> a damaged enemy.\r\n<link=vocab.RoundEnd><style=Vocab>Round End</style></link>: I <link=vocab.Strike><style=Vocab>strike</style></link> a random damaged enemy.",
-    "descriptionRaw": "Play: I strike a damaged enemy.\r\nRound End: I strike a random damaged enemy.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "\"Torn limb from limb, the deceased enforcer appears to have succumbed to blood loss. The claw marks match those found on the unidentified remains in the Sump. Just what kind of monster are we dealing with?\" - Coroner",
-    "artistName": "Envar Studio",
-    "name": "Warwick",
-    "cardCode": "98PZ001T2",
-    "keywords": [
-      "Quick Attack"
-    ],
-    "keywordRefs": [
-      "QuickStrike"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "Champion",
-    "rarityRef": "Champion",
-    "subtypes": [
-      "DOG"
-    ],
-    "supertype": "Champion",
-    "type": "Unit",
-    "collectible": false,
-    "set": "Tpoc"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "98PZ001",
-      "98PZ001T2"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98PZ001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98PZ001T1-full.png"
-      }
-    ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 0,
-    "cost": 3,
-    "health": 0,
-    "description": "Deal 1 to a unit or Nexus, and 1 to another. Then, grant all damaged enemies <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link>.\r\nCreate a <link=card.level1><style=AssociatedCard>Warwick</style></link> in your deck.",
-    "descriptionRaw": "Deal 1 to a unit or Nexus, and 1 to another. Then, grant all damaged enemies Vulnerable.\r\nCreate a Warwick in your deck.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "“It was a beast, one of those screwed up chemtech things. All teeth and claws. And when the screaming stopped... there was nothin' but bits of meat and bone.” - Zaunite miner",
-    "artistName": "Fortiche",
-    "name": "Warwick's Blood Hunt",
-    "cardCode": "98PZ001T1",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
-    "spellSpeed": "Fast",
-    "spellSpeedRef": "Fast",
-    "rarity": "COMMON",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "Champion",
-    "type": "Spell",
-    "collectible": false,
-    "set": "Tpoc"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98PZ004-full.png"
-      }
-    ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 0,
-    "cost": 5,
-    "health": 0,
-    "description": "Deal 10 to an enemy. If there are no enemies, deal 10 to the enemy Nexus instead.<br> 50% chance to <link=vocab.CriticalStrike><style=Vocab>Critical Strike</style></link>.",
-    "descriptionRaw": "Deal 10 to an enemy. If there are no enemies, deal 10 to the enemy Nexus instead. 50% chance to Critical Strike.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "",
-    "artistName": "Wild Blue and Penelope Aretos",
-    "name": "Ace in the Hole",
-    "cardCode": "98PZ004",
-    "keywords": [
-      "Slow",
-      "Overwhelm"
-    ],
-    "keywordRefs": [
-      "Slow",
-      "SpellOverwhelm"
-    ],
-    "spellSpeed": "Slow",
-    "spellSpeedRef": "Slow",
-    "rarity": "None",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "Spell",
-    "collectible": false,
-    "set": "Tpoc"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
       "98RU004T3"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98DE001-full.png"
       }
     ],
     "regions": [
@@ -1485,8 +1958,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98FR003-full.png"
       }
     ],
     "regions": [
@@ -1527,8 +2000,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98SH002-full.png"
       }
     ],
     "regions": [
@@ -1540,8 +2013,8 @@
     "attack": 0,
     "cost": 8,
     "health": 0,
-    "description": "When you play a <style=Variable>2</style>-cost card, advance me 2.\r\nWhen I count down, I change my activation number.\r\n<link=vocab.Countdown><style=Vocab>Countdown 24</style></link><style=Variable></style>: You win the game.",
-    "descriptionRaw": "When you play a 2-cost card, advance me 2.\r\nWhen I count down, I change my activation number.\r\nCountdown 24: You win the game.",
+    "description": "When you play a <style=Variable>2</style> cost card, <link=vocab.Advance><style=Vocab>advance</style></link> me 2.\r\nWhen I count down, I change my activation number.\r\n<link=vocab.Countdown><style=Vocab>Countdown 24</style></link><style=Variable></style>: You win the game.",
+    "descriptionRaw": "When you play a 2 cost card, advance me 2.\r\nWhen I count down, I change my activation number.\r\nCountdown 24: You win the game.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "",
@@ -1588,8 +2061,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98SH001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98SH001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98SH001-full.png"
       }
     ],
     "regions": [
@@ -1630,8 +2103,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98SH001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98SH001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98SH001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98SH001T1-full.png"
       }
     ],
     "regions": [
@@ -1674,8 +2147,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98BC001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/en_us/img/cards/98BC001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/en_us/img/cards/98BC001-full.png"
       }
     ],
     "regions": [
