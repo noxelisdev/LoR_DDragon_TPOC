@@ -8,8 +8,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98BW003-full.png"
       }
     ],
     "regions": [
@@ -50,8 +50,92 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98BW004-full.png"
+      }
+    ],
+    "regions": [
+      "Aguasturbias"
+    ],
+    "regionRefs": [
+      "Bilgewater"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Inflijo 7 de daño y lanzo <link=keyword.Stun><sprite name=Stunned><style=Keyword>Aturdir</style></link> al enemigo <link=vocab.Strongest><style=Vocab>más fuerte</style></link>.",
+    "descriptionRaw": "Inflijo 7 de daño y lanzo Aturdir al enemigo más fuerte.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Todo lo que brilla...''. —Twisted Fate",
+    "artistName": "Kudos Productions",
+    "name": "Carta Dorada",
+    "cardCode": "98BW004",
+    "keywords": [
+      "Habilidad"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Ninguno",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Habilidad",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98BW005-full.png"
+      }
+    ],
+    "regions": [
+      "Aguasturbias"
+    ],
+    "regionRefs": [
+      "Bilgewater"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Restablezco 2 de maná de hechizos.\r\nRoba 2.",
+    "descriptionRaw": "Restablezco 2 de maná de hechizos.\r\nRoba 2.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Azul como el río Serpentino''. —Twisted Fate",
+    "artistName": "Kudos Productions",
+    "name": "Carta Azul",
+    "cardCode": "98BW005",
+    "keywords": [
+      "Habilidad"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Ninguno",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Habilidad",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98BW002-full.png"
       }
     ],
     "regions": [
@@ -89,6 +173,48 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98BW006-full.png"
+      }
+    ],
+    "regions": [
+      "Aguasturbias"
+    ],
+    "regionRefs": [
+      "Bilgewater"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Inflijo 2 de daño a todos los enemigos y al nexo enemigo.",
+    "descriptionRaw": "Inflijo 2 de daño a todos los enemigos y al nexo enemigo.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Hay algo para todos''. —Twisted Fate",
+    "artistName": "Kudos Productions",
+    "name": "Carta Roja",
+    "cardCode": "98BW006",
+    "keywords": [
+      "Habilidad"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Ninguno",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Habilidad",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "98NX003T1",
       "98NX003T2",
@@ -96,8 +222,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX003-full.png"
       }
     ],
     "regions": [
@@ -143,8 +269,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX003T2-full.png"
       }
     ],
     "regions": [
@@ -189,8 +315,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX003T1-full.png"
       }
     ],
     "regions": [
@@ -233,8 +359,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX007-full.png"
       }
     ],
     "regions": [
@@ -275,8 +401,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX008-full.png"
       }
     ],
     "regions": [
@@ -313,8 +439,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX004-full.png"
       }
     ],
     "regions": [
@@ -355,8 +481,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX006-full.png"
       }
     ],
     "regions": [
@@ -399,8 +525,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98NX005-full.png"
       }
     ],
     "regions": [
@@ -441,8 +567,576 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ007-full.png"
+      }
+    ],
+    "regions": [
+      "Piltóver y Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 1,
+    "description": "<link=vocab.Play><style=Vocab>Al jugar</style></link>: Creo una copia idéntica de un hechizo en tu mano.",
+    "descriptionRaw": "Al jugar: Creo una copia idéntica de un hechizo en tu mano.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Usa su ignorancia a tu favor. El verdadero engaño puede burlar incluso a las mentes más ingeniosas\". —Mago anónimo de la Rosa Negra",
+    "artistName": "Envar Studio",
+    "name": "Elora",
+    "cardCode": "98PZ007",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unidad",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ005-full.png"
+      }
+    ],
+    "regions": [
+      "Piltóver y Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Inflijo a un enemigo una cantidad de daño equivalente a su Poder.",
+    "descriptionRaw": "Inflijo a un enemigo una cantidad de daño equivalente a su Poder.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Parece que no conoces la regla de oro\". —Mel Medarda",
+    "artistName": "League of Legends",
+    "name": "Impugnación",
+    "cardCode": "98PZ005",
+    "keywords": [
+      "Rápido"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Rápido",
+    "spellSpeedRef": "Fast",
+    "rarity": "RARA",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Hechizo",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ006T1",
+      "98PZ006T3",
+      "98PZ006T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ006-full.png"
+      }
+    ],
+    "regions": [
+      "Noxus",
+      "Piltóver y Zaun"
+    ],
+    "regionRefs": [
+      "Noxus",
+      "PiltoverZaun"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "Tus hechizos que fijen a los enemigos como objetivo tienen <link=keyword.SpellOverwhelm><sprite name=Overwhelm><style=Keyword>Arrollar</style></link>.\r\nCuando me invocan o los aliados atacan, creo 1 <link=card.create><style=AssociatedCard>Descarga Radiante</style></link> en tu mano.",
+    "descriptionRaw": "Tus hechizos que fijen a los enemigos como objetivo tienen Arrollar.\r\nCuando me invocan o los aliados atacan, creo 1 Descarga Radiante en tu mano.",
+    "levelupDescription": "Jugaste con 3 hechizos diferentes dos veces. <style=Variable></style>",
+    "levelupDescriptionRaw": "Jugaste con 3 hechizos diferentes dos veces. ",
+    "flavorText": "\"Ahora la veo. La corrupción detrás del progreso. Esperaba que no llegáramos a esto…, pero quizá negociar ya no sea una opción. Sea como sea, mis medidas correctivas ya están en marcha\".",
+    "artistName": "Envar Studio",
+    "name": "Mel",
+    "cardCode": "98PZ006",
+    "keywords": [
+      "Missing Translation"
+    ],
+    "keywordRefs": [
+      "AuraVisualFakeKeyword"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Campeón",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Campeón",
+    "type": "Unidad",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ006T2-full.png"
+      }
+    ],
+    "regions": [
+      "Piltóver y Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Inflijo 1 de daño a una unidad.",
+    "descriptionRaw": "Inflijo 1 de daño a una unidad.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Lo siento… esto podría arder\". —Mel Medarda",
+    "artistName": "League of Legends",
+    "name": "Descarga Radiante",
+    "cardCode": "98PZ006T2",
+    "keywords": [
+      "Ráfaga"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Ráfaga",
+    "spellSpeedRef": "Burst",
+    "rarity": "Ninguno",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Hechizo",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ006",
+      "98PZ006T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ006T3-full.png"
+      }
+    ],
+    "regions": [
+      "Piltóver y Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Inflijo a un enemigo una cantidad de daño equivalente a su Poder.\r\nCreo 1 <link=card.level1><style=AssociatedCard>Mel</style></link> en tu mazo.",
+    "descriptionRaw": "Inflijo a un enemigo una cantidad de daño equivalente a su Poder.\r\nCreo 1 Mel en tu mazo.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Parece que no conoces la regla de oro\". —Mel Medarda",
+    "artistName": "League of Legends",
+    "name": "Impugnación de Mel",
+    "cardCode": "98PZ006T3",
+    "keywords": [
+      "Rápido"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Rápido",
+    "spellSpeedRef": "Fast",
+    "rarity": "Ninguno",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "Campeón",
+    "type": "Hechizo",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ006",
+      "98PZ006T3",
+      "98PZ006T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ006T1-full.png"
+      }
+    ],
+    "regions": [
+      "Noxus",
+      "Piltóver y Zaun"
+    ],
+    "regionRefs": [
+      "Noxus",
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 3,
+    "health": 4,
+    "description": "Tus hechizos que fijen a los enemigos como objetivo tienen <link=keyword.SpellOverwhelm><sprite name=Overwhelm><style=Keyword>Arrollar</style></link>.\r\nCuando me invocan o los aliados atacan, creo 2 <link=card.create><style=AssociatedCard>Descargas Radiantes</style></link> en tu mano.",
+    "descriptionRaw": "Tus hechizos que fijen a los enemigos como objetivo tienen Arrollar.\r\nCuando me invocan o los aliados atacan, creo 2 Descargas Radiantes en tu mano.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Piltoviana o noxiana. Medarda o maga. Lobuna o vulpina. No saben lo que soy, pero nunca podrán olvidar lo que puedo hacer\".",
+    "artistName": "Envar Studio",
+    "name": "Mel",
+    "cardCode": "98PZ006T1",
+    "keywords": [
+      "Missing Translation"
+    ],
+    "keywordRefs": [
+      "AuraVisualFakeKeyword"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Campeón",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Campeón",
+    "type": "Unidad",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ001T2",
+      "98PZ001T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ001-full.png"
+      }
+    ],
+    "regions": [
+      "Piltóver y Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 3,
+    "health": 3,
+    "description": "Al <link=vocab.Play><style=Vocab>Jugar</style></link>: <link=vocab.Strike><style=Vocab>Golpeo</style></link> a un enemigo dañado.",
+    "descriptionRaw": "Al Jugar: Golpeo a un enemigo dañado.",
+    "levelupDescription": "Si infligiste daño 12+ veces en esta partida.<style=Variable></style>",
+    "levelupDescriptionRaw": "Si infligiste daño 12+ veces en esta partida.",
+    "flavorText": "''¿'Zarpas como cuchillos y brillantes ojos rojos'? Suena como los delirios de esos lunáticos engreídos, pero si la sheriff insiste... iré a revisarlo''. - Vigilante piltoviano (aprendiz)",
+    "artistName": "Envar Studio",
+    "name": "Warwick",
+    "cardCode": "98PZ001",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Campeón",
+    "rarityRef": "Champion",
+    "subtypes": [
+      "PERRO"
+    ],
+    "supertype": "Campeón",
+    "type": "Unidad",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ001T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ001T4-full.png"
+      }
+    ],
+    "regions": [
+      "Piltóver y Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Inflijo 1 de daño a una unidad o nexo y 1 de daño a otro. Luego, otorgo <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link> a todos los enemigos dañados.",
+    "descriptionRaw": "Inflijo 1 de daño a una unidad o nexo y 1 de daño a otro. Luego, otorgo Vulnerable a todos los enemigos dañados.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Era una bestia, una de esas aberraciones quimtech. Colmillos y garras en su máxima expresión. Y cuando los gritos cesaron… no quedaba más que un montón de carne y huesos\". —Minero zaunita",
+    "artistName": "Fortiche",
+    "name": "Cacería de Sangre",
+    "cardCode": "98PZ001T4",
+    "keywords": [
+      "Rápido"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Rápido",
+    "spellSpeedRef": "Fast",
+    "rarity": "COMÚN",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Hechizo",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ001",
+      "98PZ001T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ001T2-full.png"
+      }
+    ],
+    "regions": [
+      "Piltóver y Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 5,
+    "cost": 3,
+    "health": 4,
+    "description": "Al <link=vocab.Play><style=Vocab>Jugar</style></link>: <link=vocab.Strike><style=Vocab>Golpeo</style></link> a un enemigo dañado.\r\n<link=vocab.RoundEnd><style=Vocab>Fin de la ronda</style></link>: <link=vocab.Strike><style=Vocab>Golpeo</style></link> a un enemigo dañado aleatorio.",
+    "descriptionRaw": "Al Jugar: Golpeo a un enemigo dañado.\r\nFin de la ronda: Golpeo a un enemigo dañado aleatorio.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Desgarrado miembro por miembro, el vigilante fallecido parece haber sucumbido ante la pérdida de sangre. Las marcas de garras coinciden con las que se encontraron en los restos no identificados en el Sumidero. ¿Con qué clase de monstruo estamos lidiando?\". - Médico forense",
+    "artistName": "Envar Studio",
+    "name": "Warwick",
+    "cardCode": "98PZ001T2",
+    "keywords": [
+      "Ataque Rápido"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Campeón",
+    "rarityRef": "Champion",
+    "subtypes": [
+      "PERRO"
+    ],
+    "supertype": "Campeón",
+    "type": "Unidad",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98PZ001",
+      "98PZ001T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ001T1-full.png"
+      }
+    ],
+    "regions": [
+      "Piltóver y Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Inflijo 1 de daño a una unidad o nexo y 1 de daño a otro. Luego, otorgo <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link> a todos los enemigos dañados.\r\nCreo 1 <link=card.level1><style=AssociatedCard>Warwick</style></link> en tu mazo.",
+    "descriptionRaw": "Inflijo 1 de daño a una unidad o nexo y 1 de daño a otro. Luego, otorgo Vulnerable a todos los enemigos dañados.\r\nCreo 1 Warwick en tu mazo.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Era una bestia, una de esas aberraciones quimtech. Colmillos y garras en su máxima expresión. Y cuando los gritos cesaron...no quedaba más que un montón de carne y huesos\". —Minero zaunita",
+    "artistName": "Fortiche",
+    "name": "Cacería de Sangre de Warwick",
+    "cardCode": "98PZ001T1",
+    "keywords": [
+      "Rápido"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Rápido",
+    "spellSpeedRef": "Fast",
+    "rarity": "COMÚN",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "Campeón",
+    "type": "Hechizo",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ004-full.png"
+      }
+    ],
+    "regions": [
+      "Piltóver y Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Inflijo 10 de daño a un enemigo. Si no hay enemigos, inflijo 10 de daño al nexo enemigo.<br>+50% de posibilidad de aplicar <link=vocab.CriticalStrike><style=Vocab>Golpe Crítico</style></link>.",
+    "descriptionRaw": "Inflijo 10 de daño a un enemigo. Si no hay enemigos, inflijo 10 de daño al nexo enemigo.+50% de posibilidad de aplicar Golpe Crítico.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "",
+    "artistName": "Wild Blue and Penelope Aretos",
+    "name": "As Bajo la Mira",
+    "cardCode": "98PZ004",
+    "keywords": [
+      "Lento",
+      "Arrollar"
+    ],
+    "keywordRefs": [
+      "Slow",
+      "SpellOverwhelm"
+    ],
+    "spellSpeed": "Lento",
+    "spellSpeedRef": "Slow",
+    "rarity": "Ninguno",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Hechizo",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ008-full.png"
+      }
+    ],
+    "regions": [
+      "Piltóver y Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Inflijo 1 de daño a una unidad o al nexo enemigo, luego a otra y luego a otra.",
+    "descriptionRaw": "Inflijo 1 de daño a una unidad o al nexo enemigo, luego a otra y luego a otra.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Mi influencia es vasta y, mis recursos, inagotables. Con mi magia sucede lo mismo\". —Mel Medarda",
+    "artistName": "League of Legends",
+    "name": "Trampa Solar",
+    "cardCode": "98PZ008",
+    "keywords": [
+      "Rápido"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Rápido",
+    "spellSpeedRef": "Fast",
+    "rarity": "COMÚN",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Hechizo",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98PZ009-full.png"
+      }
+    ],
+    "regions": [
+      "Piltóver y Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Último Aliento</style></link>: Restablezco 2 de maná de hechizos.",
+    "descriptionRaw": "Último Aliento: Restablezco 2 de maná de hechizos.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Hice todo lo que el Consejo me pidió, pero… ¿por qué quieren investigar a uno de los suyos? Debo esperar… los Medarda no tardarán en ver que esto no es más que un ardid\". —Piltoviano anónimo",
+    "artistName": "Envar Studio",
+    "name": "Lest",
+    "cardCode": "98PZ009",
+    "keywords": [
+      "Último Aliento"
+    ],
+    "keywordRefs": [
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMÚN",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unidad",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98SI003-full.png"
       }
     ],
     "regions": [
@@ -483,8 +1177,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98SI002-full.png"
       }
     ],
     "regions": [
@@ -525,8 +1219,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98SI002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98SI002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98SI002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98SI002T1-full.png"
       }
     ],
     "regions": [
@@ -581,8 +1275,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98SI002T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98SI002T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98SI002T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98SI002T2-full.png"
       }
     ],
     "regions": [
@@ -637,8 +1331,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU007-full.png"
       }
     ],
     "regions": [
@@ -681,8 +1375,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU006-full.png"
       }
     ],
     "regions": [
@@ -725,8 +1419,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU009-full.png"
       }
     ],
     "regions": [
@@ -769,8 +1463,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU003-full.png"
       }
     ],
     "regions": [
@@ -811,8 +1505,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU005-full.png"
       }
     ],
     "regions": [
@@ -859,8 +1553,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU004-full.png"
       }
     ],
     "regions": [
@@ -901,8 +1595,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU004T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU004T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU004T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU004T3-full.png"
       }
     ],
     "regions": [
@@ -947,8 +1641,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU004T1-full.png"
       }
     ],
     "regions": [
@@ -992,8 +1686,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU004T2-full.png"
       }
     ],
     "regions": [
@@ -1034,8 +1728,50 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU001-full.png"
+      }
+    ],
+    "regions": [
+      "Runaterra"
+    ],
+    "regionRefs": [
+      "Runeterra"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Inflijo 1 de daño a todos los enemigos y al nexo enemigo. Aumento en 1 por cada aliado atacante con subtipo.",
+    "descriptionRaw": "Inflijo 1 de daño a todos los enemigos y al nexo enemigo. Aumento en 1 por cada aliado atacante con subtipo.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "",
+    "artistName": "",
+    "name": "Brote Sorpresa",
+    "cardCode": "98RU001",
+    "keywords": [
+      "Habilidad"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Ninguno",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Habilidad",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU011-full.png"
       }
     ],
     "regions": [
@@ -1090,50 +1826,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU001-full.png"
-      }
-    ],
-    "regions": [
-      "Runaterra"
-    ],
-    "regionRefs": [
-      "Runeterra"
-    ],
-    "attack": 0,
-    "cost": 0,
-    "health": 0,
-    "description": "Inflijo 1 de daño a todos los enemigos y al nexo enemigo. Aumento en 1 por cada aliado atacante con subtipo.",
-    "descriptionRaw": "Inflijo 1 de daño a todos los enemigos y al nexo enemigo. Aumento en 1 por cada aliado atacante con subtipo.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "",
-    "artistName": "",
-    "name": "Brote Sorpresa",
-    "cardCode": "98RU001",
-    "keywords": [
-      "Habilidad"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "Ninguno",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "Habilidad",
-    "collectible": false,
-    "set": "Tpoc"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU008-full.png"
       }
     ],
     "regions": [
@@ -1176,8 +1870,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98RU010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98RU010-full.png"
       }
     ],
     "regions": [
@@ -1218,233 +1912,12 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
-      "98PZ001T2",
-      "98PZ001T1"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98PZ001-full.png"
-      }
-    ],
-    "regions": [
-      "Piltóver y Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 4,
-    "cost": 3,
-    "health": 3,
-    "description": "Al <link=vocab.Play><style=Vocab>Jugar</style></link>: <link=vocab.Strike><style=Vocab>Golpeo</style></link> a un enemigo dañado.",
-    "descriptionRaw": "Al Jugar: Golpeo a un enemigo dañado.",
-    "levelupDescription": "Si infligiste daño 12+ veces en esta partida.<style=Variable></style>",
-    "levelupDescriptionRaw": "Si infligiste daño 12+ veces en esta partida.",
-    "flavorText": "''¿'Zarpas como cuchillos y brillantes ojos rojos'? Suena como los delirios de esos lunáticos engreídos, pero si la sheriff insiste... iré a revisarlo''. - Vigilante piltoviano (aprendiz)",
-    "artistName": "Envar Studio",
-    "name": "Warwick",
-    "cardCode": "98PZ001",
-    "keywords": [],
-    "keywordRefs": [],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "Campeón",
-    "rarityRef": "Champion",
-    "subtypes": [
-      "PERRO"
-    ],
-    "supertype": "Campeón",
-    "type": "Unidad",
-    "collectible": false,
-    "set": "Tpoc"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98PZ001T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98PZ001T4-full.png"
-      }
-    ],
-    "regions": [
-      "Piltóver y Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 0,
-    "cost": 3,
-    "health": 0,
-    "description": "Inflijo 1 de daño a una unidad o nexo y 1 de daño a otro. Luego, otorgo <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link> a todos los enemigos dañados.",
-    "descriptionRaw": "Inflijo 1 de daño a una unidad o nexo y 1 de daño a otro. Luego, otorgo Vulnerable a todos los enemigos dañados.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "\"Era una bestia, una de esas aberraciones quimtech. Colmillos y garras en su máxima expresión. Y cuando los gritos cesaron… no quedaba más que un montón de carne y huesos\". —Minero zaunita",
-    "artistName": "Fortiche",
-    "name": "Cacería de Sangre",
-    "cardCode": "98PZ001T4",
-    "keywords": [
-      "Rápido"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
-    "spellSpeed": "Rápido",
-    "spellSpeedRef": "Fast",
-    "rarity": "COMÚN",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "",
-    "type": "Hechizo",
-    "collectible": false,
-    "set": "Tpoc"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "98PZ001",
-      "98PZ001T1"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98PZ001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98PZ001T2-full.png"
-      }
-    ],
-    "regions": [
-      "Piltóver y Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 5,
-    "cost": 3,
-    "health": 4,
-    "description": "Al <link=vocab.Play><style=Vocab>Jugar</style></link>: <link=vocab.Strike><style=Vocab>Golpeo</style></link> a un enemigo dañado.\r\n<link=vocab.RoundEnd><style=Vocab>Fin de la ronda</style></link>: <link=vocab.Strike><style=Vocab>Golpeo</style></link> a un enemigo dañado aleatorio.",
-    "descriptionRaw": "Al Jugar: Golpeo a un enemigo dañado.\r\nFin de la ronda: Golpeo a un enemigo dañado aleatorio.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''Desgarrado miembro por miembro, el vigilante fallecido parece haber sucumbido ante la pérdida de sangre. Las marcas de garras coinciden con las que se encontraron en los restos no identificados en el Sumidero. ¿Con qué clase de monstruo estamos lidiando?\". - Médico forense",
-    "artistName": "Envar Studio",
-    "name": "Warwick",
-    "cardCode": "98PZ001T2",
-    "keywords": [
-      "Ataque Rápido"
-    ],
-    "keywordRefs": [
-      "QuickStrike"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "Campeón",
-    "rarityRef": "Champion",
-    "subtypes": [
-      "PERRO"
-    ],
-    "supertype": "Campeón",
-    "type": "Unidad",
-    "collectible": false,
-    "set": "Tpoc"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "98PZ001",
-      "98PZ001T2"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98PZ001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98PZ001T1-full.png"
-      }
-    ],
-    "regions": [
-      "Piltóver y Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 0,
-    "cost": 3,
-    "health": 0,
-    "description": "Inflijo 1 de daño a una unidad o nexo y 1 de daño a otro. Luego, otorgo <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link> a todos los enemigos dañados.\r\nCreo 1 <link=card.level1><style=AssociatedCard>Warwick</style></link> en tu mazo.",
-    "descriptionRaw": "Inflijo 1 de daño a una unidad o nexo y 1 de daño a otro. Luego, otorgo Vulnerable a todos los enemigos dañados.\r\nCreo 1 Warwick en tu mazo.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "\"Era una bestia, una de esas aberraciones quimtech. Colmillos y garras en su máxima expresión. Y cuando los gritos cesaron...no quedaba más que un montón de carne y huesos\". —Minero zaunita",
-    "artistName": "Fortiche",
-    "name": "Cacería de Sangre de Warwick",
-    "cardCode": "98PZ001T1",
-    "keywords": [
-      "Rápido"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
-    "spellSpeed": "Rápido",
-    "spellSpeedRef": "Fast",
-    "rarity": "COMÚN",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "Campeón",
-    "type": "Hechizo",
-    "collectible": false,
-    "set": "Tpoc"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98PZ004-full.png"
-      }
-    ],
-    "regions": [
-      "Piltóver y Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 0,
-    "cost": 5,
-    "health": 0,
-    "description": "Inflijo 10 de daño a un enemigo. Si no hay enemigos, inflijo 10 de daño al nexo enemigo.<br> 50% de probabilidad de aplicar <link=vocab.CriticalStrike><style=Vocab>Golpe Crítico</style></link>.",
-    "descriptionRaw": "Inflijo 10 de daño a un enemigo. Si no hay enemigos, inflijo 10 de daño al nexo enemigo. 50% de probabilidad de aplicar Golpe Crítico.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "",
-    "artistName": "Wild Blue and Penelope Aretos",
-    "name": "As Bajo la Mira",
-    "cardCode": "98PZ004",
-    "keywords": [
-      "Lento",
-      "Arrollar"
-    ],
-    "keywordRefs": [
-      "Slow",
-      "SpellOverwhelm"
-    ],
-    "spellSpeed": "Lento",
-    "spellSpeedRef": "Slow",
-    "rarity": "Ninguno",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "Hechizo",
-    "collectible": false,
-    "set": "Tpoc"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
       "98RU004T3"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98DE001-full.png"
       }
     ],
     "regions": [
@@ -1485,8 +1958,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98FR003-full.png"
       }
     ],
     "regions": [
@@ -1527,8 +2000,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98SH002-full.png"
       }
     ],
     "regions": [
@@ -1540,8 +2013,8 @@
     "attack": 0,
     "cost": 8,
     "health": 0,
-    "description": "Cuando juegas una carta de <style=Variable>2</style>-de costo, avanzo 2.\r\nCuando activo Cuenta regresiva, cambio mi número de activación.\r\n<link=vocab.Countdown><style=Vocab>Cuenta regresiva a 24</style></link><style=Variable></style>: Ganas la partida.",
-    "descriptionRaw": "Cuando juegas una carta de 2-de costo, avanzo 2.\r\nCuando activo Cuenta regresiva, cambio mi número de activación.\r\nCuenta regresiva a 24: Ganas la partida.",
+    "description": "Cuando juegas una carta de <style=Variable>2</style> de costo, <link=vocab.Advance><style=Vocab>avanzo</style></link> 2.\r\nCuando activo Cuenta regresiva, cambio mi número de activación.\r\n<link=vocab.Countdown><style=Vocab>Cuenta regresiva a 24</style></link><style=Variable></style>: ganas la partida.",
+    "descriptionRaw": "Cuando juegas una carta de 2 de costo, avanzo 2.\r\nCuando activo Cuenta regresiva, cambio mi número de activación.\r\nCuenta regresiva a 24: ganas la partida.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "",
@@ -1588,8 +2061,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98SH001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98SH001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98SH001-full.png"
       }
     ],
     "regions": [
@@ -1630,8 +2103,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98SH001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98SH001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98SH001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98SH001T1-full.png"
       }
     ],
     "regions": [
@@ -1674,8 +2147,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98BC001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_5_0/tpoc/es_mx/img/cards/98BC001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/es_mx/img/cards/98BC001-full.png"
       }
     ],
     "regions": [
