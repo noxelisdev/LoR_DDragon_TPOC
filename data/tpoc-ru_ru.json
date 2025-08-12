@@ -2,14 +2,1496 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
+      "98SB013T2",
+      "98SB013T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB013-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения",
+      "Рунтерра"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Runeterra"
+    ],
+    "attack": 1,
+    "cost": 4,
+    "health": 4,
+    "description": "Когда я <link=keyword.Challenger><sprite name=Challenger><style=Keyword>выбираю противником</style></link> врага, у которого меньше здоровья, чем у меня, выведите меня из боя, <link=vocab.Charm><style=Vocab>очаруйте</style></link> врага и заставьте его атаковать.",
+    "descriptionRaw": "Когда я выбираю противником врага, у которого меньше здоровья, чем у меня, выведите меня из боя, очаруйте врага и заставьте его атаковать.",
+    "levelupDescription": "<link=vocab.Stolen><style=Vocab>Похищенные</style></link> союзники нанесли <link=vocab.Strike><style=Vocab>удар</style></link> 4+ раза. <style=Variable></style>",
+    "levelupDescriptionRaw": "Похищенные союзники нанесли удар 4+ раза. ",
+    "flavorText": "Чтобы избавиться от боли и страха, нужно молиться Пожирательнице скорби. ",
+    "artistName": "Envar Studio",
+    "name": "Дух цветения Эвелинн",
+    "cardCode": "98SB013",
+    "keywords": [
+      "Выбор противника"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB013",
+      "98SB013T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB013T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB013T1-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Нанесите бойцу 3 ед. урона и даруйте союзнику здоровье в том же количестве.\r\nСоздайте с своей колоде <link=card.level1><style=AssociatedCard>Дух цветения Эвелинн</style></link>.",
+    "descriptionRaw": "Нанесите бойцу 3 ед. урона и даруйте союзнику здоровье в том же количестве.\r\nСоздайте с своей колоде Дух цветения Эвелинн.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Пожирательница скорби будет держать вас близко, а врагов еще ближе.",
+    "artistName": "Envar Studio",
+    "name": "Объятия духа Эвелинн",
+    "cardCode": "98SB013T1",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB013",
+      "98SB013T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB013T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB013T2-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения",
+      "Рунтерра"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Runeterra"
+    ],
+    "attack": 2,
+    "cost": 4,
+    "health": 5,
+    "description": "Когда я <link=keyword.Challenger><sprite name=Challenger><style=Keyword>выбираю противником</style></link> врага, у которого меньше здоровья, чем у меня, выведите меня из боя, <link=vocab.Charm><style=Vocab>очаруйте</style></link> врага и заставьте его атаковать.\r\n<link=vocab.Stolen><style=Vocab>Похищенные</style></link> союзники получают 4 <link=keyword.Impact><sprite name=Impact><style=Keyword>Тарана</style></link>.",
+    "descriptionRaw": "Когда я выбираю противником врага, у которого меньше здоровья, чем у меня, выведите меня из боя, очаруйте врага и заставьте его атаковать.\r\nПохищенные союзники получают 4 Тарана.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Избавься от этих неприятных чувств!\"",
+    "artistName": "Envar Studio",
+    "name": "Пожирательница скорби",
+    "cardCode": "98SB013T2",
+    "keywords": [
+      "Выбор противника",
+      "Missing Translation"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "AuraVisualFakeKeyword"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB001-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Stolen><style=Vocab>Похищенные</style></link> союзники получают +1|+1.\r\n<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Эфемерные</style></link> союзники получают +1|+1.",
+    "descriptionRaw": "Похищенные союзники получают +1|+1.\r\nЭфемерные союзники получают +1|+1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Никакое это не воровство! Это, э-эм... освобождение\".",
+    "artistName": "Envar Studio",
+    "name": "Теневой мошенник",
+    "cardCode": "98SB001",
+    "keywords": [
+      "Missing Translation",
+      "Изворотливость"
+    ],
+    "keywordRefs": [
+      "AuraVisualFakeKeyword",
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКОЕ",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB007-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Мило, не правда ли?\" – Дух лисы",
+    "artistName": "Envar Studio",
+    "name": "Лисий огонь",
+    "cardCode": "98SB007",
+    "keywords": [
+      "Эфемерность"
+    ],
+    "keywordRefs": [
+      "Ephemeral"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB014-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Нанесите бойцу 3 ед. урона и даруйте союзнику здоровье в том же количестве.",
+    "descriptionRaw": "Нанесите бойцу 3 ед. урона и даруйте союзнику здоровье в том же количестве.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Пожирательница скорби будет держать вас близко, а врагов еще ближе.",
+    "artistName": "Envar Studio",
+    "name": "Объятия духа",
+    "cardCode": "98SB014",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB031T2",
+      "98SB031T1",
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB031-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения",
+      "Бандл Сити"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "BandleCity"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: прикрепите 3 карты <link=card.trap><style=AssociatedCard>Ядовитых грибов</style></link> среди 5 верхних карт в колоде противника.\r\nКогда противник вытягивает карту-ловушку, нанесите 1 ед. урона всем врагам.",
+    "descriptionRaw": "Разыгрывая карту: прикрепите 3 карты Ядовитых грибов среди 5 верхних карт в колоде противника.\r\nКогда противник вытягивает карту-ловушку, нанесите 1 ед. урона всем врагам.",
+    "levelupDescription": "Противник вытянул 5 карт с ловушками. <style=Variable></style>",
+    "levelupDescriptionRaw": "Противник вытянул 5 карт с ловушками. ",
+    "flavorText": "\"А я всегда повторяю: подарки приятнее всего дарить.\"",
+    "artistName": "CARAVAN",
+    "name": "Дух цветения Тимо",
+    "cardCode": "98SB031",
+    "keywords": [
+      "Изворотливость"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtypes": [
+      "ЙОРДЛ"
+    ],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB031",
+      "98SB031T2",
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB031T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB031T1-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Сбросьте карту, чтобы нанести 4 ед. урона врагу и прикрепить 4 <link=card.trap><style=AssociatedCard>Ядовитых гриба</style></link> на его копии во вражескую колоду.\r\nСоздайте в своей колоде карту <link=card.level1><style=AssociatedCard>Дух цветения Тимо</style></link>.",
+    "descriptionRaw": "Сбросьте карту, чтобы нанести 4 ед. урона врагу и прикрепить 4 Ядовитых гриба на его копии во вражескую колоду.\r\nСоздайте в своей колоде карту Дух цветения Тимо.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Эта шалость – его главный труд. Она навсегда останется в истории как \"Ночь тысячи грибов\".",
+    "artistName": "Kudos Productions",
+    "name": "Грибной взрыв Тимо!",
+    "cardCode": "98SB031T1",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB031",
+      "98SB031T1",
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB031T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB031T2-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения",
+      "Бандл Сити"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "BandleCity"
+    ],
+    "attack": 4,
+    "cost": 3,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link> или <link=vocab.NexusStrike><style=Vocab>Удар по нексусу</style></link>: прикрепите 3 карты <link=card.trap><style=AssociatedCard>Ядовитых грибов</style></link> среди 5 верхних карт в колоде противника.\r\nКогда противник вытягивает карту-ловушку, нанесите 3 ед. урона всем врагам.",
+    "descriptionRaw": "Разыгрывая карту или Удар по нексусу: прикрепите 3 карты Ядовитых грибов среди 5 верхних карт в колоде противника.\r\nКогда противник вытягивает карту-ловушку, нанесите 3 ед. урона всем врагам.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Шучу, шучу! Настоящий подарок – это все шалости, которые нам довелось устроить!\"",
+    "artistName": "CARAVAN",
+    "name": "Царь шутников",
+    "cardCode": "98SB031T2",
+    "keywords": [
+      "Изворотливость"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtypes": [
+      "ЙОРДЛ"
+    ],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB008-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Даруйте <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>эфемерным</style></link> союзникам <link=vocab.Everywhere><style=Vocab>везде</style></link> +1|+1.",
+    "descriptionRaw": "Даруйте эфемерным союзникам везде +1|+1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Н-никогда не забывайте кормить лис!\" – Мо Тсуй, недавно усопший",
+    "artistName": "Envar Studio",
+    "name": "Последнее благословение",
+    "cardCode": "98SB008",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB016-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: обменяйте меня на вражеского сторонника, у которого меньше здоровья, чем у меня.\r\n<link=vocab.RoundEnd><style=Vocab>Конец раунда</style></link>: нанесите 1 ед. урона всем союзникам.",
+    "descriptionRaw": "Разыгрывая карту: обменяйте меня на вражеского сторонника, у которого меньше здоровья, чем у меня.\r\nКонец раунда: нанесите 1 ед. урона всем союзникам.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Горе всегда где-то рядом... и всегда найдутся те, кто охотно ему предастся.",
+    "artistName": "Envar Studio",
+    "name": "Оккультный оппортунист",
+    "cardCode": "98SB016",
+    "keywords": [
+      "Неподвижность"
+    ],
+    "keywordRefs": [
+      "Immobile"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB011-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 2,
+    "health": 4,
+    "description": "Призвав меня, призовите карту <link=card.summon><style=AssociatedCard>Лисий огонь</style></link>.\r\nКогда погибает другой союзник, даруйте мне +1|+0.",
+    "descriptionRaw": "Призвав меня, призовите карту Лисий огонь.\r\nКогда погибает другой союзник, даруйте мне +1|+0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Некоторые духи, сбившиеся с пути, так и не находят обратной дороги.",
+    "artistName": "Envar Studio",
+    "name": "Похитительница эссенции",
+    "cardCode": "98SB011",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007",
+      "98SB020T1",
+      "98SB020T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB020-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения",
+      "Иония"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Ionia"
+    ],
+    "attack": 1,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Attack><style=Vocab>Атака</style></link>: призовите атакующего бойца <link=card.summon><style=AssociatedCard>Лисий огонь</style></link> с параметрами, равными стоимости самого дорогого заклинания, разыгранного вами в этой игре.",
+    "descriptionRaw": "Атака: призовите атакующего бойца Лисий огонь с параметрами, равными стоимости самого дорогого заклинания, разыгранного вами в этой игре.",
+    "levelupDescription": "<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Эфемерные</style></link> союзники нанесли 25+ ед. урона. <style=Variable></style>",
+    "levelupDescriptionRaw": "Эфемерные союзники нанесли 25+ ед. урона. ",
+    "flavorText": "Ну, раз уж я здесь, можно и повеселиться. Кто хочет от души поиграть в догонялки?",
+    "artistName": "Envar Studio",
+    "name": "Дух цветения Ари",
+    "cardCode": "98SB020",
+    "keywords": [
+      "Изворотливость"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB020",
+      "98SB020T1",
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB020T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB020T2-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения",
+      "Иония"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Ionia"
+    ],
+    "attack": 2,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=vocab.Attack><style=Vocab>Атака</style></link>: призовите атакующего бойца <link=card.summon><style=AssociatedCard>Лисий огонь</style></link> с параметрами, равными стоимости самого дорогого заклинания, разыгранного вами в этой игре.\r\nКогда атакуют вас, призовите его на защиту.",
+    "descriptionRaw": "Атака: призовите атакующего бойца Лисий огонь с параметрами, равными стоимости самого дорогого заклинания, разыгранного вами в этой игре.\r\nКогда атакуют вас, призовите его на защиту.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Хитрость и жестокость Духа лисы накажут тех, кто перейдет ей дорогу.",
+    "artistName": "Envar Studio",
+    "name": "Дух лисы",
+    "cardCode": "98SB020T2",
+    "keywords": [
+      "Изворотливость"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB020",
+      "98SB020T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB020T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB020T1-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Нанесите 2 ед. урона вражескому бойцу или потратьте 4 ед. маны, чтобы нанести ему 6 ед. урона.\r\nСоздайте в своей колоде карту <link=card.level1><style=AssociatedCard>Дух цветения Ари</style></link>.",
+    "descriptionRaw": "Нанесите 2 ед. урона вражескому бойцу или потратьте 4 ед. маны, чтобы нанести ему 6 ед. урона.\r\nСоздайте в своей колоде карту Дух цветения Ари.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Древние духи собираются и кружатся, очарованные волей Привратницы.",
+    "artistName": "Envar Studio",
+    "name": "Сфера обмана Ари",
+    "cardCode": "98SB020T1",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB020",
+      "98SB020T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB020T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB020T4-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Нанесите 6 ед. урона вражескому бойцу. \r\nСоздайте в своей колоде карту <link=card.level1><style=AssociatedCard>Дух цветения Ари</style></link>.",
+    "descriptionRaw": "Нанесите 6 ед. урона вражескому бойцу. \r\nСоздайте в своей колоде карту Дух цветения Ари.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Древние духи собираются и кружатся, очарованные волей Привратницы.",
+    "artistName": "Envar Studio",
+    "name": "Сфера обмана Ари",
+    "cardCode": "98SB020T4",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB020",
+      "98SB020T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB020T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB020T3-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Нанесите 2 ед. урона вражескому бойцу.\r\nСоздайте в своей колоде карту <link=card.level1><style=AssociatedCard>Дух цветения Ари</style></link>.",
+    "descriptionRaw": "Нанесите 2 ед. урона вражескому бойцу.\r\nСоздайте в своей колоде карту Дух цветения Ари.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Древние духи собираются и кружатся, очарованные волей Привратницы.",
+    "artistName": "Envar Studio",
+    "name": "Сфера обмана Ари",
+    "cardCode": "98SB020T3",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB012-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Призовите карту <link=card.summon><style=AssociatedCard>Лисий огонь</style></link> с показателями 3|3, которая <link=keyword.Challenger><sprite name=Challenger><style=Keyword>выбирает противником</style></link> врага, или потратьте 8 ед. маны, чтобы призвать карту <link=card.summon><style=AssociatedCard>Лисий огонь</style></link> с показателями 1|1, которая <link=keyword.Challenger><sprite name=Challenger><style=Keyword>выбирает противником</style></link> ВСЕХ врагов.",
+    "descriptionRaw": "Призовите карту Лисий огонь с показателями 3|3, которая выбирает противником врага, или потратьте 8 ед. маны, чтобы призвать карту Лисий огонь с показателями 1|1, которая выбирает противником ВСЕХ врагов.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Игра в догонялки – это все, что отделяет жизнь от смерти. ",
+    "artistName": "Envar Studio",
+    "name": "Призрачный рывок",
+    "cardCode": "98SB012",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB004-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту:</style></link> <link=vocab.Foe><style=Vocab>оппонент</style></link> вытягивает 2 карты и сбрасывает 2 карты.",
+    "descriptionRaw": "Разыгрывая карту: оппонент вытягивает 2 карты и сбрасывает 2 карты.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Глупости! Конечно, в тебя влезет вторая добавка, дорогуша\".",
+    "artistName": "Envar Studio",
+    "name": "Бабуля Сыроежка",
+    "cardCode": "98SB004",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ЭПИЧЕСКОЕ",
+    "rarityRef": "Epic",
+    "subtypes": [
+      "ЙОРДЛ"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB017-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: убейте союзника, чтобы <link=vocab.Charm><style=Vocab>очаровать</style></link> вражеского сторонника.",
+    "descriptionRaw": "Разыгрывая карту: убейте союзника, чтобы очаровать вражеского сторонника.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Что может быть пленительнее, чем удачно спланированное жертвоприношение?",
+    "artistName": "Envar Studio",
+    "name": "Избранный проситель",
+    "cardCode": "98SB017",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB006-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Сбросьте карту, чтобы нанести 4 ед. урона врагу и прикрепить 4 <link=card.trap><style=AssociatedCard>Ядовитых гриба</style></link> на его копии во вражескую колоду.",
+    "descriptionRaw": "Сбросьте карту, чтобы нанести 4 ед. урона врагу и прикрепить 4 Ядовитых гриба на его копии во вражескую колоду.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Эта шалость – его главный труд. Она навсегда останется в истории как \"Ночь тысячи грибов\".",
+    "artistName": "Kudos Productions",
+    "name": "Грибной взрыв!",
+    "cardCode": "98SB006",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB018-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>Оглушите</style></link> вражеского сторонника. <link=vocab.Charm><style=Vocab>Очаруйте</style></link> его в <link=vocab.RoundStart><style=Vocab>начале следующего раунда</style></link>.",
+    "descriptionRaw": "Оглушите вражеского сторонника. Очаруйте его в начале следующего раунда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Они не бегут. Они ждут, что их заберут\".",
+    "artistName": " Kudos Productions",
+    "name": "Зачарование",
+    "cardCode": "98SB018",
+    "keywords": [
+      "Быстрое"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Быстрое",
+    "spellSpeedRef": "Fast",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB012T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB012T2-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "Призовите карту <link=card.summon><style=AssociatedCard>Лисий огонь</style></link> с показателями 1|1, которая <link=keyword.Challenger><sprite name=Challenger><style=Keyword>выбирает противником</style></link> ВСЕХ врагов.",
+    "descriptionRaw": "Призовите карту Лисий огонь с показателями 1|1, которая выбирает противником ВСЕХ врагов.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Игра в догонялки – это все, что отделяет жизнь от смерти. ",
+    "artistName": "Envar Studio",
+    "name": "Призрачный рывок",
+    "cardCode": "98SB012T2",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB012T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB012T1-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Призовите карту <link=card.summon><style=AssociatedCard>Лисий огонь</style></link> с показателями 3|3, которая <link=keyword.Challenger><sprite name=Challenger><style=Keyword>выбирает противником</style></link> врага.",
+    "descriptionRaw": "Призовите карту Лисий огонь с показателями 3|3, которая выбирает противником врага.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Игра в догонялки – это все, что отделяет жизнь от смерти. ",
+    "artistName": "Envar Studio",
+    "name": "Призрачный рывок",
+    "cardCode": "98SB012T1",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB019-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Нанесите 2 ед. урона вражескому бойцу или потратьте 4 ед. маны, чтобы нанести ему 6 ед. урона.",
+    "descriptionRaw": "Нанесите 2 ед. урона вражескому бойцу или потратьте 4 ед. маны, чтобы нанести ему 6 ед. урона.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Древние духи собираются и кружатся, очарованные волей Привратницы.",
+    "artistName": "Envar Studio",
+    "name": "Сфера обмана",
+    "cardCode": "98SB019",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB010-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Вытяните 1 карту и даруйте ей случайный обычный предмет или потратьте 3 ед. маны, чтобы вытянуть 1 карту и даровать ей случайный эпический предмет.\r\n",
+    "descriptionRaw": "Вытяните 1 карту и даруйте ей случайный обычный предмет или потратьте 3 ед. маны, чтобы вытянуть 1 карту и даровать ей случайный эпический предмет.\r\n",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "На Празднике цветения каждый лепесток может рассказать целую историю.",
+    "artistName": "Kudos Productions",
+    "name": "Лепестки судьбы",
+    "cardCode": "98SB010",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB002-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 2,
+    "health": 1,
+    "description": "Призвав меня, прикрепите <link=card.trap><style=AssociatedCard>Ядовитый гриб</style></link> к верхней карте вражеской колоды.",
+    "descriptionRaw": "Призвав меня, прикрепите Ядовитый гриб к верхней карте вражеской колоды.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"М-м-м... Нет ничего вкуснее бабулиного аппетитного пирога с грибами\".",
+    "artistName": "Envar Studio",
+    "name": "Ру, Озорной шутник",
+    "cardCode": "98SB002",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ЭПИЧЕСКОЕ",
+    "rarityRef": "Epic",
+    "subtypes": [
+      "ЙОРДЛ"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB010T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB010T2-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Вытяните 1 карту и даруйте ей случайный обычный предмет.\r\n",
+    "descriptionRaw": "Вытяните 1 карту и даруйте ей случайный обычный предмет.\r\n",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "На Празднике цветения каждый лепесток может рассказать целую историю.",
+    "artistName": "Kudos Productions",
+    "name": "Лепестки судьбы",
+    "cardCode": "98SB010T2",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB010T1-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Вытяните 1 карту и даруйте ей случайный эпический предмет.",
+    "descriptionRaw": "Вытяните 1 карту и даруйте ей случайный эпический предмет.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "На Празднике цветения каждый лепесток может рассказать целую историю.",
+    "artistName": "Kudos Productions",
+    "name": "Лепестки судьбы",
+    "cardCode": "98SB010T1",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB019T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB019T2-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Нанесите 6 ед. урона вражескому бойцу.",
+    "descriptionRaw": "Нанесите 6 ед. урона вражескому бойцу.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Древние духи собираются и кружатся, очарованные волей Привратницы.",
+    "artistName": "Envar Studio",
+    "name": "Сфера обмана",
+    "cardCode": "98SB019T2",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB019T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB019T1-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Нанесите 2 ед. урона вражескому бойцу.",
+    "descriptionRaw": "Нанесите 2 ед. урона вражескому бойцу.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Древние духи собираются и кружатся, очарованные волей Привратницы.",
+    "artistName": "Envar Studio",
+    "name": "Сфера обмана",
+    "cardCode": "98SB019T1",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB009-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 2,
+    "cost": 3,
+    "health": 4,
+    "description": "<link=vocab.NexusStrike><style=Vocab>Удар по нексусу</style></link>: восполните свою ману заклинаний.\r\n",
+    "descriptionRaw": "Удар по нексусу: восполните свою ману заклинаний.\r\n",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Один мудрый канмей как-то сказал, что умиротворенной душе легко воспрянуть.",
+    "artistName": "Envar Studio",
+    "name": "Дух спокойствия",
+    "cardCode": "98SB009",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB015-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "<link=vocab.Charm><style=Vocab>Очаруйте</style></link> вражеского сторонника.",
+    "descriptionRaw": "Очаруйте вражеского сторонника.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Говорят, что даже один взгляд на Пожирательницу скорби пробуждает страшную тоску. ",
+    "artistName": "Envar Studio",
+    "name": "Манящий взгляд",
+    "cardCode": "98SB015",
+    "keywords": [
+      "Мгновенное"
+    ],
+    "keywordRefs": [
+      "Focus"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SB003-full.png"
+      }
+    ],
+    "regions": [
+      "Праздник цветения"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Выберите и вытяните 1 из 3 карт (не чемпионов) из руки противника. Противник вытягивает 1 карту.",
+    "descriptionRaw": "Выберите и вытяните 1 из 3 карт (не чемпионов) из руки противника. Противник вытягивает 1 карту.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Глаза завидущие, руки загребущие.",
+    "artistName": "Envar Studio",
+    "name": "Хвать!",
+    "cardCode": "98SB003",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
       "02BW026T2",
       "02BW026T4",
       "02BW026T5"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98BW003-full.png"
       }
     ],
     "regions": [
@@ -50,8 +1532,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98BW004-full.png"
       }
     ],
     "regions": [
@@ -92,8 +1574,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98BW005-full.png"
       }
     ],
     "regions": [
@@ -134,8 +1616,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98BW002-full.png"
       }
     ],
     "regions": [
@@ -176,8 +1658,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98BW006-full.png"
       }
     ],
     "regions": [
@@ -222,8 +1704,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX003-full.png"
       }
     ],
     "regions": [
@@ -269,8 +1751,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX003T2-full.png"
       }
     ],
     "regions": [
@@ -315,8 +1797,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX003T1-full.png"
       }
     ],
     "regions": [
@@ -359,8 +1841,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX007-full.png"
       }
     ],
     "regions": [
@@ -401,8 +1883,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX008-full.png"
       }
     ],
     "regions": [
@@ -439,8 +1921,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX004-full.png"
       }
     ],
     "regions": [
@@ -481,8 +1963,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX006-full.png"
       }
     ],
     "regions": [
@@ -525,8 +2007,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98NX005-full.png"
       }
     ],
     "regions": [
@@ -567,8 +2049,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ007-full.png"
       }
     ],
     "regions": [
@@ -605,8 +2087,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ005-full.png"
       }
     ],
     "regions": [
@@ -651,8 +2133,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ006-full.png"
       }
     ],
     "regions": [
@@ -666,8 +2148,8 @@
     "attack": 3,
     "cost": 3,
     "health": 3,
-    "description": "Ваши заклинания нацеленные на врагов действуют с <link=keyword.SpellOverwhelm><sprite name=Overwhelm><style=Keyword>пробиванием</style></link>.\r\nКогда меня призывают или когда атакуют союзники, создайте в руке карту <link=card.create><style=AssociatedCard>Лучезарный залп</style></link>.",
-    "descriptionRaw": "Ваши заклинания нацеленные на врагов действуют с пробиванием.\r\nКогда меня призывают или когда атакуют союзники, создайте в руке карту Лучезарный залп.",
+    "description": "Ваши заклинания, нацеленные на врагов, действуют с <link=keyword.SpellOverwhelm><sprite name=Overwhelm><style=Keyword>пробиванием</style></link>.\r\nКогда меня призывают или когда атакуют союзники, создайте в руке карту <link=card.create><style=AssociatedCard>Лучезарный залп</style></link>.",
+    "descriptionRaw": "Ваши заклинания, нацеленные на врагов, действуют с пробиванием.\r\nКогда меня призывают или когда атакуют союзники, создайте в руке карту Лучезарный залп.",
     "levelupDescription": "Вы дважды разыграли 3 разных заклинания. <style=Variable></style>",
     "levelupDescriptionRaw": "Вы дважды разыграли 3 разных заклинания. ",
     "flavorText": "\"Теперь я все понимаю. За прогрессом прячется гниение. Мне хотелось верить, что до такого не дойдет... Но на компромисс уже идти нельзя. Как бы там ни было, ответные меры уже приняты\".",
@@ -695,8 +2177,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ006T2-full.png"
       }
     ],
     "regions": [
@@ -740,8 +2222,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ006T3-full.png"
       }
     ],
     "regions": [
@@ -786,8 +2268,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ006T1-full.png"
       }
     ],
     "regions": [
@@ -801,8 +2283,8 @@
     "attack": 4,
     "cost": 3,
     "health": 4,
-    "description": "Ваши заклинания нацеленные на врагов действуют с <link=keyword.SpellOverwhelm><sprite name=Overwhelm><style=Keyword>пробиванием</style></link>.\r\nКогда меня призывают или когда атакуют союзники, создайте в руке 2 карты <link=card.create><style=AssociatedCard>Лучезарные залпы</style></link>.",
-    "descriptionRaw": "Ваши заклинания нацеленные на врагов действуют с пробиванием.\r\nКогда меня призывают или когда атакуют союзники, создайте в руке 2 карты Лучезарные залпы.",
+    "description": "Ваши заклинания, нацеленные на врагов, действуют с <link=keyword.SpellOverwhelm><sprite name=Overwhelm><style=Keyword>пробиванием</style></link>.\r\nКогда меня призывают или когда атакуют союзники, создайте в руке 2 карты <link=card.create><style=AssociatedCard>Лучезарные залпы</style></link>.",
+    "descriptionRaw": "Ваши заклинания, нацеленные на врагов, действуют с пробиванием.\r\nКогда меня призывают или когда атакуют союзники, создайте в руке 2 карты Лучезарные залпы.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Пилтовер или Ноксус. Клан Медарда или маг. Волк или лиса. Они не знают, кто я, но знают, на что я способна\".",
@@ -833,8 +2315,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ001-full.png"
       }
     ],
     "regions": [
@@ -873,8 +2355,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ001T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ001T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ001T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ001T4-full.png"
       }
     ],
     "regions": [
@@ -918,8 +2400,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ001T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ001T2-full.png"
       }
     ],
     "regions": [
@@ -965,8 +2447,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ001T1-full.png"
       }
     ],
     "regions": [
@@ -1007,8 +2489,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ004-full.png"
       }
     ],
     "regions": [
@@ -1051,8 +2533,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ008-full.png"
       }
     ],
     "regions": [
@@ -1093,8 +2575,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98PZ009-full.png"
       }
     ],
     "regions": [
@@ -1135,8 +2617,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SI003-full.png"
       }
     ],
     "regions": [
@@ -1177,8 +2659,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SI002-full.png"
       }
     ],
     "regions": [
@@ -1219,8 +2701,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98SI002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98SI002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SI002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SI002T1-full.png"
       }
     ],
     "regions": [
@@ -1275,8 +2757,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98SI002T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98SI002T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SI002T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SI002T2-full.png"
       }
     ],
     "regions": [
@@ -1331,8 +2813,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU007-full.png"
       }
     ],
     "regions": [
@@ -1375,8 +2857,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU006-full.png"
       }
     ],
     "regions": [
@@ -1419,8 +2901,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU009-full.png"
       }
     ],
     "regions": [
@@ -1463,8 +2945,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU003-full.png"
       }
     ],
     "regions": [
@@ -1505,8 +2987,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU005-full.png"
       }
     ],
     "regions": [
@@ -1553,8 +3035,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU004-full.png"
       }
     ],
     "regions": [
@@ -1595,8 +3077,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU004T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU004T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU004T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU004T3-full.png"
       }
     ],
     "regions": [
@@ -1641,8 +3123,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU004T1-full.png"
       }
     ],
     "regions": [
@@ -1686,8 +3168,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU004T2-full.png"
       }
     ],
     "regions": [
@@ -1728,8 +3210,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU001-full.png"
       }
     ],
     "regions": [
@@ -1770,8 +3252,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU011-full.png"
       }
     ],
     "regions": [
@@ -1826,8 +3308,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU008-full.png"
       }
     ],
     "regions": [
@@ -1870,8 +3352,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98RU010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98RU010-full.png"
       }
     ],
     "regions": [
@@ -1916,8 +3398,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98DE001-full.png"
       }
     ],
     "regions": [
@@ -1958,8 +3440,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98FR003-full.png"
       }
     ],
     "regions": [
@@ -2000,8 +3482,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SH002-full.png"
       }
     ],
     "regions": [
@@ -2061,8 +3543,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98SH001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98SH001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SH001-full.png"
       }
     ],
     "regions": [
@@ -2103,8 +3585,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98SH001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98SH001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SH001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98SH001T1-full.png"
       }
     ],
     "regions": [
@@ -2147,8 +3629,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98BC001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ru_ru/img/cards/98BC001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ru_ru/img/cards/98BC001-full.png"
       }
     ],
     "regions": [
