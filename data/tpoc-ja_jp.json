@@ -2,14 +2,1496 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
+      "98SB013T2",
+      "98SB013T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB013-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り",
+      "ルーンテラ"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Runeterra"
+    ],
+    "attack": 1,
+    "cost": 4,
+    "health": 4,
+    "description": "このユニットが自分より体力が少ない敵1体を<link=keyword.Challenger><sprite name=Challenger><style=Keyword>チャレンジャー</style></link>で指定する時、このユニットを戦闘から除外して、敵に<link=vocab.Charm><style=Vocab>チャーム</style></link>効果を与え、アタック中にする。",
+    "descriptionRaw": "このユニットが自分より体力が少ない敵1体をチャレンジャーで指定する時、このユニットを戦闘から除外して、敵にチャーム効果を与え、アタック中にする。",
+    "levelupDescription": "<link=vocab.Stolen><style=Vocab>盗品</style></link>の味方が4回以上<link=vocab.Strike><style=Vocab>ストライク</style></link>した時<style=Variable></style>。",
+    "levelupDescriptionRaw": "盗品の味方が4回以上ストライクした時。",
+    "flavorText": "苦痛と恐れから解放されるには、悲嘆を喰らう者に祈るがいい。 ",
+    "artistName": "Envar Studio",
+    "name": "精霊の花祭りイブリン",
+    "cardCode": "98SB013",
+    "keywords": [
+      "チャレンジャー"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "チャンピオン",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "チャンピオン",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB013",
+      "98SB013T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB013T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB013T1-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "ユニット1体に3ダメージを与え、味方1体にそれと等しい体力を付与する。\r\nデッキに<link=card.level1><style=AssociatedCard>精霊の花祭りイブリン</style></link>を1枚生成する。",
+    "descriptionRaw": "ユニット1体に3ダメージを与え、味方1体にそれと等しい体力を付与する。\r\nデッキに精霊の花祭りイブリンを1枚生成する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "悲嘆を喰らう者はお前を引き寄せるが、敵をより近くに引き寄せる。",
+    "artistName": "Envar Studio",
+    "name": "イブリンの精霊の抱擁",
+    "cardCode": "98SB013T1",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "なし",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "チャンピオン",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB013",
+      "98SB013T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB013T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB013T2-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り",
+      "ルーンテラ"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Runeterra"
+    ],
+    "attack": 2,
+    "cost": 4,
+    "health": 5,
+    "description": "このユニットが自分より体力が少ない敵1体を<link=keyword.Challenger><sprite name=Challenger><style=Keyword>チャレンジャー</style></link>で指定する時、このユニットを戦闘から除外して、敵に<link=vocab.Charm><style=Vocab>チャーム</style></link>効果を与え、アタック中にする。\r\n<link=vocab.Stolen><style=Vocab>盗品</style></link>の味方は<link=keyword.Impact><sprite name=Impact><style=Keyword>インパクト</style></link>を4つ持つ。",
+    "descriptionRaw": "このユニットが自分より体力が少ない敵1体をチャレンジャーで指定する時、このユニットを戦闘から除外して、敵にチャーム効果を与え、アタック中にする。\r\n盗品の味方はインパクトを4つ持つ。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「煩わしい感情を手放すのよ！」",
+    "artistName": "Envar Studio",
+    "name": "悲嘆を喰らう者",
+    "cardCode": "98SB013T2",
+    "keywords": [
+      "チャレンジャー",
+      "Missing Translation"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "AuraVisualFakeKeyword"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "チャンピオン",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "チャンピオン",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB001-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Stolen><style=Vocab>盗品</style></link>の味方は+1|+1を持つ。\r\n<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>エフェメラル</style></link>の味方は+1|+1を持つ。",
+    "descriptionRaw": "盗品の味方は+1|+1を持つ。\r\nエフェメラルの味方は+1|+1を持つ。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「何も盗んでないよ！えっと…解放しただけさ！」",
+    "artistName": "Envar Studio",
+    "name": "闇のイカサマ師",
+    "cardCode": "98SB001",
+    "keywords": [
+      "Missing Translation",
+      "イルーシブ"
+    ],
+    "keywordRefs": [
+      "AuraVisualFakeKeyword",
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "レア",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB007-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「かわいいわよね」\n- 精霊狐",
+    "artistName": "Envar Studio",
+    "name": "フォックスファイア",
+    "cardCode": "98SB007",
+    "keywords": [
+      "エフェメラル"
+    ],
+    "keywordRefs": [
+      "Ephemeral"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB014-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "ユニット1体に3ダメージを与え、味方1体にそれと等しい体力を付与する。",
+    "descriptionRaw": "ユニット1体に3ダメージを与え、味方1体にそれと等しい体力を付与する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "悲嘆を喰らう者はお前を引き寄せるが、敵をより近くに引き寄せる。",
+    "artistName": "Envar Studio",
+    "name": "精霊の抱擁",
+    "cardCode": "98SB014",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB031T2",
+      "98SB031T1",
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB031-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り",
+      "バンドル<nobr>シティ</nobr>"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "BandleCity"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>プレイ</style></link>: 敵のデッキの上から5枚目までに<link=card.trap><style=AssociatedCard>毒キノコ</style></link>を3個設置する。\r\n相手がトラップを仕掛けられたカードを引く時、すべての敵に1ダメージを与える。",
+    "descriptionRaw": "プレイ: 敵のデッキの上から5枚目までに毒キノコを3個設置する。\r\n相手がトラップを仕掛けられたカードを引く時、すべての敵に1ダメージを与える。",
+    "levelupDescription": "相手がトラップが仕掛けられたカードを5枚引いた時<style=Variable></style>。",
+    "levelupDescriptionRaw": "相手がトラップが仕掛けられたカードを5枚引いた時。",
+    "flavorText": "「プレゼントの本当の喜びは贈ることにあるんだ」",
+    "artistName": "CARAVAN",
+    "name": "精霊の花祭りティーモ",
+    "cardCode": "98SB031",
+    "keywords": [
+      "イルーシブ"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "チャンピオン",
+    "rarityRef": "Champion",
+    "subtypes": [
+      "ヨードル"
+    ],
+    "supertype": "チャンピオン",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB031",
+      "98SB031T2",
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB031T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB031T1-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "カードを1枚破棄して敵1体に4ダメージを与え、相手のデッキ内のそのコピーに<link=card.trap><style=AssociatedCard>毒キノコ</style></link>を4個設置する。デッキに<link=card.level1><style=AssociatedCard>精霊の花祭りティーモ</style></link>を1枚生成する。",
+    "descriptionRaw": "カードを1枚破棄して敵1体に4ダメージを与え、相手のデッキ内のそのコピーに毒キノコを4個設置する。デッキに精霊の花祭りティーモを1枚生成する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "このいたずらは彼の最高傑作となり、永遠に「1,000個のキノコの夜」として知られるのであった。",
+    "artistName": "Kudos Productions",
+    "name": "ティーモの爆発キノコ！",
+    "cardCode": "98SB031T1",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "なし",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "チャンピオン",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB031",
+      "98SB031T1",
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB031T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB031T2-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り",
+      "バンドル<nobr>シティ</nobr>"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "BandleCity"
+    ],
+    "attack": 4,
+    "cost": 3,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>プレイ</style></link>または<link=vocab.NexusStrike><style=Vocab>ネクサスストライク</style></link>: 敵のデッキの上から5枚目までに<link=card.trap><style=AssociatedCard>毒キノコ</style></link>を3個設置する。\r\n相手がトラップを仕掛けられたカードを引く時、すべての敵に3ダメージを与える。",
+    "descriptionRaw": "プレイまたはネクサスストライク: 敵のデッキの上から5枚目までに毒キノコを3個設置する。\r\n相手がトラップを仕掛けられたカードを引く時、すべての敵に3ダメージを与える。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「冗談だって！本当のプレゼントは今までにやってきたいたずらさ！」",
+    "artistName": "CARAVAN",
+    "name": "悪戯の王",
+    "cardCode": "98SB031T2",
+    "keywords": [
+      "イルーシブ"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "チャンピオン",
+    "rarityRef": "Champion",
+    "subtypes": [
+      "ヨードル"
+    ],
+    "supertype": "チャンピオン",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB008-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "<link=vocab.Everywhere><style=Vocab>あらゆる場所</style></link>にいる<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>エフェメラル</style></link>の味方に+1|+1を付与する。",
+    "descriptionRaw": "あらゆる場所にいるエフェメラルの味方に+1|+1を付与する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「ぜ、絶対に狐に餌をやるのを忘れるでないぞ！」\n- 最近死したモー・ツイ",
+    "artistName": "Envar Studio",
+    "name": "最後の祝福",
+    "cardCode": "98SB008",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB016-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>プレイ</style></link>: このユニットと、それより体力が少ない敵のフォロワー1体を交換する。\r\n<link=vocab.RoundEnd><style=Vocab>ラウンド終了時</style></link>: すべての味方に1ダメージを与える。",
+    "descriptionRaw": "プレイ: このユニットと、それより体力が少ない敵のフォロワー1体を交換する。\r\nラウンド終了時: すべての味方に1ダメージを与える。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "悲しみは不変のものであり…それに身を委ねることで慰めを見出す者もいる。",
+    "artistName": "Envar Studio",
+    "name": "秘術を漁る者",
+    "cardCode": "98SB016",
+    "keywords": [
+      "行動不可"
+    ],
+    "keywordRefs": [
+      "Immobile"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "なし",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB011-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 2,
+    "health": 4,
+    "description": "召喚時、<link=card.summon><style=AssociatedCard>フォックスファイア</style></link>を1体召喚する。\r\n他の味方が力尽きた時、このユニットに+1|+0を付与する。",
+    "descriptionRaw": "召喚時、フォックスファイアを1体召喚する。\r\n他の味方が力尽きた時、このユニットに+1|+0を付与する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "道を踏み外す魂の中には、戻れなくなるものもある。",
+    "artistName": "Envar Studio",
+    "name": "生気吸引",
+    "cardCode": "98SB011",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007",
+      "98SB020T1",
+      "98SB020T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB020-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り",
+      "アイオニア"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Ionia"
+    ],
+    "attack": 1,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Attack><style=Vocab>アタック</style></link>: このゲーム中にプレイしたコストが最も高いスペルのコストに等しいステータスを持つ、アタック中の<link=card.summon><style=AssociatedCard>フォックスファイア</style></link>を召喚する。",
+    "descriptionRaw": "アタック: このゲーム中にプレイしたコストが最も高いスペルのコストに等しいステータスを持つ、アタック中のフォックスファイアを召喚する。",
+    "levelupDescription": "<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>エフェメラル</style></link>の味方が25以上のダメージを与えた時<style=Variable></style>。",
+    "levelupDescriptionRaw": "エフェメラルの味方が25以上のダメージを与えた時。",
+    "flavorText": "ここにいるんだから、楽しまないとね。スリリングな追いかけっこに付き合いたい人はいるかしら？",
+    "artistName": "Envar Studio",
+    "name": "精霊の花祭りアーリ",
+    "cardCode": "98SB020",
+    "keywords": [
+      "イルーシブ"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "チャンピオン",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "チャンピオン",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB020",
+      "98SB020T1",
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB020T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB020T2-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り",
+      "アイオニア"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Ionia"
+    ],
+    "attack": 2,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=vocab.Attack><style=Vocab>アタック</style></link>: このゲーム中にプレイしたコストが最も高いスペルのコストに等しいステータスを持つ、アタック中の<link=card.summon><style=AssociatedCard>フォックスファイア</style></link>を召喚する。\r\nアタックされる時、ブロックするために1体召喚する。",
+    "descriptionRaw": "アタック: このゲーム中にプレイしたコストが最も高いスペルのコストに等しいステータスを持つ、アタック中のフォックスファイアを召喚する。\r\nアタックされる時、ブロックするために1体召喚する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "精霊狐は残酷であると同時に気まぐれでもあり、その謎めいた行いは、彼女の邪魔をする者に永遠の傷跡を残す。",
+    "artistName": "Envar Studio",
+    "name": "精霊狐",
+    "cardCode": "98SB020T2",
+    "keywords": [
+      "イルーシブ"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "チャンピオン",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB020",
+      "98SB020T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB020T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB020T1-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "敵ユニット1体に2ダメージを与える、または4マナを使用して敵ユニット1体に6ダメージを与える。\r\nデッキに<link=card.level1><style=AssociatedCard>精霊の花祭りアーリ</style></link>を1枚生成する。",
+    "descriptionRaw": "敵ユニット1体に2ダメージを与える、または4マナを使用して敵ユニット1体に6ダメージを与える。\r\nデッキに精霊の花祭りアーリを1枚生成する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "門番の意志に導かれ、古の霊魂たちは集い、調和して螺旋を舞う。",
+    "artistName": "Envar Studio",
+    "name": "アーリの幻惑のオーブ",
+    "cardCode": "98SB020T1",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "チャンピオン",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB020",
+      "98SB020T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB020T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB020T4-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "敵ユニット1体に6ダメージを与える。 \r\nデッキに<link=card.level1><style=AssociatedCard>精霊の花祭りアーリ</style></link>を1枚生成する。",
+    "descriptionRaw": "敵ユニット1体に6ダメージを与える。 \r\nデッキに精霊の花祭りアーリを1枚生成する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "門番の意志に導かれ、古の霊魂たちは集い、調和して螺旋を舞う。",
+    "artistName": "Envar Studio",
+    "name": "アーリの幻惑のオーブ",
+    "cardCode": "98SB020T4",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "チャンピオン",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB020",
+      "98SB020T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB020T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB020T3-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "敵ユニット1体に2ダメージを与える。\r\nデッキに<link=card.level1><style=AssociatedCard>精霊の花祭りアーリ</style></link>を1枚生成する。",
+    "descriptionRaw": "敵ユニット1体に2ダメージを与える。\r\nデッキに精霊の花祭りアーリを1枚生成する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "門番の意志に導かれ、古の霊魂たちは集い、調和して螺旋を舞う。",
+    "artistName": "Envar Studio",
+    "name": "アーリの幻惑のオーブ",
+    "cardCode": "98SB020T3",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "チャンピオン",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB012-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "3|3の<link=card.summon><style=AssociatedCard>フォックスファイア</style></link>を1体召喚し、<link=keyword.Challenger><sprite name=Challenger><style=Keyword>チャレンジャー</style></link>で敵1体を指定する。または、8マナを使用して1|1の<link=card.summon><style=AssociatedCard>フォックスファイア</style></link>を召喚し、<link=keyword.Challenger><sprite name=Challenger><style=Keyword>チャレンジャー</style></link>でそれぞれの敵を指定する。",
+    "descriptionRaw": "3|3のフォックスファイアを1体召喚し、チャレンジャーで敵1体を指定する。または、8マナを使用して1|1のフォックスファイアを召喚し、チャレンジャーでそれぞれの敵を指定する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "生き残りは、追跡にかかっている。 ",
+    "artistName": "Envar Studio",
+    "name": "スピリットラッシュ",
+    "cardCode": "98SB012",
+    "keywords": [
+      "スロウ"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "スロウ",
+    "spellSpeedRef": "Slow",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB004-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>プレイ</style></link>: <link=vocab.Foe><style=Vocab>エネミー</style></link>がカードを2枚引き、2枚破棄する。",
+    "descriptionRaw": "プレイ: エネミーがカードを2枚引き、2枚破棄する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「まさか！まだまだ食べれるよね」",
+    "artistName": "Envar Studio",
+    "name": "エノキばあさん",
+    "cardCode": "98SB004",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "エピック",
+    "rarityRef": "Epic",
+    "subtypes": [
+      "ヨードル"
+    ],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB017-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>プレイ</style></link>: 味方1体をキルして、敵のフォロワー1体に<link=vocab.Charm><style=Vocab>チャーム</style></link>効果を与える。",
+    "descriptionRaw": "プレイ: 味方1体をキルして、敵のフォロワー1体にチャーム効果を与える。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "タイミングの良い犠牲…これ以上に魅惑的なものがあるだろうか？",
+    "artistName": "Envar Studio",
+    "name": "宿命の懇願者",
+    "cardCode": "98SB017",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "なし",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB006-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "カードを1枚破棄して敵1体に4ダメージを与え、相手のデッキ内のそのコピーに<link=card.trap><style=AssociatedCard>毒キノコ</style></link>を4個設置する。",
+    "descriptionRaw": "カードを1枚破棄して敵1体に4ダメージを与え、相手のデッキ内のそのコピーに毒キノコを4個設置する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "このいたずらは彼の最高傑作となり、永遠に「1,000個のキノコの夜」として知られるのであった。",
+    "artistName": "Kudos Productions",
+    "name": "爆発キノコ！",
+    "cardCode": "98SB006",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB018-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "敵のフォロワー1体を<link=keyword.Stun><sprite name=Stunned><style=Keyword>スタン</style></link>させる。次の<link=vocab.RoundStart><style=Vocab>ラウンド開始時</style></link>にそれに<link=vocab.Charm><style=Vocab>チャーム</style></link>効果を与える。",
+    "descriptionRaw": "敵のフォロワー1体をスタンさせる。次のラウンド開始時にそれにチャーム効果を与える。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「彼らは逃げない。連れていかれるのを待っているのだ」",
+    "artistName": " Kudos Productions",
+    "name": "魅了",
+    "cardCode": "98SB018",
+    "keywords": [
+      "ファスト"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "ファスト",
+    "spellSpeedRef": "Fast",
+    "rarity": "なし",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB012T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB012T2-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "1|1の<link=card.summon><style=AssociatedCard>フォックスファイア</style></link>を召喚し、<link=keyword.Challenger><sprite name=Challenger><style=Keyword>チャレンジャー</style></link>でそれぞれの敵を指定する。",
+    "descriptionRaw": "1|1のフォックスファイアを召喚し、チャレンジャーでそれぞれの敵を指定する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "生き残りは、追跡にかかっている。 ",
+    "artistName": "Envar Studio",
+    "name": "スピリットラッシュ",
+    "cardCode": "98SB012T2",
+    "keywords": [
+      "スロウ"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "スロウ",
+    "spellSpeedRef": "Slow",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB012T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB012T1-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "3|3の<link=card.summon><style=AssociatedCard>フォックスファイア</style></link>を1体召喚し、敵1体を<link=keyword.Challenger><sprite name=Challenger><style=Keyword>チャレンジャー</style></link>で指定する。",
+    "descriptionRaw": "3|3のフォックスファイアを1体召喚し、敵1体をチャレンジャーで指定する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "生き残りは、追跡にかかっている。 ",
+    "artistName": "Envar Studio",
+    "name": "スピリットラッシュ",
+    "cardCode": "98SB012T1",
+    "keywords": [
+      "スロウ"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "スロウ",
+    "spellSpeedRef": "Slow",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB019-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "敵ユニット1体に2ダメージを与える、または4マナを使用して敵ユニット1体に6ダメージを与える。",
+    "descriptionRaw": "敵ユニット1体に2ダメージを与える、または4マナを使用して敵ユニット1体に6ダメージを与える。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "門番の意志に導かれ、古の霊魂たちは集い、調和して螺旋を舞う。",
+    "artistName": "Envar Studio",
+    "name": "幻惑のオーブ",
+    "cardCode": "98SB019",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB010-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "カードを1枚引き、それにランダムなコモンアイテムを1つ付与する。または3マナを使用してカードを1枚引き、それにランダムなエピックアイテムを1つ付与する。",
+    "descriptionRaw": "カードを1枚引き、それにランダムなコモンアイテムを1つ付与する。または3マナを使用してカードを1枚引き、それにランダムなエピックアイテムを1つ付与する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "精霊の花が咲き誇るとき、それぞれの花弁は物語を語る。",
+    "artistName": "Kudos Productions",
+    "name": "運命の花弁",
+    "cardCode": "98SB010",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB002-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 2,
+    "health": 1,
+    "description": "召喚時、敵のデッキの一番上のカードに<link=card.trap><style=AssociatedCard>毒キノコ</style></link>を1個設置する。",
+    "descriptionRaw": "召喚時、敵のデッキの一番上のカードに毒キノコを1個設置する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「モグモグ…やっぱりおばあちゃんのキノコパイは最高だなぁ」",
+    "artistName": "Envar Studio",
+    "name": "陽気な悪戯者 ルー",
+    "cardCode": "98SB002",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "エピック",
+    "rarityRef": "Epic",
+    "subtypes": [
+      "ヨードル"
+    ],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB010T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB010T2-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "カードを1枚引き、それにランダムなコモンアイテムを1つ付与する。\r\n",
+    "descriptionRaw": "カードを1枚引き、それにランダムなコモンアイテムを1つ付与する。\r\n",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "精霊の花が咲き誇るとき、それぞれの花弁は物語を語る。",
+    "artistName": "Kudos Productions",
+    "name": "運命の花弁",
+    "cardCode": "98SB010T2",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB010T1-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "カードを1枚引き、それにランダムなエピックアイテムを1つ付与する。",
+    "descriptionRaw": "カードを1枚引き、それにランダムなエピックアイテムを1つ付与する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "精霊の花が咲き誇るとき、それぞれの花弁は物語を語る。",
+    "artistName": "Kudos Productions",
+    "name": "運命の花弁",
+    "cardCode": "98SB010T1",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB019T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB019T2-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "敵ユニット1体に6ダメージを与える。",
+    "descriptionRaw": "敵ユニット1体に6ダメージを与える。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "門番の意志に導かれ、古の霊魂たちは集い、調和して螺旋を舞う。",
+    "artistName": "Envar Studio",
+    "name": "幻惑のオーブ",
+    "cardCode": "98SB019T2",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB019T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB019T1-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "敵ユニット1体に2ダメージを与える。",
+    "descriptionRaw": "敵ユニット1体に2ダメージを与える。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "門番の意志に導かれ、古の霊魂たちは集い、調和して螺旋を舞う。",
+    "artistName": "Envar Studio",
+    "name": "幻惑のオーブ",
+    "cardCode": "98SB019T1",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB009-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 2,
+    "cost": 3,
+    "health": 4,
+    "description": "<link=vocab.NexusStrike><style=Vocab>ネクサスストライク</style></link>: スペルマナを全回復する。\r\n",
+    "descriptionRaw": "ネクサスストライク: スペルマナを全回復する。\r\n",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "賢明なカンメイはかつてこう言った。「平穏な魂は速やかに再生する」",
+    "artistName": "Envar Studio",
+    "name": "穏やかな魂",
+    "cardCode": "98SB009",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB015-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "敵のフォロワー1体に<link=vocab.Charm><style=Vocab>チャーム</style></link>効果を与える。",
+    "descriptionRaw": "敵のフォロワー1体にチャーム効果を与える。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "悲嘆を喰らう者を一目見るだけで、恐ろしい渇望が目覚めると言われている。 ",
+    "artistName": "Envar Studio",
+    "name": "誘いの眼差し",
+    "cardCode": "98SB015",
+    "keywords": [
+      "フォーカス"
+    ],
+    "keywordRefs": [
+      "Focus"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "なし",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SB003-full.png"
+      }
+    ],
+    "regions": [
+      "精霊の花祭り"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "敵の手札から、チャンピオン以外の3枚カードのうち1枚を選んで引く。相手は1枚引く。",
+    "descriptionRaw": "敵の手札から、チャンピオン以外の3枚カードのうち1枚を選んで引く。相手は1枚引く。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "素早く盗む。",
+    "artistName": "Envar Studio",
+    "name": "バチコーン！",
+    "cardCode": "98SB003",
+    "keywords": [
+      "バースト"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "バースト",
+    "spellSpeedRef": "Burst",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
       "02BW026T2",
       "02BW026T4",
       "02BW026T5"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98BW003-full.png"
       }
     ],
     "regions": [
@@ -50,8 +1532,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98BW004-full.png"
       }
     ],
     "regions": [
@@ -92,8 +1574,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98BW005-full.png"
       }
     ],
     "regions": [
@@ -134,8 +1616,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98BW002-full.png"
       }
     ],
     "regions": [
@@ -176,8 +1658,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98BW006-full.png"
       }
     ],
     "regions": [
@@ -222,8 +1704,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX003-full.png"
       }
     ],
     "regions": [
@@ -269,8 +1751,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX003T2-full.png"
       }
     ],
     "regions": [
@@ -315,8 +1797,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX003T1-full.png"
       }
     ],
     "regions": [
@@ -359,8 +1841,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX007-full.png"
       }
     ],
     "regions": [
@@ -401,8 +1883,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX008-full.png"
       }
     ],
     "regions": [
@@ -439,8 +1921,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX004-full.png"
       }
     ],
     "regions": [
@@ -481,8 +1963,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX006-full.png"
       }
     ],
     "regions": [
@@ -525,8 +2007,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98NX005-full.png"
       }
     ],
     "regions": [
@@ -567,8 +2049,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ007-full.png"
       }
     ],
     "regions": [
@@ -584,7 +2066,7 @@
     "descriptionRaw": "プレイ: 手札にあるスペルとまったく同じコピーを1枚生成する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「相手の無知を利用するのだ。最も巧妙な欺瞞は、最も鋭敏な心さえも騙すことができる」 - 名もなき黒薔薇のメイジ",
+    "flavorText": "「相手の無知を利用するのだ。最も巧妙な欺瞞は、最も鋭敏な心さえも騙すことができる」\n- 名もなき黒薔薇のメイジ",
     "artistName": "Envar Studio",
     "name": "エローラ",
     "cardCode": "98PZ007",
@@ -605,8 +2087,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ005-full.png"
       }
     ],
     "regions": [
@@ -622,7 +2104,7 @@
     "descriptionRaw": "敵ユニット1体にその攻撃力に等しいダメージを与える。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「どうやら黄金律を知らないようだな」 - メル・メダルダ",
+    "flavorText": "「どうやら黄金律を知らないようだな」\n- メル・メダルダ",
     "artistName": "League of Legends",
     "name": "反駁",
     "cardCode": "98PZ005",
@@ -651,8 +2133,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ006-full.png"
       }
     ],
     "regions": [
@@ -668,8 +2150,8 @@
     "health": 3,
     "description": "敵を対象にしているすべてのスペルは<link=keyword.SpellOverwhelm><sprite name=Overwhelm><style=Keyword>オーバーパワー</style></link>を持つ。\r\n召喚時、または味方がアタックする時、手札に<link=card.create><style=AssociatedCard>輝きの連撃</style></link>を1枚生成する。",
     "descriptionRaw": "敵を対象にしているすべてのスペルはオーバーパワーを持つ。\r\n召喚時、または味方がアタックする時、手札に輝きの連撃を1枚生成する。",
-    "levelupDescription": "異なる3枚のスペルを2回プレイした時、<style=Variable></style>。",
-    "levelupDescriptionRaw": "異なる3枚のスペルを2回プレイした時、。",
+    "levelupDescription": "異なる3枚のスペルを2回プレイした時<style=Variable></style>。",
+    "levelupDescriptionRaw": "異なる3枚のスペルを2回プレイした時。",
     "flavorText": "「今になって分かった…進歩の裏に隠された穢れを。ここまでにならないよう願っていたのだが…妥協はもう不可能かもしれない。かまわない。私の対策はすでに実行されている」",
     "artistName": "Envar Studio",
     "name": "メル",
@@ -695,8 +2177,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ006T2-full.png"
       }
     ],
     "regions": [
@@ -712,7 +2194,7 @@
     "descriptionRaw": "ユニット1体に1ダメージを与える。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「先に謝っておく。痛いぞ」 - メル・メダルダ",
+    "flavorText": "「先に謝っておく。痛いぞ」\n- メル・メダルダ",
     "artistName": "League of Legends",
     "name": "輝きの連撃",
     "cardCode": "98PZ006T2",
@@ -740,8 +2222,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ006T3-full.png"
       }
     ],
     "regions": [
@@ -757,7 +2239,7 @@
     "descriptionRaw": "敵ユニット1体にその攻撃力に等しいダメージを与える。\r\nデッキにメルを1体生成する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「どうやら黄金律を知らないようだな」 - メル・メダルダ",
+    "flavorText": "「どうやら黄金律を知らないようだな」\n- メル・メダルダ",
     "artistName": "League of Legends",
     "name": "メルの反駁",
     "cardCode": "98PZ006T3",
@@ -786,8 +2268,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ006T1-full.png"
       }
     ],
     "regions": [
@@ -833,8 +2315,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ001-full.png"
       }
     ],
     "regions": [
@@ -873,8 +2355,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ001T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ001T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ001T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ001T4-full.png"
       }
     ],
     "regions": [
@@ -918,8 +2400,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ001T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ001T2-full.png"
       }
     ],
     "regions": [
@@ -965,8 +2447,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ001T1-full.png"
       }
     ],
     "regions": [
@@ -1007,8 +2489,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ004-full.png"
       }
     ],
     "regions": [
@@ -1051,8 +2533,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ008-full.png"
       }
     ],
     "regions": [
@@ -1068,7 +2550,7 @@
     "descriptionRaw": "ユニット1体または敵のネクサスに1ダメージを与え、それを2回繰り返す。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「私の影響力は広範囲に及び、資源も豊富だ。魔法の力もまた然りだ」 - メル・メダルダ",
+    "flavorText": "「私の影響力は広範囲に及び、資源も豊富だ。魔法の力もまた然りだ」\n- メル・メダルダ",
     "artistName": "League of Legends",
     "name": "陽光の枷",
     "cardCode": "98PZ008",
@@ -1093,8 +2575,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98PZ009-full.png"
       }
     ],
     "regions": [
@@ -1110,7 +2592,7 @@
     "descriptionRaw": "ラストブレス: スペルマナを2回復する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「評議会の要請は果たしたが… なぜ彼らは自分たちの仲間を調査するつもりなんだ？待たなければならない… メダルダ家ならきっとこの欺瞞を見抜くはずだ」 - 名もなきピルトーヴァー人",
+    "flavorText": "「評議会の要請は果たしたが… なぜ彼らは自分たちの仲間を調査するつもりなんだ？待たなければならない…メダルダ家ならきっとこの欺瞞を見抜くはずだ」\n- 名もなきピルトーヴァー人",
     "artistName": "Envar Studio",
     "name": "レスト",
     "cardCode": "98PZ009",
@@ -1135,8 +2617,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SI003-full.png"
       }
     ],
     "regions": [
@@ -1177,8 +2659,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SI002-full.png"
       }
     ],
     "regions": [
@@ -1219,8 +2701,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98SI002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98SI002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SI002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SI002T1-full.png"
       }
     ],
     "regions": [
@@ -1275,8 +2757,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98SI002T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98SI002T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SI002T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SI002T2-full.png"
       }
     ],
     "regions": [
@@ -1331,8 +2813,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU007-full.png"
       }
     ],
     "regions": [
@@ -1375,8 +2857,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU006-full.png"
       }
     ],
     "regions": [
@@ -1419,8 +2901,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU009-full.png"
       }
     ],
     "regions": [
@@ -1463,8 +2945,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU003-full.png"
       }
     ],
     "regions": [
@@ -1505,8 +2987,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU005-full.png"
       }
     ],
     "regions": [
@@ -1553,8 +3035,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU004-full.png"
       }
     ],
     "regions": [
@@ -1595,8 +3077,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU004T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU004T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU004T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU004T3-full.png"
       }
     ],
     "regions": [
@@ -1641,8 +3123,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU004T1-full.png"
       }
     ],
     "regions": [
@@ -1686,8 +3168,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU004T2-full.png"
       }
     ],
     "regions": [
@@ -1728,8 +3210,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU001-full.png"
       }
     ],
     "regions": [
@@ -1770,8 +3252,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU011-full.png"
       }
     ],
     "regions": [
@@ -1826,8 +3308,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU008-full.png"
       }
     ],
     "regions": [
@@ -1870,8 +3352,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98RU010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98RU010-full.png"
       }
     ],
     "regions": [
@@ -1916,8 +3398,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98DE001-full.png"
       }
     ],
     "regions": [
@@ -1958,8 +3440,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98FR003-full.png"
       }
     ],
     "regions": [
@@ -2000,8 +3482,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SH002-full.png"
       }
     ],
     "regions": [
@@ -2061,8 +3543,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98SH001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98SH001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SH001-full.png"
       }
     ],
     "regions": [
@@ -2103,8 +3585,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98SH001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98SH001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SH001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98SH001T1-full.png"
       }
     ],
     "regions": [
@@ -2147,8 +3629,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98BC001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/ja_jp/img/cards/98BC001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/ja_jp/img/cards/98BC001-full.png"
       }
     ],
     "regions": [
