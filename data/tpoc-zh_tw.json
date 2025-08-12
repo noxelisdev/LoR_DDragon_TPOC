@@ -2,14 +2,1496 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
+      "98SB013T2",
+      "98SB013T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB013-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭",
+      "符文大地"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Runeterra"
+    ],
+    "attack": 1,
+    "cost": 4,
+    "health": 4,
+    "description": "此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>生命值較低的敵軍單位時，將此牌從戰鬥中移除，並<link=vocab.Charm><style=Vocab>魅惑</style></link>敵軍單位使其處於攻擊狀態。",
+    "descriptionRaw": "此牌挑戰生命值較低的敵軍單位時，將此牌從戰鬥中移除，並魅惑敵軍單位使其處於攻擊狀態。",
+    "levelupDescription": "<link=vocab.Stolen><style=Vocab>受控</style></link>的友軍單位擁有4次<link=vocab.Strike><style=Vocab>打擊</style></link>。<style=Variable></style>",
+    "levelupDescriptionRaw": "受控的友軍單位擁有4次打擊。",
+    "flavorText": "為了擺脫痛苦與恐懼的困擾，向噬哀者祈禱吧。 ",
+    "artistName": "Envar Studio",
+    "name": "靈花祭 伊芙琳",
+    "cardCode": "98SB013",
+    "keywords": [
+      "挑戰者"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB013",
+      "98SB013T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB013T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB013T1-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "對1個單位造成3點傷害，並賦予1個友軍單位同等生命值。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>靈花祭 伊芙琳</style></link>。",
+    "descriptionRaw": "對1個單位造成3點傷害，並賦予1個友軍單位同等生命值。\r\n在我方牌組生成1張靈花祭 伊芙琳。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "噬哀者會親近你，更會親近你的敵人。",
+    "artistName": "Envar Studio",
+    "name": "伊芙琳的靈魂擁抱",
+    "cardCode": "98SB013T1",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB013",
+      "98SB013T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB013T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB013T2-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭",
+      "符文大地"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Runeterra"
+    ],
+    "attack": 2,
+    "cost": 4,
+    "health": 5,
+    "description": "此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>生命值較低的敵軍單位時，將此牌從戰鬥中移除，並<link=vocab.Charm><style=Vocab>魅惑</style></link>敵軍單位使其處於攻擊狀態。\r\n<link=vocab.Stolen><style=Vocab>受控</style></link>的友軍單位擁有<link=keyword.Impact><sprite name=Impact><style=Keyword>衝擊</style></link>4次。",
+    "descriptionRaw": "此牌挑戰生命值較低的敵軍單位時，將此牌從戰鬥中移除，並魅惑敵軍單位使其處於攻擊狀態。\r\n受控的友軍單位擁有衝擊4次。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「讓你自己從煩擾中解脫吧！」",
+    "artistName": "Envar Studio",
+    "name": "噬哀者",
+    "cardCode": "98SB013T2",
+    "keywords": [
+      "挑戰者",
+      "Missing Translation"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "AuraVisualFakeKeyword"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB001-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Stolen><style=Vocab>受控</style></link>的友軍單位獲得+1|+1。\r\n<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>友軍單位獲得+1|+1。",
+    "descriptionRaw": "受控的友軍單位獲得+1|+1。\r\n閃靈友軍單位獲得+1|+1。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「我什麼都沒偷！呃，我只是把它給……解放了。」",
+    "artistName": "Envar Studio",
+    "name": "蟄影騙徒",
+    "cardCode": "98SB001",
+    "keywords": [
+      "Missing Translation",
+      "隱密"
+    ],
+    "keywordRefs": [
+      "AuraVisualFakeKeyword",
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB007-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「很可愛，不是嗎？」——狐仙",
+    "artistName": "Envar Studio",
+    "name": "魅火",
+    "cardCode": "98SB007",
+    "keywords": [
+      "閃靈"
+    ],
+    "keywordRefs": [
+      "Ephemeral"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB014-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "對1個單位造成3點傷害，並賦予1個友軍單位同等生命值。",
+    "descriptionRaw": "對1個單位造成3點傷害，並賦予1個友軍單位同等生命值。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "噬哀者會親近你，更會親近你的敵人。",
+    "artistName": "Envar Studio",
+    "name": "靈魂擁抱",
+    "cardCode": "98SB014",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB031T2",
+      "98SB031T1",
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB031-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭",
+      "班德爾城"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "BandleCity"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：將3張<link=card.trap><style=AssociatedCard>劇毒膨菇</style></link>植入敵方牌組最上方5張牌中。\r\n對手抽出陷阱牌時，對所有敵方單位造成1點傷害。",
+    "descriptionRaw": "出牌：將3張劇毒膨菇植入敵方牌組最上方5張牌中。\r\n對手抽出陷阱牌時，對所有敵方單位造成1點傷害。",
+    "levelupDescription": "對手抽出5張陷阱牌。<style=Variable></style>",
+    "levelupDescriptionRaw": "對手抽出5張陷阱牌。",
+    "flavorText": "「我一直都覺得禮物最令人開心的部份就是把它送出去。」",
+    "artistName": "CARAVAN",
+    "name": "靈花祭 提摩",
+    "cardCode": "98SB031",
+    "keywords": [
+      "隱密"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtypes": [
+      "約德爾人"
+    ],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB031",
+      "98SB031T2",
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB031T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB031T1-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "棄置1張牌以對敵方造成4點傷害，並在對手牌組植入4張<link=card.trap><style=AssociatedCard>劇毒膨菇</style></link>的複製牌。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>靈花祭 提摩</style></link>。",
+    "descriptionRaw": "棄置1張牌以對敵方造成4點傷害，並在對手牌組植入4張劇毒膨菇的複製牌。\r\n在我方牌組生成1張靈花祭 提摩。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "這場惡作劇會成為他的畢生傑作，將永遠被後世傳為「千菇之夜」。",
+    "artistName": "Kudos Productions",
+    "name": "提摩的蘑菇爆破！",
+    "cardCode": "98SB031T1",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB031",
+      "98SB031T1",
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB031T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB031T2-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭",
+      "班德爾城"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "BandleCity"
+    ],
+    "attack": 4,
+    "cost": 3,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>或<link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>時：將3張<link=card.trap><style=AssociatedCard>劇毒膨菇</style></link>植入敵方牌組最上方5張牌中。\r\n對手抽出陷阱牌時，對所有敵方單位造成3點傷害。",
+    "descriptionRaw": "出牌或打擊主堡時：將3張劇毒膨菇植入敵方牌組最上方5張牌中。\r\n對手抽出陷阱牌時，對所有敵方單位造成3點傷害。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「開玩笑的啦！真正的禮物是我們這一路上的所有惡作劇！」",
+    "artistName": "CARAVAN",
+    "name": "惡作劇之王",
+    "cardCode": "98SB031T2",
+    "keywords": [
+      "隱密"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtypes": [
+      "約德爾人"
+    ],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB008-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "賦予<link=vocab.Everywhere><style=Vocab>各處</style></link>的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>友軍單位+1|+1。",
+    "descriptionRaw": "賦予各處的閃靈友軍單位+1|+1。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「千、千萬別忘記餵狐狸！」——莫翠（近期歿）",
+    "artistName": "Envar Studio",
+    "name": "最後恩典",
+    "cardCode": "98SB008",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB016-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：將1個生命值低於此牌的敵軍侍從單位交換至我方。\r\n<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：對所有友軍單位造成1點傷害。",
+    "descriptionRaw": "出牌：將1個生命值低於此牌的敵軍侍從單位交換至我方。\r\n回合結束：對所有友軍單位造成1點傷害。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "憂傷無所不在……但總是有人甘願沉淪其中。",
+    "artistName": "Envar Studio",
+    "name": "神祕投機分子",
+    "cardCode": "98SB016",
+    "keywords": [
+      "定身"
+    ],
+    "keywordRefs": [
+      "Immobile"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB011-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 2,
+    "health": 4,
+    "description": "召喚此牌時，召喚1張<link=card.summon><style=AssociatedCard>魅火</style></link>。\r\n每有1個其他友軍單位陣亡，賦予此牌+1|+0。",
+    "descriptionRaw": "召喚此牌時，召喚1張魅火。\r\n每有1個其他友軍單位陣亡，賦予此牌+1|+0。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "有些靈魂一走偏就再也回不了正道。",
+    "artistName": "Envar Studio",
+    "name": "銷魂",
+    "cardCode": "98SB011",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007",
+      "98SB020T1",
+      "98SB020T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB020-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭",
+      "愛歐尼亞"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Ionia"
+    ],
+    "attack": 1,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚一張攻擊中的<link=card.summon><style=AssociatedCard>魅火</style></link>，其能力值等同於我方在此牌局中打出魔耗值最高之法術牌的魔耗值。",
+    "descriptionRaw": "攻擊：召喚一張攻擊中的魅火，其能力值等同於我方在此牌局中打出魔耗值最高之法術牌的魔耗值。",
+    "levelupDescription": "<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>友軍單位已造成25點以上傷害。<style=Variable></style>",
+    "levelupDescriptionRaw": "閃靈友軍單位已造成25點以上傷害。",
+    "flavorText": "好，現在我來了，我也要找點樂子。有誰想來場靈魂鬼抓人？",
+    "artistName": "Envar Studio",
+    "name": "靈花祭 阿璃",
+    "cardCode": "98SB020",
+    "keywords": [
+      "隱密"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB020",
+      "98SB020T1",
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB020T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB020T2-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭",
+      "愛歐尼亞"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Ionia"
+    ],
+    "attack": 2,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚一張攻擊中的<link=card.summon><style=AssociatedCard>魅火</style></link>，其能力值等同於我方在此牌局中打出魔耗值最高之法術牌的魔耗值。\r\n我方遭到攻擊時，召喚1張防守。",
+    "descriptionRaw": "攻擊：召喚一張攻擊中的魅火，其能力值等同於我方在此牌局中打出魔耗值最高之法術牌的魔耗值。\r\n我方遭到攻擊時，召喚1張防守。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "狐仙神祕莫測的作風時而戲謔、時而殘酷，總會讓挑戰者留下揮之不去的印象。",
+    "artistName": "Envar Studio",
+    "name": "狐仙",
+    "cardCode": "98SB020T2",
+    "keywords": [
+      "隱密"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB020",
+      "98SB020T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB020T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB020T1-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "對1個敵軍單位造成2點傷害，或消耗4點魔力對1個敵軍單位造成6點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>靈花祭 阿璃</style></link>。",
+    "descriptionRaw": "對1個敵軍單位造成2點傷害，或消耗4點魔力對1個敵軍單位造成6點傷害。\r\n在我方牌組生成1張靈花祭 阿璃。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "遠古的幽靈在守門者的意志驅使下聚集、徘徊。",
+    "artistName": "Envar Studio",
+    "name": "阿璃的幻玉",
+    "cardCode": "98SB020T1",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB020",
+      "98SB020T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB020T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB020T4-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "對1個敵軍單位造成6點傷害。 \r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>靈花祭 阿璃</style></link>。",
+    "descriptionRaw": "對1個敵軍單位造成6點傷害。 \r\n在我方牌組生成1張靈花祭 阿璃。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "遠古的幽靈在守門者的意志驅使下聚集、徘徊。",
+    "artistName": "Envar Studio",
+    "name": "阿璃的幻玉",
+    "cardCode": "98SB020T4",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB020",
+      "98SB020T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB020T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB020T3-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "對1個敵軍單位造成2點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>靈花祭 阿璃</style></link>。",
+    "descriptionRaw": "對1個敵軍單位造成2點傷害。\r\n在我方牌組生成1張靈花祭 阿璃。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "遠古的幽靈在守門者的意志驅使下聚集、徘徊。",
+    "artistName": "Envar Studio",
+    "name": "阿璃的幻玉",
+    "cardCode": "98SB020T3",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB012-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "招喚1張3|3的<link=card.summon><style=AssociatedCard>魅火</style></link><link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>1個敵軍單位，或消耗8點魔力召喚1|1的<nobr><link=card.summon><style=AssociatedCard>魅火</style></link></nobr><link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>每個敵軍單位。",
+    "descriptionRaw": "招喚1張3|3的魅火挑戰1個敵軍單位，或消耗8點魔力召喚1|1的魅火挑戰每個敵軍單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "一場追逐遊戲，就是生死分界。 ",
+    "artistName": "Envar Studio",
+    "name": "飛仙",
+    "cardCode": "98SB012",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB004-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.Foe><style=Vocab>仇敵</style></link>抽2張牌，並棄置2張牌。",
+    "descriptionRaw": "出牌：仇敵抽2張牌，並棄置2張牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「亂講！親愛的，三分之一而已，你當然吃得下。」",
+    "artistName": "Envar Studio",
+    "name": "金針菇奶奶",
+    "cardCode": "98SB004",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtypes": [
+      "約德爾人"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB017-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：擊殺1個友軍單位，以<link=vocab.Charm><style=Vocab>魅惑</style></link>1個敵軍侍從單位。",
+    "descriptionRaw": "出牌：擊殺1個友軍單位，以魅惑1個敵軍侍從單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "有什麼比時機恰到好處的犧牲更迷人？",
+    "artistName": "Envar Studio",
+    "name": "命運祈求者",
+    "cardCode": "98SB017",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB006-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "棄置1張牌以對敵方造成4點傷害，並在對手牌組植入4張<link=card.trap><style=AssociatedCard>劇毒膨菇</style></link>的複製牌。",
+    "descriptionRaw": "棄置1張牌以對敵方造成4點傷害，並在對手牌組植入4張劇毒膨菇的複製牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "這場惡作劇會成為他的畢生傑作，將永遠被後世傳為「千菇之夜」。",
+    "artistName": "Kudos Productions",
+    "name": "蘑菇爆破！",
+    "cardCode": "98SB006",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB018-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍侍從單位，<br>下個<link=vocab.RoundStart><style=Vocab>回合開始</style></link>時，將其<link=vocab.Charm><style=Vocab>魅惑</style></link>。",
+    "descriptionRaw": "擊暈1個敵軍侍從單位，下個回合開始時，將其魅惑。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「他們不會跑。他們想被抓。」",
+    "artistName": " Kudos Productions",
+    "name": "著迷",
+    "cardCode": "98SB018",
+    "keywords": [
+      "快速"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "快速",
+    "spellSpeedRef": "Fast",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB012T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB012T2-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "召喚1|1的<link=card.summon><style=AssociatedCard>魅火</style></link><link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>每個敵軍單位。",
+    "descriptionRaw": "召喚1|1的魅火挑戰每個敵軍單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "一場追逐遊戲，就是生死分界。 ",
+    "artistName": "Envar Studio",
+    "name": "飛仙",
+    "cardCode": "98SB012T2",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB007"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB012T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB012T1-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "招喚1張3|3的<link=card.summon><style=AssociatedCard>魅火</style></link><link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>1個敵軍單位。",
+    "descriptionRaw": "招喚1張3|3的魅火挑戰1個敵軍單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "一場追逐遊戲，就是生死分界。 ",
+    "artistName": "Envar Studio",
+    "name": "飛仙",
+    "cardCode": "98SB012T1",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB019-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "對1個敵軍單位造成2點傷害，或消耗4點魔力對1個敵軍單位造成6點傷害。\r\n",
+    "descriptionRaw": "對1個敵軍單位造成2點傷害，或消耗4點魔力對1個敵軍單位造成6點傷害。\r\n",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "遠古的幽靈在守門者的意志驅使下聚集、徘徊。",
+    "artistName": "Envar Studio",
+    "name": "幻玉",
+    "cardCode": "98SB019",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB010-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "抽1張牌並隨機賦予其1件普通道具，或消耗3點魔力抽1張牌，並隨機賦予該牌1件史詩道具。\r\n",
+    "descriptionRaw": "抽1張牌並隨機賦予其1件普通道具，或消耗3點魔力抽1張牌，並隨機賦予該牌1件史詩道具。\r\n",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "在靈花祭的花海中，每一片花瓣都有故事。",
+    "artistName": "Kudos Productions",
+    "name": "花瓣命數",
+    "cardCode": "98SB010",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01PZ022"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB002-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 2,
+    "health": 1,
+    "description": "召喚此牌時，在敵方牌組最上方的牌中植入1張<link=card.trap><style=AssociatedCard>劇毒膨菇</style></link>。",
+    "descriptionRaw": "召喚此牌時，在敵方牌組最上方的牌中植入1張劇毒膨菇。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「嗯……娜娜的甜菇派真的天下無敵！」",
+    "artistName": "Envar Studio",
+    "name": "魅影搗蛋鬼魯魯",
+    "cardCode": "98SB002",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtypes": [
+      "約德爾人"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB010T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB010T2-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "抽1張牌並隨機賦予其1件普通道具。\r\n",
+    "descriptionRaw": "抽1張牌並隨機賦予其1件普通道具。\r\n",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "在靈花祭的花海中，每一片花瓣都有故事。",
+    "artistName": "Kudos Productions",
+    "name": "花瓣命數",
+    "cardCode": "98SB010T2",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB010T1-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "抽1張牌並隨機賦予其1件史詩道具。",
+    "descriptionRaw": "抽1張牌並隨機賦予其1件史詩道具。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "在靈花祭的花海中，每一片花瓣都有故事。",
+    "artistName": "Kudos Productions",
+    "name": "花瓣命數",
+    "cardCode": "98SB010T1",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB019T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB019T2-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "對1個敵軍單位造成6點傷害。",
+    "descriptionRaw": "對1個敵軍單位造成6點傷害。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "遠古的幽靈在守門者的意志驅使下聚集、徘徊。",
+    "artistName": "Envar Studio",
+    "name": "幻玉",
+    "cardCode": "98SB019T2",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB019T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB019T1-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "對1個敵軍單位造成2點傷害。",
+    "descriptionRaw": "對1個敵軍單位造成2點傷害。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "遠古的幽靈在守門者的意志驅使下聚集、徘徊。",
+    "artistName": "Envar Studio",
+    "name": "幻玉",
+    "cardCode": "98SB019T1",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB009-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 2,
+    "cost": 3,
+    "health": 4,
+    "description": "<link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：恢復我方所有法術魔力。\r\n",
+    "descriptionRaw": "打擊主堡：恢復我方所有法術魔力。\r\n",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "某個睿智的神靈曾說過，平靜安祥的靈魂很容易恢復活力。",
+    "artistName": "Envar Studio",
+    "name": "心平氣和",
+    "cardCode": "98SB009",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB015-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "<link=vocab.Charm><style=Vocab>魅惑</style></link>1個敵軍侍從單位。",
+    "descriptionRaw": "魅惑1個敵軍侍從單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "據說只要瞥見噬哀者一眼，便會喚起揮之不去的恐懼。 ",
+    "artistName": "Envar Studio",
+    "name": "吸魂凝視",
+    "cardCode": "98SB015",
+    "keywords": [
+      "專注"
+    ],
+    "keywordRefs": [
+      "Focus"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SB003-full.png"
+      }
+    ],
+    "regions": [
+      "靈花祭"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "從敵方手牌的非英雄牌中3選1。<br>敵方抽1張牌。",
+    "descriptionRaw": "從敵方手牌的非英雄牌中3選1。敵方抽1張牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "順手牽羊，快手無痕。",
+    "artistName": "Envar Studio",
+    "name": "我抓！",
+    "cardCode": "98SB003",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
       "02BW026T2",
       "02BW026T4",
       "02BW026T5"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98BW003-full.png"
       }
     ],
     "regions": [
@@ -50,8 +1532,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98BW004-full.png"
       }
     ],
     "regions": [
@@ -92,8 +1574,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98BW005-full.png"
       }
     ],
     "regions": [
@@ -134,8 +1616,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98BW002-full.png"
       }
     ],
     "regions": [
@@ -176,8 +1658,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98BW006-full.png"
       }
     ],
     "regions": [
@@ -222,8 +1704,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX003-full.png"
       }
     ],
     "regions": [
@@ -269,8 +1751,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX003T2-full.png"
       }
     ],
     "regions": [
@@ -315,8 +1797,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX003T1-full.png"
       }
     ],
     "regions": [
@@ -359,8 +1841,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX007-full.png"
       }
     ],
     "regions": [
@@ -401,8 +1883,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX008-full.png"
       }
     ],
     "regions": [
@@ -439,8 +1921,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX004-full.png"
       }
     ],
     "regions": [
@@ -481,8 +1963,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX006-full.png"
       }
     ],
     "regions": [
@@ -525,8 +2007,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98NX005-full.png"
       }
     ],
     "regions": [
@@ -567,8 +2049,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ007-full.png"
       }
     ],
     "regions": [
@@ -605,8 +2087,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ005-full.png"
       }
     ],
     "regions": [
@@ -651,8 +2133,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ006-full.png"
       }
     ],
     "regions": [
@@ -695,8 +2177,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ006T2-full.png"
       }
     ],
     "regions": [
@@ -740,8 +2222,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ006T3-full.png"
       }
     ],
     "regions": [
@@ -786,8 +2268,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ006T1-full.png"
       }
     ],
     "regions": [
@@ -833,8 +2315,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ001-full.png"
       }
     ],
     "regions": [
@@ -873,8 +2355,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ001T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ001T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ001T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ001T4-full.png"
       }
     ],
     "regions": [
@@ -918,8 +2400,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ001T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ001T2-full.png"
       }
     ],
     "regions": [
@@ -965,8 +2447,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ001T1-full.png"
       }
     ],
     "regions": [
@@ -1007,8 +2489,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ004-full.png"
       }
     ],
     "regions": [
@@ -1051,8 +2533,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ008-full.png"
       }
     ],
     "regions": [
@@ -1093,8 +2575,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98PZ009-full.png"
       }
     ],
     "regions": [
@@ -1135,8 +2617,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SI003-full.png"
       }
     ],
     "regions": [
@@ -1177,8 +2659,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SI002-full.png"
       }
     ],
     "regions": [
@@ -1219,8 +2701,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98SI002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98SI002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SI002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SI002T1-full.png"
       }
     ],
     "regions": [
@@ -1275,8 +2757,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98SI002T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98SI002T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SI002T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SI002T2-full.png"
       }
     ],
     "regions": [
@@ -1331,8 +2813,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU007-full.png"
       }
     ],
     "regions": [
@@ -1375,8 +2857,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU006-full.png"
       }
     ],
     "regions": [
@@ -1419,8 +2901,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU009-full.png"
       }
     ],
     "regions": [
@@ -1463,8 +2945,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU003-full.png"
       }
     ],
     "regions": [
@@ -1505,8 +2987,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU005-full.png"
       }
     ],
     "regions": [
@@ -1553,8 +3035,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU004-full.png"
       }
     ],
     "regions": [
@@ -1595,8 +3077,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU004T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU004T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU004T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU004T3-full.png"
       }
     ],
     "regions": [
@@ -1641,8 +3123,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU004T1-full.png"
       }
     ],
     "regions": [
@@ -1686,8 +3168,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU004T2-full.png"
       }
     ],
     "regions": [
@@ -1728,8 +3210,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU001-full.png"
       }
     ],
     "regions": [
@@ -1770,8 +3252,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU011-full.png"
       }
     ],
     "regions": [
@@ -1826,8 +3308,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU008-full.png"
       }
     ],
     "regions": [
@@ -1870,8 +3352,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98RU010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98RU010-full.png"
       }
     ],
     "regions": [
@@ -1916,8 +3398,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98DE001-full.png"
       }
     ],
     "regions": [
@@ -1958,8 +3440,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98FR003-full.png"
       }
     ],
     "regions": [
@@ -2000,8 +3482,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SH002-full.png"
       }
     ],
     "regions": [
@@ -2061,8 +3543,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98SH001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98SH001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SH001-full.png"
       }
     ],
     "regions": [
@@ -2103,8 +3585,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98SH001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98SH001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SH001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98SH001T1-full.png"
       }
     ],
     "regions": [
@@ -2147,8 +3629,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98BC001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_7_0/tpoc/zh_tw/img/cards/98BC001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/zh_tw/img/cards/98BC001-full.png"
       }
     ],
     "regions": [
