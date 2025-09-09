@@ -2,13 +2,187 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
+      "98SB030T2",
+      "98SB030T1",
+      "98SB030T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB030-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği",
+      "Ionia"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Ionia"
+    ],
+    "attack": 5,
+    "cost": 8,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bu oyunda oynadığın yalnızca dost birimleri hedef alan her büyü için <link=vocab.Animate><style=Vocab>Canlandırırsın</style></link>. Canlandırılan büyüler bir fazladan saldırı başlatır.",
+    "descriptionRaw": "Oyna: Bu oyunda oynadığın yalnızca dost birimleri hedef alan her büyü için Canlandırırsın. Canlandırılan büyüler bir fazladan saldırı başlatır.",
+    "levelupDescription": "Dost birimleri 12 kez hedeflediğinde<style=Variable></style>.",
+    "levelupDescriptionRaw": "Dost birimleri 12 kez hedeflediğinde.",
+    "flavorText": "Söylenene göre Münzevi Usta, kayıp öğrencisini bulmak için kötülüğü bir sanatçı gibi kesip biçer...",
+    "artistName": "Envar Studio",
+    "name": "Ruh Çiçeği Master Yi",
+    "cardCode": "98SB030",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Şampiyon",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB030"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB030T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB030T1-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Bir dost birime bu tur (<style=Variable>+0|+0</style>) verirsin. Bu kartı bu oyunda daha önce oynadığın her sefer için güçlendirmeyi +1|+1 arttırırsın.\r\nDestende bir <link=card.level1><style=AssociatedCard>Ruh Çiçeği Master Yi</style></link> oluşur.",
+    "descriptionRaw": "Bir dost birime bu tur (+0|+0) verirsin. Bu kartı bu oyunda daha önce oynadığın her sefer için güçlendirmeyi +1|+1 arttırırsın.\r\nDestende bir Ruh Çiçeği Master Yi oluşur.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Tekrarla şekillenen ustalık.",
+    "artistName": "Kudos Productions",
+    "name": "Master Yi Emeksiz Yemek Olmaz",
+    "cardCode": "98SB030T1",
+    "keywords": [
+      "Anlık"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Anlık",
+    "spellSpeedRef": "Burst",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB030T1",
+      "98SB030",
+      "98SB030T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB030T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB030T2-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği",
+      "Ionia"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Ionia"
+    ],
+    "attack": 6,
+    "cost": 8,
+    "health": 6,
+    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bu oyunda oynadığın yalnızca dost birimleri hedef alan her büyü için <link=vocab.Animate><style=Vocab>Canlandırırsın</style></link>. Canlandırılan büyüler bir fazladan saldırı başlatır.\r\n<link=vocab.Attack><style=Vocab>Saldır</style></link>: Düşman varsa onlara <link=vocab.Strike><style=Vocab>Vururum</style></link> ve <link=keyword.Recall><style=Keyword>Geri Gönderilirim</style></link>.",
+    "descriptionRaw": "Oyna: Bu oyunda oynadığın yalnızca dost birimleri hedef alan her büyü için Canlandırırsın. Canlandırılan büyüler bir fazladan saldırı başlatır.\r\nSaldır: Düşman varsa onlara Vururum ve Geri Gönderilirim.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "…ama geçmişin gölgeleri asla huzura eremeyecek çünkü Münzevi Usta ebedi arayışından vazgeçmeyecek.",
+    "artistName": "Envar Studio",
+    "name": "Münzevi Usta",
+    "cardCode": "98SB030T2",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Şampiyon",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB030T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB030T3-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Gölgeden ve ışıktan, Münzevi Usta'nın iradesi doğar.",
+    "artistName": "Envar Studio",
+    "name": "Kılıç Ustasının Hayaleti",
+    "cardCode": "98SB030T3",
+    "keywords": [
+      "Hayali"
+    ],
+    "keywordRefs": [
+      "Ephemeral"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
       "98SB013T2",
       "98SB013T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB013-full.png"
       }
     ],
     "regions": [
@@ -54,8 +228,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB013T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB013T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB013T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB013T1-full.png"
       }
     ],
     "regions": [
@@ -99,8 +273,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB013T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB013T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB013T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB013T2-full.png"
       }
     ],
     "regions": [
@@ -142,11 +316,57 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB041-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği",
+      "Gölge Adalar"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "ShadowIsles"
+    ],
+    "attack": 8,
+    "cost": 6,
+    "health": 8,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Ebedi avın tadını çıkar. ",
+    "artistName": "CARAVAN",
+    "name": "Hayvan",
+    "cardCode": "98SB041",
+    "keywords": [
+      "Hayali"
+    ],
+    "keywordRefs": [
+      "Ephemeral"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB001-full.png"
       }
     ],
     "regions": [
@@ -189,8 +409,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB007-full.png"
       }
     ],
     "regions": [
@@ -231,8 +451,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB014-full.png"
       }
     ],
     "regions": [
@@ -277,8 +497,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB031-full.png"
       }
     ],
     "regions": [
@@ -327,8 +547,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB031T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB031T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB031T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB031T1-full.png"
       }
     ],
     "regions": [
@@ -373,8 +593,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB031T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB031T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB031T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB031T2-full.png"
       }
     ],
     "regions": [
@@ -419,8 +639,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB008-full.png"
       }
     ],
     "regions": [
@@ -458,11 +678,373 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB041"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB021-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Bir düşmanı <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Çeken</style></link> bir <link=card.summon><style=AssociatedCard>Hayvan</style></link> çağırırsın. ",
+    "descriptionRaw": "Bir düşmanı Çeken bir Hayvan çağırırsın. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Hayvan için korku, sıradan bir kovalamacayı eğlenceli bir oyuna dönüştürür.",
+    "artistName": "CARAVAN",
+    "name": "Dizginsiz Hiddet",
+    "cardCode": "98SB021",
+    "keywords": [
+      "Yavaş"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Yavaş",
+    "spellSpeedRef": "Slow",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB039-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Bir düşmanı <link=keyword.Recall><style=Keyword>Geri Göndererek</style></link> iki kez <link=vocab.GatherStorm><style=Vocab>Fırtına Toplarsın</style></link>.",
+    "descriptionRaw": "Bir düşmanı Geri Göndererek iki kez Fırtına Toplarsın.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Sakinliğini koru... rüzgâr hiddetini topluyor.''",
+    "artistName": "Envar Studio",
+    "name": "Son Nefes",
+    "cardCode": "98SB039",
+    "keywords": [
+      "Hızlı"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Hızlı",
+    "spellSpeedRef": "Fast",
+    "rarity": "YAYGIN",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044T1",
+      "98SB044T4",
+      "98SB041",
+      "98SB047"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB044-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği",
+      "Gölge Adalar"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "ShadowIsles"
+    ],
+    "attack": 1,
+    "cost": 4,
+    "health": 1,
+    "description": "Hasar alamam ya da ölemem.\r\nBir düşmana hasar verdiğimde, onu işaretlerim.",
+    "descriptionRaw": "Hasar alamam ya da ölemem.\r\nBir düşmana hasar verdiğimde, onu işaretlerim.",
+    "levelupDescription": "İşaretli 5 düşman öldükten sonra bir <link=card.wolf><style=AssociatedCard>Hayvan</style></link> saldırısı gördüğümde birleşip seviye atlarız<style=Variable></style>.",
+    "levelupDescriptionRaw": "İşaretli 5 düşman öldükten sonra bir Hayvan saldırısı gördüğümde birleşip seviye atlarız.",
+    "flavorText": "''Bu kayıp ruhlar... Ne kadar da değerliler. Ne kadar da hiçbir şeyden haberleri yok.''\n\n",
+    "artistName": "Caravan Studio",
+    "name": "Hayatsöndüren",
+    "cardCode": "98SB044",
+    "keywords": [
+      "Rakipçeker"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Şampiyon",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044",
+      "98SB044T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB044T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB044T4-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Rasgele bir düşmanı işaretlersin ya da 4 mana harcayarak tüm işaretli düşmanlara 3 hasar verirsin.\r\nDestende bir <link=card.level1><style=AssociatedCard>Hayatsöndüren</style></link> oluşur.",
+    "descriptionRaw": "Rasgele bir düşmanı işaretlersin ya da 4 mana harcayarak tüm işaretli düşmanlara 3 hasar verirsin.\r\nDestende bir Hayatsöndüren oluşur.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Ölümün izini taşıyanlar ya kaçar… ya da yok olur.",
+    "artistName": "Envar Studio",
+    "name": "Kindred Okların Dansı",
+    "cardCode": "98SB044T4",
+    "keywords": [
+      "Anlık"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Anlık",
+    "spellSpeedRef": "Burst",
+    "rarity": "YAYGIN",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044",
+      "98SB044T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB044T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB044T2-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Tüm işaretli düşmanlara 3 hasar verirsin.\r\nDestende bir <link=card.level1><style=AssociatedCard>Hayatsöndüren</style></link> oluşur.",
+    "descriptionRaw": "Tüm işaretli düşmanlara 3 hasar verirsin.\r\nDestende bir Hayatsöndüren oluşur.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Ölümün izini taşıyanlar ya kaçar… ya da yok olur.",
+    "artistName": "Envar Studio",
+    "name": "Kindred Okların Dansı",
+    "cardCode": "98SB044T2",
+    "keywords": [
+      "Anlık"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Anlık",
+    "spellSpeedRef": "Burst",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044",
+      "98SB044T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB044T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB044T3-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Rasgele bir düşmanı işaretlersin.\r\nDestende bir <link=card.level1><style=AssociatedCard>Hayatsöndüren</style></link> oluşur.",
+    "descriptionRaw": "Rasgele bir düşmanı işaretlersin.\r\nDestende bir Hayatsöndüren oluşur.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Ölümün izini taşıyanlar ya kaçar… ya da yok olur.",
+    "artistName": "Envar Studio",
+    "name": "Kindred Okların Dansı",
+    "cardCode": "98SB044T3",
+    "keywords": [
+      "Anlık"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Anlık",
+    "spellSpeedRef": "Burst",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044",
+      "98SB044T4",
+      "98SB047"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB044T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB044T1-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği",
+      "Gölge Adalar"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "ShadowIsles"
+    ],
+    "attack": 20,
+    "cost": 4,
+    "health": 20,
+    "description": "Hasar alamam ya da ölemem.\r\nDüşmanlar işaretlenir.\r\n<link=card.create1><style=AssociatedCard>Hayvan'ın Hiddeti</style></link>, benim saldırmamı sağlar.",
+    "descriptionRaw": "Hasar alamam ya da ölemem.\r\nDüşmanlar işaretlenir.\r\nHayvan'ın Hiddeti, benim saldırmamı sağlar.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Sevgili Hayvanım, hadi onları öteki dünyaya götürelim.",
+    "artistName": "Caravan Studio",
+    "name": "Ruh Çiçeği Kindred",
+    "cardCode": "98SB044T1",
+    "keywords": [
+      "Rakipçeker"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Şampiyon",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB035-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 2,
+    "cost": 7,
+    "health": 7,
+    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Güç değerime eşit miktarda <link=vocab.GatherStorm><style=Vocab>Fırtına Toplarsın</style></link>.",
+    "descriptionRaw": "Oyna: Güç değerime eşit miktarda Fırtına Toplarsın.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Zihnini kılıcın gibi keskinleştir: Yalan ve dolanı yaracak kadar keskin, fırtınaya dayanacak kadar güçlü olsun.''",
+    "artistName": "Envar Studio",
+    "name": "Fırtına Kılıcı Bilgesi",
+    "cardCode": "98SB035",
+    "keywords": [
+      "Rakipçeker"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "YAYGIN",
+    "rarityRef": "Common",
+    "subtypes": [
+      "YORDLE"
+    ],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB016-full.png"
       }
     ],
     "regions": [
@@ -500,13 +1082,51 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB027-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bu oyunda dost birimler üzerinde oynadığın tek hedefli büyülerin 3 tanesinden birini seçersin ve üzerimde oynarsın.",
+    "descriptionRaw": "Oyna: Bu oyunda dost birimler üzerinde oynadığın tek hedefli büyülerin 3 tanesinden birini seçersin ve üzerimde oynarsın.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Mucize bir kez vurdu… sonra bir kez daha. Münzevi Usta'nın maskesinin ardında silik bir gülümseme saklıydı.",
+    "artistName": "Envar Studio",
+    "name": "Mucize'nin Tayfı",
+    "cardCode": "98SB027",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "DESTANSI",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "98SB007"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB011-full.png"
       }
     ],
     "regions": [
@@ -540,6 +1160,48 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB043-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Bir düşman takipçinin birebir <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Hayali</style></link> bir kopyasını çağırırsın.",
+    "descriptionRaw": "Bir düşman takipçinin birebir Hayali bir kopyasını çağırırsın.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Ölümlülerin döngüsü ne kadar kısa.",
+    "artistName": "Envar Studio",
+    "name": "Fani Ruhlar",
+    "cardCode": "98SB043",
+    "keywords": [
+      "Anlık"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Anlık",
+    "spellSpeedRef": "Burst",
+    "rarity": "ENDER",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "98SB007",
       "98SB020T1",
@@ -547,8 +1209,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB020-full.png"
       }
     ],
     "regions": [
@@ -562,8 +1224,8 @@
     "attack": 1,
     "cost": 4,
     "health": 4,
-    "description": "<link=vocab.Attack><style=Vocab>Saldır</style></link>: Nitelikleri bu oyunda oynadığın en pahalı büyünün bedeli kadar olan, saldıran bir <link=card.summon><style=AssociatedCard>Tilki Ateşi</style></link> çağırırsın.",
-    "descriptionRaw": "Saldır: Nitelikleri bu oyunda oynadığın en pahalı büyünün bedeli kadar olan, saldıran bir Tilki Ateşi çağırırsın.",
+    "description": "<link=vocab.Attack><style=Vocab>Saldır</style></link>: Nitelikleri bu oyunda oynadığın en pahalı büyünün bedeli kadar olan, saldıran bir <link=card.summon><style=AssociatedCard>Tilki Ateşi</style></link> çağırırsın. <style=Variable></style>",
+    "descriptionRaw": "Saldır: Nitelikleri bu oyunda oynadığın en pahalı büyünün bedeli kadar olan, saldıran bir Tilki Ateşi çağırırsın. ",
     "levelupDescription": "<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Hayali</style></link> dost birimler 25+ hasar verdiğinde<style=Variable></style>.",
     "levelupDescriptionRaw": "Hayali dost birimler 25+ hasar verdiğinde.",
     "flavorText": "Hazır gelmişken biraz eğlenelim bari. Ruh kovalamak isteyen var mı?",
@@ -595,8 +1257,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB020T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB020T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB020T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB020T2-full.png"
       }
     ],
     "regions": [
@@ -610,8 +1272,8 @@
     "attack": 2,
     "cost": 4,
     "health": 5,
-    "description": "<link=vocab.Attack><style=Vocab>Saldır</style></link>: Nitelikleri bu oyunda oynadığın en pahalı büyünün bedeli kadar olan, saldıran bir <link=card.summon><style=AssociatedCard>Tilki Ateşi</style></link> çağırırsın.\r\nSaldırıya uğradığında, savunma yapmak için bir tane çağırırsın.",
-    "descriptionRaw": "Saldır: Nitelikleri bu oyunda oynadığın en pahalı büyünün bedeli kadar olan, saldıran bir Tilki Ateşi çağırırsın.\r\nSaldırıya uğradığında, savunma yapmak için bir tane çağırırsın.",
+    "description": "<link=vocab.Attack><style=Vocab>Saldır</style></link>: Nitelikleri bu oyunda oynadığın en pahalı büyünün bedeli kadar olan, saldıran bir <link=card.summon><style=AssociatedCard>Tilki Ateşi</style></link> çağırırsın.\r\nSaldırıya uğradığında, savunma yapmak için bir tane çağırırsın. <style=Variable></style>",
+    "descriptionRaw": "Saldır: Nitelikleri bu oyunda oynadığın en pahalı büyünün bedeli kadar olan, saldıran bir Tilki Ateşi çağırırsın.\r\nSaldırıya uğradığında, savunma yapmak için bir tane çağırırsın. ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Bazen oyunbaz, bazen acımasız... Tilki Ruhu'nun gizemli yöntemleri, yoluna karşı gelenlerin peşini asla bırakmaz.",
@@ -642,8 +1304,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB020T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB020T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB020T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB020T1-full.png"
       }
     ],
     "regions": [
@@ -687,8 +1349,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB020T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB020T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB020T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB020T4-full.png"
       }
     ],
     "regions": [
@@ -732,8 +1394,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB020T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB020T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB020T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB020T3-full.png"
       }
     ],
     "regions": [
@@ -776,8 +1438,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB012-full.png"
       }
     ],
     "regions": [
@@ -818,8 +1480,297 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB033-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Strike><style=Vocab>Vuruş</style></link>: <link=vocab.GatherStorm><style=Vocab>Fırtına Toplarsın</style></link>.",
+    "descriptionRaw": "Vuruş: Fırtına Toplarsın.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Geçmişin savaşçılarının yankıları, savaş çağrısıyla yükselir.",
+    "artistName": "Envar Studio",
+    "name": "Geçmiş Savaşların Tayfları",
+    "cardCode": "98SB033",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "YAYGIN",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": true,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB025T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB025-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 2,
+    "health": 1,
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Son Nefes</style></link>: Elinde bir <link=card.create><style=AssociatedCard>Yasın Öğrettikleri</style></link> oluşur.",
+    "descriptionRaw": "Son Nefes: Elinde bir Yasın Öğrettikleri oluşur.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Dersler bittiğinde, yolculuk başlar.",
+    "artistName": "Envar Studio",
+    "name": "Düşmüş Öğrenci",
+    "cardCode": "98SB025",
+    "keywords": [
+      "Son Nefes"
+    ],
+    "keywordRefs": [
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ENDER",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB046-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 2,
+    "cost": 5,
+    "health": 6,
+    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bir düşmanı işaretlersin.\r\n<link=vocab.RoundEnd><style=Vocab>Tur Sonu</style></link>: İşaretlenmiş tüm düşmanlara <link=vocab.Strike><style=Vocab>Vururum</style></link>.",
+    "descriptionRaw": "Oyna: Bir düşmanı işaretlersin.\r\nTur Sonu: İşaretlenmiş tüm düşmanlara Vururum.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Saklambaç. Ne kadar da masum bir oyun. Ne kadar da ölümcül sonuçları olan bir oyun.",
+    "artistName": "Envar Studio",
+    "name": "Sabırlı Canavar",
+    "cardCode": "98SB046",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ENDER",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB037T1",
+      "98SB037T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB037-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 7,
+    "cost": 15,
+    "health": 7,
+    "description": "Bir <link=vocab.StormTarget><style=Vocab>Fırtına Çağıran</style></link> olamam. Bu oyunda <link=vocab.GatherStorm><style=Vocab>Fırtına Topladığın</style></link> her sefer için bedelim 1 azalır.\r\nÇağrıldığımda <link=vocab.Strongest><style=Vocab>En Güçlü</style></link> düşmanın <link=vocab.Obliterate><style=Vocab>Kökünü Kazırsın</style></link>.",
+    "descriptionRaw": "Bir Fırtına Çağıran olamam. Bu oyunda Fırtına Topladığın her sefer için bedelim 1 azalır.\r\nÇağrıldığımda En Güçlü düşmanın Kökünü Kazırsın.",
+    "levelupDescription": "15+ kez <link=vocab.GatherStorm><style=Vocab>Fırtına Topladığında</style></link><style=Variable></style>.<br>",
+    "levelupDescriptionRaw": "15+ kez Fırtına Topladığında.",
+    "flavorText": "''Ve ağabeyinin mezarı başında diz çöktü Küçük Kardeş; çünkü her ikisinin de aynı trajedinin kurbanı olduğunu biliyordu.''<br>- Savaşçı Kardeşlerin Öyküsü",
+    "artistName": "Kudos Productions",
+    "name": "Ruh Çiçeği Yasuo",
+    "cardCode": "98SB037",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Şampiyon",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB037",
+      "98SB037T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB037T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB037T1-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 8,
+    "cost": 15,
+    "health": 8,
+    "description": "Bir <link=vocab.StormTarget><style=Vocab>Fırtına Çağıran</style></link> olamam. \r\nBu oyunda <link=vocab.GatherStorm><style=Vocab>Fırtına Topladığın</style></link> her sefer için bedelim 1 azalır.\r\nÇağrıldığımda ya da <link=vocab.Attack><style=Vocab>Saldırdığımda</style></link>: <link=vocab.Strongest><style=Vocab>En Güçlü</style></link> düşmanın <link=vocab.Obliterate><style=Vocab>Kökünü Kazırsın</style></link>.",
+    "descriptionRaw": "Bir Fırtına Çağıran olamam. \r\nBu oyunda Fırtına Topladığın her sefer için bedelim 1 azalır.\r\nÇağrıldığımda ya da Saldırdığımda: En Güçlü düşmanın Kökünü Kazırsın.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Nehrin aşındırdığı yolda kıvrıla kıvrıla akması gibi, biz de izinden gittiklerimizce şekilleniriz. Bugün bile, Küçük Kardeş, Büyüğünün izlerini takip eder.''<br>- Savaşçı Kardeşlerin Öyküsü",
+    "artistName": "Kudos Productions",
+    "name": "Küçük Erkek Kardeş",
+    "cardCode": "98SB037T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Şampiyon",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB037",
+      "98SB037T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB037T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB037T2-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Bir düşmanı <link=keyword.Recall><style=Keyword>Geri Göndererek</style></link> iki kez <link=vocab.GatherStorm><style=Vocab>Fırtına Toplarsın</style></link>.\r\nDestende bir <link=card.level1><style=AssociatedCard>Ruh Çiçeği Yasuo</style></link> oluşur.",
+    "descriptionRaw": "Bir düşmanı Geri Göndererek iki kez Fırtına Toplarsın.\r\nDestende bir Ruh Çiçeği Yasuo oluşur.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Sakinliğini koru... rüzgâr hiddetini topluyor.''",
+    "artistName": "Kudos Productions",
+    "name": "Yasuo Son Nefes",
+    "cardCode": "98SB037T2",
+    "keywords": [
+      "Hızlı"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Hızlı",
+    "spellSpeedRef": "Fast",
+    "rarity": "YAYGIN",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB032-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Bir düşmanı <link=keyword.Recall><style=Keyword>Geri Göndererek</style></link> elindeki rasgele bir kartın bedelini 3 azaltırsın.",
+    "descriptionRaw": "Bir düşmanı Geri Göndererek elindeki rasgele bir kartın bedelini 3 azaltırsın.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Sakinliğini koru... rüzgâr hiddetini topluyor.''",
+    "artistName": "Envar Studio",
+    "name": "Fırtınayı Serbest Bırak",
+    "cardCode": "98SB032",
+    "keywords": [
+      "Hızlı"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Hızlı",
+    "spellSpeedRef": "Fast",
+    "rarity": "YAYGIN",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": true,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB004-full.png"
       }
     ],
     "regions": [
@@ -831,8 +1782,8 @@
     "attack": 4,
     "cost": 4,
     "health": 4,
-    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: <link=vocab.Foe><style=Vocab>Hasım</style></link> 2 kart çeker ve 2 kart atar.",
-    "descriptionRaw": "Oyna: Hasım 2 kart çeker ve 2 kart atar.",
+    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Rakibin 2 kart çeker ve 2 kart atar.",
+    "descriptionRaw": "Oyna: Rakibin 2 kart çeker ve 2 kart atar.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Olur mu öyle şey! Elbette üçüncü tabağı da alabilirsin tatlım.''",
@@ -858,8 +1809,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB017-full.png"
       }
     ],
     "regions": [
@@ -893,13 +1844,179 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB042-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 5,
+    "description": "Bir düşmanı hedeflediğinde, onu işaretlersin.",
+    "descriptionRaw": "Bir düşmanı hedeflediğinde, onu işaretlersin.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Gören gözler için bir ölümlünün ölümle dansı çoktan yazılmıştır.",
+    "artistName": "Envar Studio",
+    "name": "Ölümün Habercisi",
+    "cardCode": "98SB042",
+    "keywords": [
+      "Yenilenme"
+    ],
+    "keywordRefs": [
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "DESTANSI",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB024-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "Bir büyü oynadığında bu tur +1|+1 alırım.",
+    "descriptionRaw": "Bir büyü oynadığında bu tur +1|+1 alırım.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Yaşamın büyüsünü dokumayı, yalnızca ölüm öğretir.",
+    "artistName": "Envar Studio",
+    "name": "Ruh Adayı",
+    "cardCode": "98SB024",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "YAYGIN",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB036-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Bedeli 6+ olan bir takipçiyi <link=vocab.Manifest><style=Vocab>Cisimlendirirsin</style></link> ve onu <link=vocab.StormTarget><style=Vocab>Fırtına Çağıran</style></link> yaparsın. ",
+    "descriptionRaw": "Bedeli 6+ olan bir takipçiyi Cisimlendirirsin ve onu Fırtına Çağıran yaparsın. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Yeni düşen çiçek yapraklarına kapılan ruhlar bir araya gelir. Evlerine dönmeleri için yol gösterici bir çağrıya kulak verirler. ",
+    "artistName": "Kudos Productions",
+    "name": "Ruhlarla Kurulan Bağ",
+    "cardCode": "98SB036",
+    "keywords": [
+      "Anlık"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Anlık",
+    "spellSpeedRef": "Burst",
+    "rarity": "YAYGIN",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": true,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB045-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Son Nefes</style></link>: Beni öldüren düşmanı işaretlerim.",
+    "descriptionRaw": "Son Nefes: Beni öldüren düşmanı işaretlerim.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Hayatsöndüren'in yakınlarına el uzatmak, canından olmayı göze almaktır.",
+    "artistName": "Envar Studio",
+    "name": "Kindar İblis",
+    "cardCode": "98SB045",
+    "keywords": [
+      "Son Nefes",
+      "Ölümsüz"
+    ],
+    "keywordRefs": [
+      "LastBreath",
+      "Deathless"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "DESTANSI",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "01PZ022"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB006-full.png"
       }
     ],
     "regions": [
@@ -940,8 +2057,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB018-full.png"
       }
     ],
     "regions": [
@@ -979,13 +2096,55 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB026-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Bir dost birime bu tur (<style=Variable>+1|+1</style>) verirsin. Bu kartı bu oyunda daha önce oynadığın her sefer için güçlendirmeyi +1|+1 artırırsın. ",
+    "descriptionRaw": "Bir dost birime bu tur (+1|+1) verirsin. Bu kartı bu oyunda daha önce oynadığın her sefer için güçlendirmeyi +1|+1 artırırsın. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Tekrarla şekillenen ustalık.",
+    "artistName": "Kudos Productions",
+    "name": "Emeksiz Yemek Olmaz",
+    "cardCode": "98SB026",
+    "keywords": [
+      "Anlık"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Anlık",
+    "spellSpeedRef": "Burst",
+    "rarity": "DESTANSI",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "98SB007"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB012T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB012T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB012T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB012T2-full.png"
       }
     ],
     "regions": [
@@ -1028,8 +2187,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB012T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB012T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB012T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB012T1-full.png"
       }
     ],
     "regions": [
@@ -1070,8 +2229,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB019-full.png"
       }
     ],
     "regions": [
@@ -1112,8 +2271,50 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB040-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Rasgele bir düşmanı işaretlersin ya da 4 mana harcayarak tüm işaretli düşmanlara 3 hasar verirsin.",
+    "descriptionRaw": "Rasgele bir düşmanı işaretlersin ya da 4 mana harcayarak tüm işaretli düşmanlara 3 hasar verirsin.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Ölümün izini taşıyanlar ya kaçar… ya da yok olur.",
+    "artistName": "Envar Studio",
+    "name": "Okların Dansı",
+    "cardCode": "98SB040",
+    "keywords": [
+      "Anlık"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Anlık",
+    "spellSpeedRef": "Burst",
+    "rarity": "YAYGIN",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB010-full.png"
       }
     ],
     "regions": [
@@ -1156,8 +2357,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB002-full.png"
       }
     ],
     "regions": [
@@ -1196,8 +2397,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB010T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB010T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB010T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB010T2-full.png"
       }
     ],
     "regions": [
@@ -1238,8 +2439,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB010T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB010T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB010T1-full.png"
       }
     ],
     "regions": [
@@ -1280,8 +2481,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB019T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB019T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB019T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB019T2-full.png"
       }
     ],
     "regions": [
@@ -1322,8 +2523,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB019T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB019T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB019T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB019T1-full.png"
       }
     ],
     "regions": [
@@ -1364,15 +2565,17 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB009-full.png"
       }
     ],
     "regions": [
-      "Ruh Çiçeği"
+      "Ruh Çiçeği",
+      "Ionia"
     ],
     "regionRefs": [
-      "SpiritBlossom"
+      "SpiritBlossom",
+      "Ionia"
     ],
     "attack": 2,
     "cost": 3,
@@ -1402,8 +2605,217 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB025T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB025T2-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Bir dost birime bu tur (<style=Variable>+0|+0</style>) verirsin. Bu güçlendirme, bu oyunda ölen dost birimler arasında en yüksek saldırı ve Can değerine eşittir.",
+    "descriptionRaw": "Bir dost birime bu tur (+0|+0) verirsin. Bu güçlendirme, bu oyunda ölen dost birimler arasında en yüksek saldırı ve Can değerine eşittir.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Söylenene göre, bu dünyadan göçenlerin kudreti yaşayanlarda hayat bulurmuş.",
+    "artistName": "Envar Studio",
+    "name": "Yasın Öğrettikleri",
+    "cardCode": "98SB025T2",
+    "keywords": [
+      "Anlık"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Anlık",
+    "spellSpeedRef": "Burst",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB041",
+      "98SB044T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB047-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "İşaretli bir düşmanı <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Çeken</style></link> bir <link=card.summon><style=AssociatedCard>Hayvan</style></link> çağırırsın.",
+    "descriptionRaw": "İşaretli bir düşmanı Çeken bir Hayvan çağırırsın.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "",
+    "artistName": "Kudos Productions",
+    "name": "Hayvan'ın Hiddeti",
+    "cardCode": "98SB047",
+    "keywords": [
+      "Yavaş"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Yavaş",
+    "spellSpeedRef": "Slow",
+    "rarity": "ENDER",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB040T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB040T1-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Tüm işaretli düşmanlara 3 hasar verirsin.",
+    "descriptionRaw": "Tüm işaretli düşmanlara 3 hasar verirsin.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Ölümün izini taşıyanlar ya kaçar… ya da yok olur.",
+    "artistName": "Envar Studio",
+    "name": "Okların Dansı",
+    "cardCode": "98SB040T1",
+    "keywords": [
+      "Anlık"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Anlık",
+    "spellSpeedRef": "Burst",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB040T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB040T2-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Rasgele bir düşmanı işaretlersin.",
+    "descriptionRaw": "Rasgele bir düşmanı işaretlersin.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Ölümün izini taşıyanlar ya kaçar… ya da yok olur.",
+    "artistName": "Envar Studio",
+    "name": "Okların Dansı",
+    "cardCode": "98SB040T2",
+    "keywords": [
+      "Anlık"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Anlık",
+    "spellSpeedRef": "Burst",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB038-full.png"
+      }
+    ],
+    "regions": [
+      "Ruh Çiçeği"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "Bedeli azalan başka bir kart oynadığında +1|+1 kazanırım.",
+    "descriptionRaw": "Bedeli azalan başka bir kart oynadığında +1|+1 kazanırım.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Ben yalnızca başlangıcım. Diğerleri de rüzgârla birlikte yükselecek.''",
+    "artistName": "Envar Studio",
+    "name": "Uyanmış Ruh",
+    "cardCode": "98SB038",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "YAYGIN",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB015-full.png"
       }
     ],
     "regions": [
@@ -1444,8 +2856,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SB003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SB003-full.png"
       }
     ],
     "regions": [
@@ -1490,8 +2902,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98BW003-full.png"
       }
     ],
     "regions": [
@@ -1532,8 +2944,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98BW004-full.png"
       }
     ],
     "regions": [
@@ -1574,8 +2986,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98BW005-full.png"
       }
     ],
     "regions": [
@@ -1616,8 +3028,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98BW002-full.png"
       }
     ],
     "regions": [
@@ -1658,8 +3070,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98BW006-full.png"
       }
     ],
     "regions": [
@@ -1704,8 +3116,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX003-full.png"
       }
     ],
     "regions": [
@@ -1751,8 +3163,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX003T2-full.png"
       }
     ],
     "regions": [
@@ -1797,8 +3209,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX003T1-full.png"
       }
     ],
     "regions": [
@@ -1841,8 +3253,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX007-full.png"
       }
     ],
     "regions": [
@@ -1883,8 +3295,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX008-full.png"
       }
     ],
     "regions": [
@@ -1921,8 +3333,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX004-full.png"
       }
     ],
     "regions": [
@@ -1963,8 +3375,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX006-full.png"
       }
     ],
     "regions": [
@@ -2007,8 +3419,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98NX005-full.png"
       }
     ],
     "regions": [
@@ -2049,8 +3461,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ007-full.png"
       }
     ],
     "regions": [
@@ -2087,8 +3499,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ005-full.png"
       }
     ],
     "regions": [
@@ -2133,8 +3545,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ006-full.png"
       }
     ],
     "regions": [
@@ -2177,8 +3589,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ006T2-full.png"
       }
     ],
     "regions": [
@@ -2222,8 +3634,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ006T3-full.png"
       }
     ],
     "regions": [
@@ -2268,8 +3680,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ006T1-full.png"
       }
     ],
     "regions": [
@@ -2315,8 +3727,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ001-full.png"
       }
     ],
     "regions": [
@@ -2355,8 +3767,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ001T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ001T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ001T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ001T4-full.png"
       }
     ],
     "regions": [
@@ -2400,8 +3812,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ001T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ001T2-full.png"
       }
     ],
     "regions": [
@@ -2447,8 +3859,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ001T1-full.png"
       }
     ],
     "regions": [
@@ -2489,8 +3901,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ004-full.png"
       }
     ],
     "regions": [
@@ -2533,8 +3945,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ008-full.png"
       }
     ],
     "regions": [
@@ -2546,8 +3958,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Bir birime ya da rakibin Nexus'una 1 hasar verirsin, sonra bir başkasına ve sonra bir başkasına daha hasar verirsin.",
-    "descriptionRaw": "Bir birime ya da rakibin Nexus'una 1 hasar verirsin, sonra bir başkasına ve sonra bir başkasına daha hasar verirsin.",
+    "description": "Bir birime ya da rakibin Nexus'una 1 hasar verirsin ve bir başkasına ve bir başkasına daha hasar verirsin.",
+    "descriptionRaw": "Bir birime ya da rakibin Nexus'una 1 hasar verirsin ve bir başkasına ve bir başkasına daha hasar verirsin.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Etkimin ucu bucağı yok, kaynaklarımın da öyle. Büyü gücüm de onlardan farklı değil.''<br>- Mel Medarda",
@@ -2575,8 +3987,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98PZ009-full.png"
       }
     ],
     "regions": [
@@ -2617,8 +4029,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SI003-full.png"
       }
     ],
     "regions": [
@@ -2659,8 +4071,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SI002-full.png"
       }
     ],
     "regions": [
@@ -2701,8 +4113,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SI002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SI002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SI002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SI002T1-full.png"
       }
     ],
     "regions": [
@@ -2757,8 +4169,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SI002T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SI002T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SI002T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SI002T2-full.png"
       }
     ],
     "regions": [
@@ -2813,8 +4225,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU007-full.png"
       }
     ],
     "regions": [
@@ -2857,8 +4269,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU006-full.png"
       }
     ],
     "regions": [
@@ -2901,8 +4313,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU009-full.png"
       }
     ],
     "regions": [
@@ -2945,8 +4357,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU003-full.png"
       }
     ],
     "regions": [
@@ -2987,8 +4399,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU005-full.png"
       }
     ],
     "regions": [
@@ -3035,8 +4447,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU004-full.png"
       }
     ],
     "regions": [
@@ -3077,8 +4489,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU004T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU004T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU004T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU004T3-full.png"
       }
     ],
     "regions": [
@@ -3123,8 +4535,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU004T1-full.png"
       }
     ],
     "regions": [
@@ -3168,8 +4580,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU004T2-full.png"
       }
     ],
     "regions": [
@@ -3210,8 +4622,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU001-full.png"
       }
     ],
     "regions": [
@@ -3252,8 +4664,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU011-full.png"
       }
     ],
     "regions": [
@@ -3308,8 +4720,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU008-full.png"
       }
     ],
     "regions": [
@@ -3352,8 +4764,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98RU010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98RU010-full.png"
       }
     ],
     "regions": [
@@ -3398,8 +4810,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98DE001-full.png"
       }
     ],
     "regions": [
@@ -3440,8 +4852,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98FR003-full.png"
       }
     ],
     "regions": [
@@ -3482,8 +4894,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SH002-full.png"
       }
     ],
     "regions": [
@@ -3543,8 +4955,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SH001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SH001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SH001-full.png"
       }
     ],
     "regions": [
@@ -3585,8 +4997,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SH001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98SH001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SH001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98SH001T1-full.png"
       }
     ],
     "regions": [
@@ -3629,8 +5041,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98BC001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/tr_tr/img/cards/98BC001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/tr_tr/img/cards/98BC001-full.png"
       }
     ],
     "regions": [
