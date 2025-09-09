@@ -2,13 +2,187 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
+      "98SB030T2",
+      "98SB030T1",
+      "98SB030T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB030-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual",
+      "Ionia"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Ionia"
+    ],
+    "attack": 5,
+    "cost": 8,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>Jogar</style></link>: Para cada feitiço jogado alvejando apenas aliados nesta partida, <link=vocab.Animate><style=Vocab>anime-o</style></link>. Os feitiços animados iniciam um ataque livre.",
+    "descriptionRaw": "Jogar: Para cada feitiço jogado alvejando apenas aliados nesta partida, anime-o. Os feitiços animados iniciam um ataque livre.",
+    "levelupDescription": "Você alvejou aliados 12 vezes. <style=Variable></style>",
+    "levelupDescriptionRaw": "Você alvejou aliados 12 vezes. ",
+    "flavorText": "Dizem que o Mestre Solitário retalha todo o mal na busca pelo aluno perdido...",
+    "artistName": "Envar Studio",
+    "name": "Master Yi Florescer Espiritual",
+    "cardCode": "98SB030",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Campeão",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Campeão",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB030"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB030T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB030T1-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Conceda (<style=Variable>+0|+0</style>) a um aliado nesta rodada. Aumente o fortalecimento em +1|+1 para cada vez que isto foi jogado nesta partida.\r\nCrie 1 <link=card.level1><style=AssociatedCard>Master Yi Florescer Espiritual</style></link> no seu deck.",
+    "descriptionRaw": "Conceda (+0|+0) a um aliado nesta rodada. Aumente o fortalecimento em +1|+1 para cada vez que isto foi jogado nesta partida.\r\nCrie 1 Master Yi Florescer Espiritual no seu deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Precisão pela repetição.",
+    "artistName": "Kudos Productions",
+    "name": "Prática Leva à Perfeição do Master Yi",
+    "cardCode": "98SB030T1",
+    "keywords": [
+      "Súbito"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Súbito",
+    "spellSpeedRef": "Burst",
+    "rarity": "Nenhum (a)",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "Campeão",
+    "type": "Feitiço",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB030T1",
+      "98SB030",
+      "98SB030T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB030T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB030T2-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual",
+      "Ionia"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Ionia"
+    ],
+    "attack": 6,
+    "cost": 8,
+    "health": 6,
+    "description": "<link=vocab.Play><style=Vocab>Jogar</style></link>: Para cada feitiço jogado alvejando apenas aliados nesta partida, <link=vocab.Animate><style=Vocab>anime-o</style></link>. Os feitiços animados iniciam um ataque livre.\r\n<link=vocab.Attack><style=Vocab>Ataque</style></link>: Se há inimigos, eu os <link=vocab.Strike><style=Vocab>Golpeio</style></link> e <link=keyword.Recall><style=Keyword>Retorno</style></link>.",
+    "descriptionRaw": "Jogar: Para cada feitiço jogado alvejando apenas aliados nesta partida, anime-o. Os feitiços animados iniciam um ataque livre.\r\nAtaque: Se há inimigos, eu os Golpeio e Retorno.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "...mas as Sombras do Passado nunca ficarão em paz, pois o Mestre Solitário nunca encerra sua busca eterna.",
+    "artistName": "Envar Studio",
+    "name": "Mestre Solitário",
+    "cardCode": "98SB030T2",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Campeão",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Campeão",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB030T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB030T3-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Das sombras e da luz, a vontade do Mestre Solitário se manifesta.",
+    "artistName": "Envar Studio",
+    "name": "Fantasmas do Mestre das Lâminas",
+    "cardCode": "98SB030T3",
+    "keywords": [
+      "Efêmero"
+    ],
+    "keywordRefs": [
+      "Ephemeral"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Nenhum (a)",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
       "98SB013T2",
       "98SB013T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB013-full.png"
       }
     ],
     "regions": [
@@ -54,8 +228,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB013T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB013T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB013T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB013T1-full.png"
       }
     ],
     "regions": [
@@ -99,8 +273,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB013T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB013T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB013T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB013T2-full.png"
       }
     ],
     "regions": [
@@ -120,7 +294,7 @@
     "levelupDescriptionRaw": "",
     "flavorText": "\"Livre-se desses sentimentos incômodos!\"",
     "artistName": "Envar Studio",
-    "name": "O Devorador de Lamentos",
+    "name": "A Devoradora de Lamentos",
     "cardCode": "98SB013T2",
     "keywords": [
       "Desafiador",
@@ -142,11 +316,57 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB041-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual",
+      "Ilhas das Sombras"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "ShadowIsles"
+    ],
+    "attack": 8,
+    "cost": 6,
+    "health": 8,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Alegre-se com a eterna caçada. ",
+    "artistName": "CARAVAN",
+    "name": "A Fera",
+    "cardCode": "98SB041",
+    "keywords": [
+      "Efêmero"
+    ],
+    "keywordRefs": [
+      "Ephemeral"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Nenhum (a)",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB001-full.png"
       }
     ],
     "regions": [
@@ -189,8 +409,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB007-full.png"
       }
     ],
     "regions": [
@@ -231,8 +451,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB014-full.png"
       }
     ],
     "regions": [
@@ -277,8 +497,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB031-full.png"
       }
     ],
     "regions": [
@@ -327,8 +547,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB031T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB031T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB031T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB031T1-full.png"
       }
     ],
     "regions": [
@@ -373,8 +593,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB031T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB031T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB031T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB031T2-full.png"
       }
     ],
     "regions": [
@@ -419,8 +639,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB008-full.png"
       }
     ],
     "regions": [
@@ -458,11 +678,373 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB041"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB021-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Invoque 1 <link=card.summon><style=AssociatedCard>A Fera</style></link> <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Desafiando</style></link> um inimigo. ",
+    "descriptionRaw": "Invoque 1 A Fera Desafiando um inimigo. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Para a Fera, o medo transforma a perseguição em um jogo.",
+    "artistName": "CARAVAN",
+    "name": "Frenesi Indomável",
+    "cardCode": "98SB021",
+    "keywords": [
+      "Lento"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Lento",
+    "spellSpeedRef": "Slow",
+    "rarity": "Nenhum (a)",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Feitiço",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB039-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "<link=keyword.Recall><style=Keyword>Retorne</style></link> um inimigo para <link=vocab.GatherStorm><style=Vocab>Convocar Tempestade</style></link> duas vezes.",
+    "descriptionRaw": "Retorne um inimigo para Convocar Tempestade duas vezes.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Não se mexa... O vento está em fúria.\"",
+    "artistName": "Envar Studio",
+    "name": "Suspiro Final",
+    "cardCode": "98SB039",
+    "keywords": [
+      "Rápido"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Rápido",
+    "spellSpeedRef": "Fast",
+    "rarity": "COMUM",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Feitiço",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044T1",
+      "98SB044T4",
+      "98SB041",
+      "98SB047"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB044-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual",
+      "Ilhas das Sombras"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "ShadowIsles"
+    ],
+    "attack": 1,
+    "cost": 4,
+    "health": 1,
+    "description": "Não posso sofrer dano nem morrer.\r\nQuando eu causar dano a um inimigo, marque-o.",
+    "descriptionRaw": "Não posso sofrer dano nem morrer.\r\nQuando eu causar dano a um inimigo, marque-o.",
+    "levelupDescription": "Quando 5 inimigos marcados morreram e eu vir 1 <link=card.wolf><style=AssociatedCard>A Fera</style></link> atacar, nos combinamos e subimos de nível.<style=Variable></style>",
+    "levelupDescriptionRaw": "Quando 5 inimigos marcados morreram e eu vir 1 A Fera atacar, nos combinamos e subimos de nível.",
+    "flavorText": "\"Essas almas perdidas. São tão preciosas. Tão felizes na ignorância.\"\n\n",
+    "artistName": "Caravan Studio",
+    "name": "A Arrebatadora",
+    "cardCode": "98SB044",
+    "keywords": [
+      "Desafiador"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Campeão",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Campeão",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044",
+      "98SB044T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB044T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB044T4-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Marque um inimigo aleatório ou gaste 4 de Mana para causar 3 de dano a todos os inimigos marcados.\r\nCrie 1 <link=card.level1><style=AssociatedCard>A Arrebatadora</style></link> no seu deck.",
+    "descriptionRaw": "Marque um inimigo aleatório ou gaste 4 de Mana para causar 3 de dano a todos os inimigos marcados.\r\nCrie 1 A Arrebatadora no seu deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Quem carrega a marca da morte deve fugir... ou perecer.",
+    "artistName": "Envar Studio",
+    "name": "Dança de Flechas dos Kindred",
+    "cardCode": "98SB044T4",
+    "keywords": [
+      "Súbito"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Súbito",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMUM",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "Campeão",
+    "type": "Feitiço",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044",
+      "98SB044T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB044T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB044T2-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Cause 3 de dano a todos os inimigos marcados.\r\nCrie 1 <link=card.level1><style=AssociatedCard>A Arrebatadora</style></link> no seu deck.",
+    "descriptionRaw": "Cause 3 de dano a todos os inimigos marcados.\r\nCrie 1 A Arrebatadora no seu deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Quem carrega a marca da morte deve fugir... ou perecer.",
+    "artistName": "Envar Studio",
+    "name": "Dança de Flechas dos Kindred",
+    "cardCode": "98SB044T2",
+    "keywords": [
+      "Súbito"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Súbito",
+    "spellSpeedRef": "Burst",
+    "rarity": "Nenhum (a)",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "Campeão",
+    "type": "Feitiço",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044",
+      "98SB044T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB044T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB044T3-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Marque um inimigo aleatório.\r\nCrie 1 <link=card.level1><style=AssociatedCard>A Arrebatadora</style></link> no seu deck.",
+    "descriptionRaw": "Marque um inimigo aleatório.\r\nCrie 1 A Arrebatadora no seu deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Quem carrega a marca da morte deve fugir... ou perecer.",
+    "artistName": "Envar Studio",
+    "name": "Dança de Flechas dos Kindred",
+    "cardCode": "98SB044T3",
+    "keywords": [
+      "Súbito"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Súbito",
+    "spellSpeedRef": "Burst",
+    "rarity": "Nenhum (a)",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "Campeão",
+    "type": "Feitiço",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044",
+      "98SB044T4",
+      "98SB047"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB044T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB044T1-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual",
+      "Ilhas das Sombras"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "ShadowIsles"
+    ],
+    "attack": 20,
+    "cost": 4,
+    "health": 20,
+    "description": "Não posso sofrer dano nem morrer.\r\nInimigos são marcados.\r\n<link=card.create1><style=AssociatedCard>Frenesi da Fera</style></link> me faz atacar.",
+    "descriptionRaw": "Não posso sofrer dano nem morrer.\r\nInimigos são marcados.\r\nFrenesi da Fera me faz atacar.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Querida Fera, vamos guiar todos para o outro mundo.",
+    "artistName": "Caravan Studio",
+    "name": "Kindred Florescer Espiritual",
+    "cardCode": "98SB044T1",
+    "keywords": [
+      "Desafiador"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Campeão",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Campeão",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB035-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 2,
+    "cost": 7,
+    "health": 7,
+    "description": "<link=vocab.Play><style=Vocab>Jogar</style></link>: <link=vocab.GatherStorm><style=Vocab>Convoque Tempestade</style></link> um número de vezes equivalente ao meu Poder.",
+    "descriptionRaw": "Jogar: Convoque Tempestade um número de vezes equivalente ao meu Poder.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Aperfeiçoe sua mente como sua lâmina: afiada o bastante para rasgar as farsas, forte o bastante para resistir à tempestade.\"",
+    "artistName": "Envar Studio",
+    "name": "Sábio da Tempeslâmina",
+    "cardCode": "98SB035",
+    "keywords": [
+      "Desafiador"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMUM",
+    "rarityRef": "Common",
+    "subtypes": [
+      "YORDLE"
+    ],
+    "supertype": "",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB016-full.png"
       }
     ],
     "regions": [
@@ -500,13 +1082,51 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB027-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>Jogar</style></link>: Escolha 1 de 3 feitiços de alvo único usados em aliados nesta partida e jogue-o em mim.",
+    "descriptionRaw": "Jogar: Escolha 1 de 3 feitiços de alvo único usados em aliados nesta partida e jogue-o em mim.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "A Prodígio golpeou uma vez, duas vezes. Sob a máscara do Mestre Solitário havia a sombra de um sorriso.",
+    "artistName": "Envar Studio",
+    "name": "Sombra da Prodígio",
+    "cardCode": "98SB027",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ÉPICO (A)",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "98SB007"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB011-full.png"
       }
     ],
     "regions": [
@@ -540,6 +1160,48 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB043-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Invoque uma cópia <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Efêmera</style></link> idêntica de um seguidor inimigo.",
+    "descriptionRaw": "Invoque uma cópia Efêmera idêntica de um seguidor inimigo.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Vidas mortais são tão passageiras.",
+    "artistName": "Envar Studio",
+    "name": "Espíritos Fugazes",
+    "cardCode": "98SB043",
+    "keywords": [
+      "Súbito"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Súbito",
+    "spellSpeedRef": "Burst",
+    "rarity": "RARO (A)",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Feitiço",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "98SB007",
       "98SB020T1",
@@ -547,8 +1209,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB020-full.png"
       }
     ],
     "regions": [
@@ -562,8 +1224,8 @@
     "attack": 1,
     "cost": 4,
     "health": 4,
-    "description": "<link=vocab.Attack><style=Vocab>Atacar</style></link>: Invoque um <link=card.summon><style=AssociatedCard>Fogo de Raposa</style></link> atacante com atributos equivalentes ao custo do feitiço mais caro que você tiver jogado nesta partida.",
-    "descriptionRaw": "Atacar: Invoque um Fogo de Raposa atacante com atributos equivalentes ao custo do feitiço mais caro que você tiver jogado nesta partida.",
+    "description": "<link=vocab.Attack><style=Vocab>Atacar</style></link>: Invoque 1 <link=card.summon><style=AssociatedCard>Fogo de Raposa</style></link> atacante com atributos equivalentes ao custo do feitiço mais caro que você tiver jogado nesta partida. <style=Variable></style>",
+    "descriptionRaw": "Atacar: Invoque 1 Fogo de Raposa atacante com atributos equivalentes ao custo do feitiço mais caro que você tiver jogado nesta partida. ",
     "levelupDescription": "Aliados <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Efêmeros</style></link> causaram 25+ de dano. <style=Variable></style>",
     "levelupDescriptionRaw": "Aliados Efêmeros causaram 25+ de dano. ",
     "flavorText": "Bom, já que estou aqui, vou aproveitar e me divertir. Quem topa uma caçada espiritual?",
@@ -595,8 +1257,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB020T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB020T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB020T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB020T2-full.png"
       }
     ],
     "regions": [
@@ -610,8 +1272,8 @@
     "attack": 2,
     "cost": 4,
     "health": 5,
-    "description": "<link=vocab.Attack><style=Vocab>Atacar</style></link>: Invoque um <link=card.summon><style=AssociatedCard>Fogo de Raposa</style></link> atacante com atributos equivalentes ao custo do feitiço mais caro que você tiver jogado nesta partida.\r\nAo sofrer um ataque, invoque um para defender.",
-    "descriptionRaw": "Atacar: Invoque um Fogo de Raposa atacante com atributos equivalentes ao custo do feitiço mais caro que você tiver jogado nesta partida.\r\nAo sofrer um ataque, invoque um para defender.",
+    "description": "<link=vocab.Attack><style=Vocab>Atacar</style></link>: Invoque 1 <link=card.summon><style=AssociatedCard>Fogo de Raposa</style></link> atacante com atributos equivalentes ao custo do feitiço mais caro que você tiver jogado nesta partida.\r\nAo sofrer um ataque, invoque 1 para defender. <style=Variable></style>",
+    "descriptionRaw": "Atacar: Invoque 1 Fogo de Raposa atacante com atributos equivalentes ao custo do feitiço mais caro que você tiver jogado nesta partida.\r\nAo sofrer um ataque, invoque 1 para defender. ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Às vezes brincalhão, outras vezes cruel, o misterioso Espírito da Raposa assombra aqueles que desafiam o caminho dele.",
@@ -642,8 +1304,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB020T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB020T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB020T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB020T1-full.png"
       }
     ],
     "regions": [
@@ -687,8 +1349,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB020T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB020T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB020T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB020T4-full.png"
       }
     ],
     "regions": [
@@ -732,8 +1394,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB020T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB020T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB020T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB020T3-full.png"
       }
     ],
     "regions": [
@@ -776,8 +1438,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB012-full.png"
       }
     ],
     "regions": [
@@ -818,8 +1480,297 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB033-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Strike><style=Vocab>Golpear</style></link>: <link=vocab.GatherStorm><style=Vocab>Convoque Tempestade</style></link>.",
+    "descriptionRaw": "Golpear: Convoque Tempestade.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Os ecos de guerreiros do passado respondem ao chamado da batalha.",
+    "artistName": "Envar Studio",
+    "name": "Sombras de Batalhas Passadas",
+    "cardCode": "98SB033",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMUM",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unidade",
+    "collectible": true,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB025T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB025-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 2,
+    "health": 1,
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Suspiro Final</style></link>: Crie 1 <link=card.create><style=AssociatedCard>Lição do Luto</style></link> na mão.",
+    "descriptionRaw": "Suspiro Final: Crie 1 Lição do Luto na mão.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Quando as lições acabam, a jornada começa.",
+    "artistName": "Envar Studio",
+    "name": "Aluno Caído",
+    "cardCode": "98SB025",
+    "keywords": [
+      "Suspiro Final"
+    ],
+    "keywordRefs": [
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARO (A)",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB046-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 2,
+    "cost": 5,
+    "health": 6,
+    "description": "<link=vocab.Play><style=Vocab>Jogar</style></link>: Marque um inimigo.\r\n<link=vocab.RoundEnd><style=Vocab>Fim de Rodada</style></link>: Eu <link=vocab.Strike><style=Vocab>Golpeio</style></link> todos os inimigos marcados.",
+    "descriptionRaw": "Jogar: Marque um inimigo.\r\nFim de Rodada: Eu Golpeio todos os inimigos marcados.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Esconde-esconde. Uma brincadeira tão inocente. Com consequências tão mortais.",
+    "artistName": "Envar Studio",
+    "name": "Fera Paciente",
+    "cardCode": "98SB046",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARO (A)",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB037T1",
+      "98SB037T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB037-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 7,
+    "cost": 15,
+    "health": 7,
+    "description": "Não posso ser um <link=vocab.StormTarget><style=Vocab>Conduíte de Tempestade</style></link>. Eu custo 1 a menos para cada vez que você tiver <link=vocab.GatherStorm><style=Vocab>Convocado Tempestade</style></link> nesta partida.\r\nAo me invocar, <link=vocab.Obliterate><style=Vocab>Oblitere</style></link> o inimigo <link=vocab.Strongest><style=Vocab>Mais Forte</style></link>.",
+    "descriptionRaw": "Não posso ser um Conduíte de Tempestade. Eu custo 1 a menos para cada vez que você tiver Convocado Tempestade nesta partida.\r\nAo me invocar, Oblitere o inimigo Mais Forte.",
+    "levelupDescription": "Você <link=vocab.GatherStorm><style=Vocab>Convocou Tempestade</style></link> 15+ vezes. <style=Variable></style><br>",
+    "levelupDescriptionRaw": "Você Convocou Tempestade 15+ vezes. ",
+    "flavorText": "\"Na sepultura do irmão, o Caçula se ajoelhou, pois sabia que eram, ambos, vítimas da tragédia.\" – O Conto dos Irmãos Combatentes",
+    "artistName": "Kudos Productions",
+    "name": "Yasuo Florescer Espiritual",
+    "cardCode": "98SB037",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Campeão",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Campeão",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB037",
+      "98SB037T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB037T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB037T1-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 8,
+    "cost": 15,
+    "health": 8,
+    "description": "Não posso ser um <link=vocab.StormTarget><style=Vocab>Conduíte de Tempestade</style></link>. \r\nEu custo 1 a menos para cada vez que você tiver <link=vocab.GatherStorm><style=Vocab>Convocado Tempestade</style></link> nesta partida.\r\nAo me invocar ou <link=vocab.Attack><style=Vocab>Atacar</style></link>: <link=vocab.Obliterate><style=Vocab>Oblitere</style></link> o inimigo <link=vocab.Strongest><style=Vocab>Mais Forte</style></link>.",
+    "descriptionRaw": "Não posso ser um Conduíte de Tempestade. \r\nEu custo 1 a menos para cada vez que você tiver Convocado Tempestade nesta partida.\r\nAo me invocar ou Atacar: Oblitere o inimigo Mais Forte.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Mas assim como o rio percorre o sinuoso caminho desgastado, nós também somos moldados pelos que seguimos. Mesmo agora, o Caçula segue os passos do Primogênito.\" – O Conto dos Irmãos Combatentes",
+    "artistName": "Kudos Productions",
+    "name": "O Irmão Caçula",
+    "cardCode": "98SB037T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Campeão",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "Campeão",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB037",
+      "98SB037T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB037T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB037T2-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "<link=keyword.Recall><style=Keyword>Retorne</style></link> um inimigo para <link=vocab.GatherStorm><style=Vocab>Convocar Tempestade</style></link> duas vezes.\r\nCrie 1 <link=card.level1><style=AssociatedCard>Yasuo Florescer Espiritual</style></link> no seu deck.",
+    "descriptionRaw": "Retorne um inimigo para Convocar Tempestade duas vezes.\r\nCrie 1 Yasuo Florescer Espiritual no seu deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Não se mexa... O vento está em fúria.\"",
+    "artistName": "Kudos Productions",
+    "name": "Suspiro Final de Yasuo",
+    "cardCode": "98SB037T2",
+    "keywords": [
+      "Rápido"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Rápido",
+    "spellSpeedRef": "Fast",
+    "rarity": "COMUM",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "Campeão",
+    "type": "Feitiço",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB032-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=keyword.Recall><style=Keyword>Retorne</style></link> um inimigo para reduzir em 3 o custo de uma carta aleatória na mão.",
+    "descriptionRaw": "Retorne um inimigo para reduzir em 3 o custo de uma carta aleatória na mão.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Não se mexa... O vento está em fúria.\"",
+    "artistName": "Envar Studio",
+    "name": "Liberte a Tempestade",
+    "cardCode": "98SB032",
+    "keywords": [
+      "Rápido"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Rápido",
+    "spellSpeedRef": "Fast",
+    "rarity": "COMUM",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Feitiço",
+    "collectible": true,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB004-full.png"
       }
     ],
     "regions": [
@@ -831,8 +1782,8 @@
     "attack": 4,
     "cost": 4,
     "health": 4,
-    "description": "<link=vocab.Play><style=Vocab>Jogar</style></link>: O <link=vocab.Foe><style=Vocab>Oponente</style></link> compra 2 cartas e descarta 2 cartas.",
-    "descriptionRaw": "Jogar: O Oponente compra 2 cartas e descarta 2 cartas.",
+    "description": "<link=vocab.Play><style=Vocab>Jogar</style></link>: Seu oponente compra 2 cartas e descarta 2 cartas.",
+    "descriptionRaw": "Jogar: Seu oponente compra 2 cartas e descarta 2 cartas.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Bobagem! Claro que você tem espaço para a terceira porção, meu bem.\"",
@@ -858,8 +1809,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB017-full.png"
       }
     ],
     "regions": [
@@ -893,13 +1844,179 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB042-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 5,
+    "description": "Ao alvejar um inimigo, marque-o.",
+    "descriptionRaw": "Ao alvejar um inimigo, marque-o.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Para olhos atentos, a dança de um mortal com a morte é esperada.",
+    "artistName": "Envar Studio",
+    "name": "Vidente da Morte",
+    "cardCode": "98SB042",
+    "keywords": [
+      "Regeneração"
+    ],
+    "keywordRefs": [
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ÉPICO (A)",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB024-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "Ao jogar um feitiço, me conceda +1|+1 nesta rodada.",
+    "descriptionRaw": "Ao jogar um feitiço, me conceda +1|+1 nesta rodada.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Na morte se aprende a tecer a magia da vida.",
+    "artistName": "Envar Studio",
+    "name": "Aspirante a Espírito",
+    "cardCode": "98SB024",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMUM",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB036-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=vocab.Manifest><style=Vocab>Manifeste</style></link> um seguidor de custo 6+ e transforme-o em um <link=vocab.StormTarget><style=Vocab>Conduíte de Tempestade</style></link>. ",
+    "descriptionRaw": "Manifeste um seguidor de custo 6+ e transforme-o em um Conduíte de Tempestade. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Os espíritos se reúnem, atraídos pelas pétalas recém-caídas. Aguardando a ordem de quem os guiará para casa. ",
+    "artistName": "Kudos Productions",
+    "name": "Comunhão com Espíritos",
+    "cardCode": "98SB036",
+    "keywords": [
+      "Súbito"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Súbito",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMUM",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Feitiço",
+    "collectible": true,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB045-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Suspiro Final</style></link>: Marco o inimigo que me abateu.",
+    "descriptionRaw": "Suspiro Final: Marco o inimigo que me abateu.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Se intrometer com a família da Arrebatadora é uma empreitada fatal.",
+    "artistName": "Envar Studio",
+    "name": "Diabinha Vingativa",
+    "cardCode": "98SB045",
+    "keywords": [
+      "Suspiro Final",
+      "Imortal"
+    ],
+    "keywordRefs": [
+      "LastBreath",
+      "Deathless"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ÉPICO (A)",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "01PZ022"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB006-full.png"
       }
     ],
     "regions": [
@@ -940,8 +2057,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB018-full.png"
       }
     ],
     "regions": [
@@ -979,13 +2096,55 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB026-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Conceda (<style=Variable>+1|+1</style>) a um aliado nesta rodada. Aumente o fortalecimento em +1|+1 para cada vez que isto foi jogado nesta partida. ",
+    "descriptionRaw": "Conceda (+1|+1) a um aliado nesta rodada. Aumente o fortalecimento em +1|+1 para cada vez que isto foi jogado nesta partida. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Precisão pela repetição.",
+    "artistName": "Kudos Productions",
+    "name": "Prática Leva à Perfeição",
+    "cardCode": "98SB026",
+    "keywords": [
+      "Súbito"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Súbito",
+    "spellSpeedRef": "Burst",
+    "rarity": "ÉPICO (A)",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Feitiço",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "98SB007"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB012T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB012T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB012T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB012T2-full.png"
       }
     ],
     "regions": [
@@ -1028,8 +2187,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB012T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB012T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB012T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB012T1-full.png"
       }
     ],
     "regions": [
@@ -1070,8 +2229,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB019-full.png"
       }
     ],
     "regions": [
@@ -1112,8 +2271,50 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB040-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Marque um inimigo aleatório ou gaste 4 de Mana para causar 3 de dano a todos os inimigos marcados.",
+    "descriptionRaw": "Marque um inimigo aleatório ou gaste 4 de Mana para causar 3 de dano a todos os inimigos marcados.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Quem carrega a marca da morte deve fugir... ou perecer.",
+    "artistName": "Envar Studio",
+    "name": "Dança de Flechas",
+    "cardCode": "98SB040",
+    "keywords": [
+      "Súbito"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Súbito",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMUM",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Feitiço",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB010-full.png"
       }
     ],
     "regions": [
@@ -1156,8 +2357,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB002-full.png"
       }
     ],
     "regions": [
@@ -1196,8 +2397,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB010T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB010T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB010T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB010T2-full.png"
       }
     ],
     "regions": [
@@ -1238,8 +2439,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB010T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB010T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB010T1-full.png"
       }
     ],
     "regions": [
@@ -1280,8 +2481,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB019T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB019T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB019T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB019T2-full.png"
       }
     ],
     "regions": [
@@ -1322,8 +2523,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB019T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB019T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB019T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB019T1-full.png"
       }
     ],
     "regions": [
@@ -1364,15 +2565,17 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB009-full.png"
       }
     ],
     "regions": [
-      "Florescer Espiritual"
+      "Florescer Espiritual",
+      "Ionia"
     ],
     "regionRefs": [
-      "SpiritBlossom"
+      "SpiritBlossom",
+      "Ionia"
     ],
     "attack": 2,
     "cost": 3,
@@ -1402,8 +2605,217 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB025T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB025T2-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Conceda (<style=Variable>+0|+0</style>) a um aliado nesta rodada. O fortalecimento é equivalente ao maior Ataque e à maior Vida entre os aliados que morreram nesta partida.",
+    "descriptionRaw": "Conceda (+0|+0) a um aliado nesta rodada. O fortalecimento é equivalente ao maior Ataque e à maior Vida entre os aliados que morreram nesta partida.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Dizem que os caídos dão sua força aos que permanecem.",
+    "artistName": "Envar Studio",
+    "name": "Lição do Luto",
+    "cardCode": "98SB025T2",
+    "keywords": [
+      "Súbito"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Súbito",
+    "spellSpeedRef": "Burst",
+    "rarity": "Nenhum (a)",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Feitiço",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB041",
+      "98SB044T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB047-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "Invoque 1 <link=card.summon><style=AssociatedCard>A Fera</style></link> <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Desafiando</style></link> um inimigo marcado.",
+    "descriptionRaw": "Invoque 1 A Fera Desafiando um inimigo marcado.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "",
+    "artistName": "Kudos Productions",
+    "name": "Frenesi da Fera",
+    "cardCode": "98SB047",
+    "keywords": [
+      "Lento"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Lento",
+    "spellSpeedRef": "Slow",
+    "rarity": "RARO (A)",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Feitiço",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB040T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB040T1-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Cause 3 de dano a todos os inimigos marcados.",
+    "descriptionRaw": "Cause 3 de dano a todos os inimigos marcados.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Quem carrega a marca da morte deve fugir... ou perecer.",
+    "artistName": "Envar Studio",
+    "name": "Dança de Flechas",
+    "cardCode": "98SB040T1",
+    "keywords": [
+      "Súbito"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Súbito",
+    "spellSpeedRef": "Burst",
+    "rarity": "Nenhum (a)",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Feitiço",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB040T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB040T2-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Marque um inimigo aleatório.",
+    "descriptionRaw": "Marque um inimigo aleatório.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Quem carrega a marca da morte deve fugir... ou perecer.",
+    "artistName": "Envar Studio",
+    "name": "Dança de Flechas",
+    "cardCode": "98SB040T2",
+    "keywords": [
+      "Súbito"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Súbito",
+    "spellSpeedRef": "Burst",
+    "rarity": "Nenhum (a)",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Feitiço",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB038-full.png"
+      }
+    ],
+    "regions": [
+      "Florescer Espiritual"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "Quando você joga outra carta com custo reduzido, eu ganho +1|+1.",
+    "descriptionRaw": "Quando você joga outra carta com custo reduzido, eu ganho +1|+1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Sou apenas o começo. Outros surgirão com o vento.\"",
+    "artistName": "Envar Studio",
+    "name": "Alma Erguida",
+    "cardCode": "98SB038",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMUM",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unidade",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB015-full.png"
       }
     ],
     "regions": [
@@ -1444,8 +2856,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SB003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SB003-full.png"
       }
     ],
     "regions": [
@@ -1463,7 +2875,7 @@
     "levelupDescriptionRaw": "",
     "flavorText": "Mãos rápidas, dedos ágeis.",
     "artistName": "Envar Studio",
-    "name": "Eba!",
+    "name": "Passa pra cá!",
     "cardCode": "98SB003",
     "keywords": [
       "Súbito"
@@ -1490,8 +2902,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98BW003-full.png"
       }
     ],
     "regions": [
@@ -1532,8 +2944,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98BW004-full.png"
       }
     ],
     "regions": [
@@ -1574,8 +2986,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98BW005-full.png"
       }
     ],
     "regions": [
@@ -1616,8 +3028,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98BW002-full.png"
       }
     ],
     "regions": [
@@ -1658,8 +3070,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98BW006-full.png"
       }
     ],
     "regions": [
@@ -1704,8 +3116,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX003-full.png"
       }
     ],
     "regions": [
@@ -1751,8 +3163,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX003T2-full.png"
       }
     ],
     "regions": [
@@ -1797,8 +3209,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX003T1-full.png"
       }
     ],
     "regions": [
@@ -1841,8 +3253,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX007-full.png"
       }
     ],
     "regions": [
@@ -1883,8 +3295,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX008-full.png"
       }
     ],
     "regions": [
@@ -1921,8 +3333,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX004-full.png"
       }
     ],
     "regions": [
@@ -1963,8 +3375,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX006-full.png"
       }
     ],
     "regions": [
@@ -2007,8 +3419,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98NX005-full.png"
       }
     ],
     "regions": [
@@ -2049,8 +3461,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ007-full.png"
       }
     ],
     "regions": [
@@ -2087,8 +3499,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ005-full.png"
       }
     ],
     "regions": [
@@ -2133,8 +3545,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ006-full.png"
       }
     ],
     "regions": [
@@ -2177,8 +3589,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ006T2-full.png"
       }
     ],
     "regions": [
@@ -2222,8 +3634,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ006T3-full.png"
       }
     ],
     "regions": [
@@ -2268,8 +3680,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ006T1-full.png"
       }
     ],
     "regions": [
@@ -2315,8 +3727,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ001-full.png"
       }
     ],
     "regions": [
@@ -2355,8 +3767,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ001T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ001T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ001T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ001T4-full.png"
       }
     ],
     "regions": [
@@ -2400,8 +3812,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ001T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ001T2-full.png"
       }
     ],
     "regions": [
@@ -2447,8 +3859,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ001T1-full.png"
       }
     ],
     "regions": [
@@ -2489,8 +3901,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ004-full.png"
       }
     ],
     "regions": [
@@ -2533,8 +3945,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ008-full.png"
       }
     ],
     "regions": [
@@ -2546,8 +3958,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Cause 1 de dano a uma unidade ou ao Nexus inimigo, depois a outro alvo, depois a outro.",
-    "descriptionRaw": "Cause 1 de dano a uma unidade ou ao Nexus inimigo, depois a outro alvo, depois a outro.",
+    "description": "Cause 1 de dano a uma unidade ou ao Nexus inimigo, e a outro alvo, e a outro.",
+    "descriptionRaw": "Cause 1 de dano a uma unidade ou ao Nexus inimigo, e a outro alvo, e a outro.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Minha influência é vasta, e meus recursos são abundantes. Minha magia não é diferente.\" — Mel Medarda",
@@ -2575,8 +3987,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98PZ009-full.png"
       }
     ],
     "regions": [
@@ -2617,8 +4029,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SI003-full.png"
       }
     ],
     "regions": [
@@ -2659,8 +4071,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SI002-full.png"
       }
     ],
     "regions": [
@@ -2701,8 +4113,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SI002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SI002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SI002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SI002T1-full.png"
       }
     ],
     "regions": [
@@ -2757,8 +4169,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SI002T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SI002T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SI002T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SI002T2-full.png"
       }
     ],
     "regions": [
@@ -2813,8 +4225,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU007-full.png"
       }
     ],
     "regions": [
@@ -2857,8 +4269,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU006-full.png"
       }
     ],
     "regions": [
@@ -2901,8 +4313,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU009-full.png"
       }
     ],
     "regions": [
@@ -2945,8 +4357,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU003-full.png"
       }
     ],
     "regions": [
@@ -2987,8 +4399,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU005-full.png"
       }
     ],
     "regions": [
@@ -3035,8 +4447,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU004-full.png"
       }
     ],
     "regions": [
@@ -3077,8 +4489,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU004T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU004T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU004T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU004T3-full.png"
       }
     ],
     "regions": [
@@ -3123,8 +4535,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU004T1-full.png"
       }
     ],
     "regions": [
@@ -3168,8 +4580,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU004T2-full.png"
       }
     ],
     "regions": [
@@ -3210,8 +4622,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU001-full.png"
       }
     ],
     "regions": [
@@ -3252,8 +4664,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU011-full.png"
       }
     ],
     "regions": [
@@ -3308,8 +4720,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU008-full.png"
       }
     ],
     "regions": [
@@ -3352,8 +4764,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98RU010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98RU010-full.png"
       }
     ],
     "regions": [
@@ -3398,8 +4810,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98DE001-full.png"
       }
     ],
     "regions": [
@@ -3440,8 +4852,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98FR003-full.png"
       }
     ],
     "regions": [
@@ -3482,8 +4894,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SH002-full.png"
       }
     ],
     "regions": [
@@ -3543,8 +4955,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SH001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SH001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SH001-full.png"
       }
     ],
     "regions": [
@@ -3585,8 +4997,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SH001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98SH001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SH001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98SH001T1-full.png"
       }
     ],
     "regions": [
@@ -3629,8 +5041,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98BC001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/pt_br/img/cards/98BC001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/pt_br/img/cards/98BC001-full.png"
       }
     ],
     "regions": [
