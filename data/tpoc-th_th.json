@@ -2,13 +2,187 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
+      "98SB030T2",
+      "98SB030T1",
+      "98SB030T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB030-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom",
+      "ไอ<zwsp>โอ<zwsp>เนีย"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Ionia"
+    ],
+    "attack": 5,
+    "cost": 8,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: เวทแต่ละใบที่คุณเล่น ซึ่งเล็งเป้าหมายเฉพาะพันธมิตรในเกมนี้<br>จะถูก<link=vocab.Animate><style=Vocab>ปลุกเสก</style></link>ขึ้นมา<br>เวทที่ปลุกเสกจะเริ่มการโจมตีฟรี",
+    "descriptionRaw": "เล่น: เวทแต่ละใบที่คุณเล่น ซึ่งเล็งเป้าหมายเฉพาะพันธมิตรในเกมนี้จะถูกปลุกเสกขึ้นมาเวทที่ปลุกเสกจะเริ่มการโจมตีฟรี",
+    "levelupDescription": "คุณเล็งเป้าหมายพันธมิตร 12 ครั้ง <style=Variable></style>",
+    "levelupDescriptionRaw": "คุณเล็งเป้าหมายพันธมิตร 12 ครั้ง ",
+    "flavorText": "ว่ากันว่าปรมาจารย์ผู้เดียวดายคอยกำจัดความชั่วร้าย<br>ขณะที่ตามหาลูกศิษย์ที่สูญหายไป…",
+    "artistName": "Envar Studio",
+    "name": "Spirit Blossom Master Yi",
+    "cardCode": "98SB030",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แชมเปี้ยน",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB030"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB030T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB030T1-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "มอบ (<style=Variable>+0|+0</style>) แก่พันธมิตรหนึ่งใบในรอบนี้ เพิ่มบัฟ +1|+1 ทุกครั้งที่คุณร่ายเวทนี้ในเกมนี้\r\nสร้าง <link=card.level1><style=AssociatedCard>Spirit Blossom Master Yi</style></link> หนึ่งใบในเด็คของคุณ",
+    "descriptionRaw": "มอบ (+0|+0) แก่พันธมิตรหนึ่งใบในรอบนี้ เพิ่มบัฟ +1|+1 ทุกครั้งที่คุณร่ายเวทนี้ในเกมนี้\r\nสร้าง Spirit Blossom Master Yi หนึ่งใบในเด็คของคุณ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ยิ่งซ้อม ยิ่งแม่น",
+    "artistName": "Kudos Productions",
+    "name": "Master Yi's Practice Makes Perfect",
+    "cardCode": "98SB030T1",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB030T1",
+      "98SB030",
+      "98SB030T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB030T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB030T2-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom",
+      "ไอ<zwsp>โอ<zwsp>เนีย"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "Ionia"
+    ],
+    "attack": 6,
+    "cost": 8,
+    "health": 6,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: เวทแต่ละใบที่คุณเล่น ซึ่งเล็งเป้าหมายเฉพาะพันธมิตรในเกมนี้<br>จะถูก<link=vocab.Animate><style=Vocab>ปลุกเสก</style></link>ขึ้นมา<br>เวทที่ปลุกเสกจะเริ่มการโจมตีฟรี\r\n<link=vocab.Attack><style=Vocab>โจมตี</style></link>: หากมีศัตรู การ์ดใบนี้จะ<link=vocab.Strike><style=Vocab>จู่โจม</style></link>ศัตรูเหล่านั้นและ<link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>",
+    "descriptionRaw": "เล่น: เวทแต่ละใบที่คุณเล่น ซึ่งเล็งเป้าหมายเฉพาะพันธมิตรในเกมนี้จะถูกปลุกเสกขึ้นมาเวทที่ปลุกเสกจะเริ่มการโจมตีฟรี\r\nโจมตี: หากมีศัตรู การ์ดใบนี้จะจู่โจมศัตรูเหล่านั้นและเรียกกลับ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "…แต่เงามืดแห่งอดีตจะไม่เคยสงบ เพราะปรมาจารย์ผู้เดียวดายจะไม่หยุดการตามหาไปชั่วนิรันดร์",
+    "artistName": "Envar Studio",
+    "name": "The Lonely Master",
+    "cardCode": "98SB030T2",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แชมเปี้ยน",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB030T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB030T3-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "จากเงามืดสู่แสงสว่าง เจตจำนงของปรมาจารย์ผู้เดียวดายจะเป็นที่ประจักษ์",
+    "artistName": "Envar Studio",
+    "name": "Blademaster's Phantom",
+    "cardCode": "98SB030T3",
+    "keywords": [
+      "ไร้ตัวตน"
+    ],
+    "keywordRefs": [
+      "Ephemeral"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
       "98SB013T2",
       "98SB013T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB013-full.png"
       }
     ],
     "regions": [
@@ -54,8 +228,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB013T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB013T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB013T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB013T1-full.png"
       }
     ],
     "regions": [
@@ -99,8 +273,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB013T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB013T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB013T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB013T2-full.png"
       }
     ],
     "regions": [
@@ -142,11 +316,57 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB041-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom",
+      "เกาะ<zwsp>แห่ง<zwsp>เงา"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "ShadowIsles"
+    ],
+    "attack": 8,
+    "cost": 6,
+    "health": 8,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "รื่นรมย์กับการไล่ล่าอันเป็นนิรันดร์ ",
+    "artistName": "CARAVAN",
+    "name": "The Beast",
+    "cardCode": "98SB041",
+    "keywords": [
+      "ไร้ตัวตน"
+    ],
+    "keywordRefs": [
+      "Ephemeral"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB001-full.png"
       }
     ],
     "regions": [
@@ -189,8 +409,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB007-full.png"
       }
     ],
     "regions": [
@@ -231,8 +451,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB014-full.png"
       }
     ],
     "regions": [
@@ -277,8 +497,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB031-full.png"
       }
     ],
     "regions": [
@@ -327,8 +547,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB031T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB031T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB031T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB031T1-full.png"
       }
     ],
     "regions": [
@@ -373,8 +593,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB031T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB031T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB031T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB031T2-full.png"
       }
     ],
     "regions": [
@@ -419,8 +639,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB008-full.png"
       }
     ],
     "regions": [
@@ -458,11 +678,373 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB041"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB021-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "อัญเชิญ <link=card.summon><style=AssociatedCard>The Beast</style></link> หนึ่งใบ พร้อม<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ท้าชิง</style></link>ศัตรูหนึ่งใบ ",
+    "descriptionRaw": "อัญเชิญ The Beast หนึ่งใบ พร้อมท้าชิงศัตรูหนึ่งใบ ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "สำหรับอสูร ความกลัวได้เปลี่ยนการไล่ล่าให้กลายเป็นเกม",
+    "artistName": "CARAVAN",
+    "name": "Unleashed Frenzy",
+    "cardCode": "98SB021",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB039-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "<link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>ศัตรูหนึ่งใบเพื่อ<link=vocab.GatherStorm><style=Vocab>ก่อพายุ</style></link>สองครั้ง",
+    "descriptionRaw": "เรียกกลับศัตรูหนึ่งใบเพื่อก่อพายุสองครั้ง",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"จงนิ่งไว้… ลมกำลังรวบรวมพลังแห่งโทสะ\"",
+    "artistName": "Envar Studio",
+    "name": "Last Breath",
+    "cardCode": "98SB039",
+    "keywords": [
+      "เร็ว"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "เร็ว",
+    "spellSpeedRef": "Fast",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044T1",
+      "98SB044T4",
+      "98SB041",
+      "98SB047"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB044-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom",
+      "เกาะ<zwsp>แห่ง<zwsp>เงา"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "ShadowIsles"
+    ],
+    "attack": 1,
+    "cost": 4,
+    "health": 1,
+    "description": "การ์ดใบนี้ไม่สามารถ<zwsp>ได้รับ<zwsp>ความเสียหาย<zwsp>หรือ<zwsp>ตาย<zwsp>ได้\r\nเมื่อการ์ด<zwsp>ใบนี้<zwsp>ทำ<zwsp>ความเสียหาย<zwsp>ต่อศัตรูหนึ่งใบ จะทำ<zwsp>เครื่องหมาย<zwsp>ศัตรู<zwsp>ใบนั้น<zwsp>ด้วย",
+    "descriptionRaw": "การ์ดใบนี้ไม่สามารถได้รับความเสียหายหรือตายได้\r\nเมื่อการ์ดใบนี้ทำความเสียหายต่อศัตรูหนึ่งใบ จะทำเครื่องหมายศัตรูใบนั้นด้วย",
+    "levelupDescription": "เมื่อศัตรูที่มีเครื่องหมาย 5 ใบถูกสังหาร และการ์ดใบนี้เห็น <link=card.wolf><style=AssociatedCard>The Beast</style></link> โจมตี การ์ดเหล่านี้จะรวมกัน และเลเวลอัป<style=Variable></style>",
+    "levelupDescriptionRaw": "เมื่อศัตรูที่มีเครื่องหมาย 5 ใบถูกสังหาร และการ์ดใบนี้เห็น The Beast โจมตี การ์ดเหล่านี้จะรวมกัน และเลเวลอัป",
+    "flavorText": "\"ดวงวิญญาณที่หลงทางเหล่านี้ ช่างน่าเวทนา ช่างไม่รู้อะไรเลย\"\n\n",
+    "artistName": "Caravan Studio",
+    "name": "The Taker",
+    "cardCode": "98SB044",
+    "keywords": [
+      "ผู้ท้าชิง"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แชมเปี้ยน",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044",
+      "98SB044T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB044T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB044T4-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "ทำเครื่องหมายศัตรูหนึ่งใบแบบสุ่ม หรือใช้มานา 4 หน่วยเพื่อสร้างความเสียหาย 3 หน่วยแก่ศัตรูทั้งหมดที่มีเครื่องหมาย\r\nสร้าง <link=card.level1><style=AssociatedCard>The Taker</style></link> หนึ่งใบในเด็คของคุณ",
+    "descriptionRaw": "ทำเครื่องหมายศัตรูหนึ่งใบแบบสุ่ม หรือใช้มานา 4 หน่วยเพื่อสร้างความเสียหาย 3 หน่วยแก่ศัตรูทั้งหมดที่มีเครื่องหมาย\r\nสร้าง The Taker หนึ่งใบในเด็คของคุณ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "สำหรับผู้ที่ถูกความตายหมายหัวไว้... มีแต่หนีกับร่วงเท่านั้น",
+    "artistName": "Envar Studio",
+    "name": "Kindred's Dance of Arrows",
+    "cardCode": "98SB044T4",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044",
+      "98SB044T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB044T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB044T2-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "สร้างความเสียหาย 3 หน่วยแก่ศัตรูทั้งหมดที่มีเครื่องหมาย\r\nสร้าง <link=card.level1><style=AssociatedCard>The Taker</style></link> หนึ่งใบในเด็คของคุณ",
+    "descriptionRaw": "สร้างความเสียหาย 3 หน่วยแก่ศัตรูทั้งหมดที่มีเครื่องหมาย\r\nสร้าง The Taker หนึ่งใบในเด็คของคุณ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "สำหรับผู้ที่ถูกความตายหมายหัวไว้... มีแต่หนีกับร่วงเท่านั้น",
+    "artistName": "Envar Studio",
+    "name": "Kindred's Dance of Arrows",
+    "cardCode": "98SB044T2",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044",
+      "98SB044T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB044T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB044T3-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "ทำเครื่องหมายศัตรูหนึ่งใบแบบสุ่ม\r\nสร้าง <link=card.level1><style=AssociatedCard>The Taker</style></link> หนึ่งใบในเด็คของคุณ",
+    "descriptionRaw": "ทำเครื่องหมายศัตรูหนึ่งใบแบบสุ่ม\r\nสร้าง The Taker หนึ่งใบในเด็คของคุณ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "สำหรับผู้ที่ถูกความตายหมายหัวไว้... มีแต่หนีกับร่วงเท่านั้น",
+    "artistName": "Envar Studio",
+    "name": "Kindred's Dance of Arrows",
+    "cardCode": "98SB044T3",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB044",
+      "98SB044T4",
+      "98SB047"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB044T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB044T1-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom",
+      "เกาะ<zwsp>แห่ง<zwsp>เงา"
+    ],
+    "regionRefs": [
+      "SpiritBlossom",
+      "ShadowIsles"
+    ],
+    "attack": 20,
+    "cost": 4,
+    "health": 20,
+    "description": "การ์ดใบนี้ไม่สามารถ<zwsp>ได้รับ<zwsp>ความเสียหาย<zwsp>หรือ<zwsp>ตาย<zwsp>ได้\r\nศัตรูทั้งหมดถูกทำเครื่องหมาย\r\n<link=card.create1><style=AssociatedCard>Beast's Frenzy</style></link> ทำให้การ์ดใบนี้โจมตีแทน",
+    "descriptionRaw": "การ์ดใบนี้ไม่สามารถได้รับความเสียหายหรือตายได้\r\nศัตรูทั้งหมดถูกทำเครื่องหมาย\r\nBeast's Frenzy ทำให้การ์ดใบนี้โจมตีแทน",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "อสูรที่รัก เรามานำทางพวกเขาไปยังโลกหลังความตายกัน",
+    "artistName": "Caravan Studio",
+    "name": "Spirit Blossom Kindred",
+    "cardCode": "98SB044T1",
+    "keywords": [
+      "ผู้ท้าชิง"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แชมเปี้ยน",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB035-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 2,
+    "cost": 7,
+    "health": 7,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: <link=vocab.GatherStorm><style=Vocab>ก่อพายุ</style></link>ตามจำนวนครั้ง<br>ที่เท่ากับค่าพลังของการ์ดใบนี้",
+    "descriptionRaw": "เล่น: ก่อพายุตามจำนวนครั้งที่เท่ากับค่าพลังของการ์ดใบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ฝึกฝนจิตให้เป็นดังใบมีด นั่นคือเฉียบคมพอที่จะแยกแยะการหลอกลวง และแข็งแรงพอที่จะยืนหยัดต่อพายุฝน\"",
+    "artistName": "Envar Studio",
+    "name": "Stormblade Sage",
+    "cardCode": "98SB035",
+    "keywords": [
+      "ผู้ท้าชิง"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtypes": [
+      "ยอร์เดิล"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB016-full.png"
       }
     ],
     "regions": [
@@ -500,13 +1082,51 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB027-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: เลือก 1 จาก 3 เวทที่<br>เล็งเป้าหมายเดียวที่คุณเคยใช้กับ<br>พันธมิตรในเกมนี้<br>แล้วนำมาร่ายให้กับการ์ดใบนี้",
+    "descriptionRaw": "เล่น: เลือก 1 จาก 3 เวทที่เล็งเป้าหมายเดียวที่คุณเคยใช้กับพันธมิตรในเกมนี้แล้วนำมาร่ายให้กับการ์ดใบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Prodigy จู่โจมหนึ่งครั้ง และอีกครั้ง ภายใต้หน้ากากของปรมาจารย์ผู้เดียวดาย<br>คือร่องรอยของรอยยิ้ม",
+    "artistName": "Envar Studio",
+    "name": "The Prodigy's Shade",
+    "cardCode": "98SB027",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "98SB007"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB011-full.png"
       }
     ],
     "regions": [
@@ -540,6 +1160,48 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB043-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "อัญเชิญการ์ดเสมือนทุกประการที่มี<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>ไร้ตัวตน</style></link>ของผู้ติดตามฝ่ายศัตรูหนึ่งใบ",
+    "descriptionRaw": "อัญเชิญการ์ดเสมือนทุกประการที่มีไร้ตัวตนของผู้ติดตามฝ่ายศัตรูหนึ่งใบ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ชีวิตเป็นสิ่งที่ไม่แน่นอน",
+    "artistName": "Envar Studio",
+    "name": "Fleeting Spirits",
+    "cardCode": "98SB043",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "98SB007",
       "98SB020T1",
@@ -547,8 +1209,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB020-full.png"
       }
     ],
     "regions": [
@@ -562,8 +1224,8 @@
     "attack": 1,
     "cost": 4,
     "health": 4,
-    "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: อัญเชิญ <link=card.summon><style=AssociatedCard>Fox-Fire</style></link> พร้อมโจมตี โดยมีค่าพลังเท่ากับค่าร่ายเวทที่แพงที่สุดที่คุณได้เล่นในเกมนี้",
-    "descriptionRaw": "โจมตี: อัญเชิญ Fox-Fire พร้อมโจมตี โดยมีค่าพลังเท่ากับค่าร่ายเวทที่แพงที่สุดที่คุณได้เล่นในเกมนี้",
+    "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: อัญเชิญ <link=card.summon><style=AssociatedCard>Fox-Fire</style></link> พร้อมโจมตี โดยมีค่าพลังเท่ากับค่าร่ายเวทที่แพงที่สุดที่คุณได้เล่นในเกมนี้ <style=Variable></style>",
+    "descriptionRaw": "โจมตี: อัญเชิญ Fox-Fire พร้อมโจมตี โดยมีค่าพลังเท่ากับค่าร่ายเวทที่แพงที่สุดที่คุณได้เล่นในเกมนี้ ",
     "levelupDescription": "พันธมิตรทั้งหมดที่มี<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>ไร้ตัวตน</style></link><br>จะสร้างความเสียหายได้มากขึ้น<br>25 หน่วยขึ้นไป<style=Variable></style>",
     "levelupDescriptionRaw": "พันธมิตรทั้งหมดที่มีไร้ตัวตนจะสร้างความเสียหายได้มากขึ้น25 หน่วยขึ้นไป",
     "flavorText": "ไหน ๆ ข้าก็อยู่ที่นี่แล้ว ข้าก็ขอสนุกหน่อยแล้วกัน ใครอยากมาไล่ล่ากันบ้าง?",
@@ -595,8 +1257,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB020T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB020T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB020T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB020T2-full.png"
       }
     ],
     "regions": [
@@ -610,8 +1272,8 @@
     "attack": 2,
     "cost": 4,
     "health": 5,
-    "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: อัญเชิญ <link=card.summon><style=AssociatedCard>Fox-Fire</style></link> พร้อมโจมตี โดยมีค่าพลังเท่ากับค่าร่ายเวทที่แพงที่สุดที่คุณได้เล่นในเกมนี้\r\nเมื่อคุณถูกโจมตี อัญเชิญการ์ดหนึ่งใบมาป้องกัน",
-    "descriptionRaw": "โจมตี: อัญเชิญ Fox-Fire พร้อมโจมตี โดยมีค่าพลังเท่ากับค่าร่ายเวทที่แพงที่สุดที่คุณได้เล่นในเกมนี้\r\nเมื่อคุณถูกโจมตี อัญเชิญการ์ดหนึ่งใบมาป้องกัน",
+    "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: อัญเชิญ <link=card.summon><style=AssociatedCard>Fox-Fire</style></link> พร้อมโจมตี โดยมีค่าพลังเท่ากับค่าร่ายเวทที่แพงที่สุดที่คุณได้เล่นในเกมนี้\r\nเมื่อคุณถูกโจมตี อัญเชิญการ์ดหนึ่งใบมาป้องกัน <style=Variable></style>",
+    "descriptionRaw": "โจมตี: อัญเชิญ Fox-Fire พร้อมโจมตี โดยมีค่าพลังเท่ากับค่าร่ายเวทที่แพงที่สุดที่คุณได้เล่นในเกมนี้\r\nเมื่อคุณถูกโจมตี อัญเชิญการ์ดหนึ่งใบมาป้องกัน ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "บางครั้งก็ขี้เล่น บางคราวกลับโหดเหี้ยม วิธีลึกลับของ Fox Spirit ยังคงหลอกหลอนผู้ที่กล้าท้าทายเส้นทางของนาง",
@@ -642,8 +1304,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB020T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB020T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB020T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB020T1-full.png"
       }
     ],
     "regions": [
@@ -687,8 +1349,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB020T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB020T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB020T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB020T4-full.png"
       }
     ],
     "regions": [
@@ -732,8 +1394,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB020T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB020T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB020T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB020T3-full.png"
       }
     ],
     "regions": [
@@ -776,8 +1438,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB012-full.png"
       }
     ],
     "regions": [
@@ -818,8 +1480,297 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB033-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Strike><style=Vocab>จู่โจม</style></link>: <link=vocab.GatherStorm><style=Vocab>ก่อพายุ</style></link>",
+    "descriptionRaw": "จู่โจม: ก่อพายุ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "เสียงสะท้อนของนักรบในอดีตถูกปลุกขึ้นมาต่อสู้",
+    "artistName": "Envar Studio",
+    "name": "Shades of Battles Past",
+    "cardCode": "98SB033",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB025T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB025-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 3,
+    "cost": 2,
+    "health": 1,
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>สิ้นลม</style></link>: สร้าง <link=card.create><style=AssociatedCard>Grief's Lesson</style></link> หนึ่งใบในมือ",
+    "descriptionRaw": "สิ้นลม: สร้าง Grief's Lesson หนึ่งใบในมือ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "เมื่อบทเรียนสิ้นสุดลง การเดินทางจะเริ่มขึ้น",
+    "artistName": "Envar Studio",
+    "name": "Fallen Student",
+    "cardCode": "98SB025",
+    "keywords": [
+      "สิ้นลม"
+    ],
+    "keywordRefs": [
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB046-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 2,
+    "cost": 5,
+    "health": 6,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: ทำเครื่องหมายศัตรูหนึ่งใบ\r\n<link=vocab.RoundEnd><style=Vocab>จบรอบ</style></link>: การ์ดใบนี้<link=vocab.Strike><style=Vocab>จู่โจม</style></link>ศัตรูทั้งหมดที่มีเครื่องหมาย",
+    "descriptionRaw": "เล่น: ทำเครื่องหมายศัตรูหนึ่งใบ\r\nจบรอบ: การ์ดใบนี้จู่โจมศัตรูทั้งหมดที่มีเครื่องหมาย",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ซ่อนแอบ ช่างเป็นเกมที่ไร้เดียงสา แต่อาจร้ายแรงถึงชีวิต",
+    "artistName": "Envar Studio",
+    "name": "Patient Beast",
+    "cardCode": "98SB046",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB037T1",
+      "98SB037T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB037-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 7,
+    "cost": 15,
+    "health": 7,
+    "description": "การ์ดใบนี้ไม่สามารถเป็น<link=vocab.StormTarget><style=Vocab>สายล่อฟ้า</style></link>ได้ การ์ดใบนี้มีค่าร่ายลดลง 1 หน่วยตามจำนวนครั้งที่คุณ<link=vocab.GatherStorm><style=Vocab>ก่อพายุ</style></link>ในเกมนี้\r\nเมื่อการ์ดใบนี้ถูกอัญเชิญ <link=vocab.Obliterate><style=Vocab>ทำลายล้าง</style></link>ศัตรูหนึ่งใบที่<link=vocab.Strongest><style=Vocab>แข็งแกร่งที่สุด</style></link>",
+    "descriptionRaw": "การ์ดใบนี้ไม่สามารถเป็นสายล่อฟ้าได้ การ์ดใบนี้มีค่าร่ายลดลง 1 หน่วยตามจำนวนครั้งที่คุณก่อพายุในเกมนี้\r\nเมื่อการ์ดใบนี้ถูกอัญเชิญ ทำลายล้างศัตรูหนึ่งใบที่แข็งแกร่งที่สุด",
+    "levelupDescription": "คุณได้<link=vocab.GatherStorm><style=Vocab>ก่อพายุ</style></link>มากกว่า 15 ครั้ง <style=Variable></style><br>",
+    "levelupDescriptionRaw": "คุณได้ก่อพายุมากกว่า 15 ครั้ง ",
+    "flavorText": "\"และที่หลุมศพของพี่ชายของเขา ผู้น้องคุกเข่าลง เพราะเขารู้ดีว่าทั้งตัวเขาและพี่ชายต่างเป็นเหยื่อของ<br>โศกนาฏกรรม\" - เรื่องเล่าของพี่น้องคู่สงคราม",
+    "artistName": "Kudos Productions",
+    "name": "Spirit Blossom Yasuo",
+    "cardCode": "98SB037",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แชมเปี้ยน",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB037",
+      "98SB037T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB037T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB037T1-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 8,
+    "cost": 15,
+    "health": 8,
+    "description": "การ์ดใบนี้ไม่สามารถเป็น<link=vocab.StormTarget><style=Vocab>สายล่อฟ้า</style></link>ได้ \r\nการ์ดใบนี้มีค่าร่ายลดลง 1 หน่วยตามจำนวนครั้งที่คุณ<link=vocab.GatherStorm><style=Vocab>ก่อพายุ</style></link>ในเกมนี้\r\nเมื่อการ์ดใบนี้ถูกอัญเชิญหรือ<link=vocab.Attack><style=Vocab>โจมตี</style></link>: <link=vocab.Obliterate><style=Vocab>ทำลายล้าง</style></link>ศัตรูหนึ่งใบ<link=vocab.Strongest><style=Vocab>ที่แข็งแกร่งที่สุด</style></link>",
+    "descriptionRaw": "การ์ดใบนี้ไม่สามารถเป็นสายล่อฟ้าได้ \r\nการ์ดใบนี้มีค่าร่ายลดลง 1 หน่วยตามจำนวนครั้งที่คุณก่อพายุในเกมนี้\r\nเมื่อการ์ดใบนี้ถูกอัญเชิญหรือโจมตี: ทำลายล้างศัตรูหนึ่งใบที่แข็งแกร่งที่สุด",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"แม่น้ำลดเลี้ยวตามทางที่คุ้นเคยฉันใด เราเองก็ได้รับการหล่อหลอมตามผู้ที่เราติดตามฉันนั้น แม้แต่เวลานี้ ผู้น้องยังคงเดินตามรอยเท้าผู้พี่\" - เรื่องเล่าของพี่น้องคู่สงคราม",
+    "artistName": "Kudos Productions",
+    "name": "The Younger Brother",
+    "cardCode": "98SB037T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แชมเปี้ยน",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB037",
+      "98SB037T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB037T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB037T2-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "<link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>ศัตรูหนึ่งใบเพื่อ<link=vocab.GatherStorm><style=Vocab>ก่อพายุ</style></link>สองครั้ง\r\nสร้าง <link=card.level1><style=AssociatedCard>Spirit Blossom Yasuo</style></link> หนึ่งใบในเด็คของคุณ",
+    "descriptionRaw": "เรียกกลับศัตรูหนึ่งใบเพื่อก่อพายุสองครั้ง\r\nสร้าง Spirit Blossom Yasuo หนึ่งใบในเด็คของคุณ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"จงนิ่งไว้… ลมกำลังรวบรวมพลังแห่งโทสะ\"",
+    "artistName": "Kudos Productions",
+    "name": "Yasuo's Last Breath",
+    "cardCode": "98SB037T2",
+    "keywords": [
+      "เร็ว"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "เร็ว",
+    "spellSpeedRef": "Fast",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB032-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>ศัตรูหนึ่งใบเพื่อลด<br>ค่าร่ายของการ์ดในมือแบบสุ่มหนึ่งใบลง 3 หน่วย",
+    "descriptionRaw": "เรียกกลับศัตรูหนึ่งใบเพื่อลดค่าร่ายของการ์ดในมือแบบสุ่มหนึ่งใบลง 3 หน่วย",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"จงนิ่งไว้… ลมกำลังรวบรวมพลังแห่งโทสะ\"",
+    "artistName": "Envar Studio",
+    "name": "Unleash the Storm",
+    "cardCode": "98SB032",
+    "keywords": [
+      "เร็ว"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "เร็ว",
+    "spellSpeedRef": "Fast",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB004-full.png"
       }
     ],
     "regions": [
@@ -831,8 +1782,8 @@
     "attack": 4,
     "cost": 4,
     "health": 4,
-    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: <link=vocab.Foe><style=Vocab>คู่ต่อสู้</style></link>จั่วการ์ด 2 ใบ และทิ้งการ์ด 2 ใบ",
-    "descriptionRaw": "เล่น: คู่ต่อสู้จั่วการ์ด 2 ใบ และทิ้งการ์ด 2 ใบ",
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: คู่ต่อสู้ของคุณจั่วการ์ด 2 ใบ และทิ้งการ์ด 2 ใบ",
+    "descriptionRaw": "เล่น: คู่ต่อสู้ของคุณจั่วการ์ด 2 ใบ และทิ้งการ์ด 2 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"เหลวไหล! แน่นอนว่าเจ้าต้องกินชิ้นที่สามได้ ที่รัก\"",
@@ -858,8 +1809,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB017-full.png"
       }
     ],
     "regions": [
@@ -893,13 +1844,179 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB042-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 5,
+    "description": "เมื่อคุณเล็งเป้าหมายศัตรูหนึ่งใบ จะทำเครื่องหมายศัตรูใบนั้น",
+    "descriptionRaw": "เมื่อคุณเล็งเป้าหมายศัตรูหนึ่งใบ จะทำเครื่องหมายศัตรูใบนั้น",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "สำหรับสายตาที่แหลมคม ระบำกับความตายเป็นสิ่งที่เล็งเห็นมาแต่ไกล",
+    "artistName": "Envar Studio",
+    "name": "Death's Seer",
+    "cardCode": "98SB042",
+    "keywords": [
+      "ฟื้นฟู"
+    ],
+    "keywordRefs": [
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB024-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "เมื่อคุณร่ายเวทหนึ่งใบ มอบ +1|+1 ให้กับการ์ดใบนี้ในรอบนี้",
+    "descriptionRaw": "เมื่อคุณร่ายเวทหนึ่งใบ มอบ +1|+1 ให้กับการ์ดใบนี้ในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ในความตาย เราจะได้เรียนรู้การเรียงร้อยความมหัศจรรย์แห่งชีวิต",
+    "artistName": "Envar Studio",
+    "name": "Spirit Aspirant",
+    "cardCode": "98SB024",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB036-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=vocab.Manifest><style=Vocab>ก่อกำเนิด</style></link>ผู้ติดตามที่มีค่าร่าย 6 หน่วยขึ้นไป และทำให้เป็น<link=vocab.StormTarget><style=Vocab>สายล่อฟ้า</style></link> ",
+    "descriptionRaw": "ก่อกำเนิดผู้ติดตามที่มีค่าร่าย 6 หน่วยขึ้นไป และทำให้เป็นสายล่อฟ้า ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "กลิ่นหอมของกลีบที่เพิ่งร่วงโรยดึงดูดดวงจิตมารวมตัวกัน รอคอยเสียงของผู้ที่จะนำทางพวกเขากลับบ้าน ",
+    "artistName": "Kudos Productions",
+    "name": "Commune With Spirits",
+    "cardCode": "98SB036",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB045-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>สิ้นลม</style></link>: ทำเครื่องหมาย<br>ศัตรูหนึ่งใบที่สังหารการ์ดใบนี้",
+    "descriptionRaw": "สิ้นลม: ทำเครื่องหมายศัตรูหนึ่งใบที่สังหารการ์ดใบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "การล่วงเกินวงศ์วานของ Taker ก็ไม่ต่างอะไรกับการหาที่ตาย",
+    "artistName": "Envar Studio",
+    "name": "Vengeful Imp",
+    "cardCode": "98SB045",
+    "keywords": [
+      "สิ้นลม",
+      "ไม่มีวันตาย"
+    ],
+    "keywordRefs": [
+      "LastBreath",
+      "Deathless"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "01PZ022"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB006-full.png"
       }
     ],
     "regions": [
@@ -940,8 +2057,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB018-full.png"
       }
     ],
     "regions": [
@@ -979,13 +2096,55 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB026-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "มอบ (<style=Variable>+1|+1</style>) แก่พันธมิตรหนึ่งใบในรอบนี้ เพิ่มบัฟ +1|+1 ทุกครั้งที่คุณร่ายเวทนี้ในเกมนี้ ",
+    "descriptionRaw": "มอบ (+1|+1) แก่พันธมิตรหนึ่งใบในรอบนี้ เพิ่มบัฟ +1|+1 ทุกครั้งที่คุณร่ายเวทนี้ในเกมนี้ ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ยิ่งซ้อม ยิ่งแม่น",
+    "artistName": "Kudos Productions",
+    "name": "Practice Makes Perfect",
+    "cardCode": "98SB026",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "98SB007"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB012T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB012T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB012T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB012T2-full.png"
       }
     ],
     "regions": [
@@ -1028,8 +2187,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB012T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB012T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB012T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB012T1-full.png"
       }
     ],
     "regions": [
@@ -1070,8 +2229,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB019-full.png"
       }
     ],
     "regions": [
@@ -1112,8 +2271,50 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB040-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "ทำเครื่องหมายศัตรูหนึ่งใบแบบสุ่ม หรือใช้มานา 4 หน่วยเพื่อสร้างความเสียหาย 3 หน่วยแก่ศัตรูทั้งหมดที่มีเครื่องหมาย",
+    "descriptionRaw": "ทำเครื่องหมายศัตรูหนึ่งใบแบบสุ่ม หรือใช้มานา 4 หน่วยเพื่อสร้างความเสียหาย 3 หน่วยแก่ศัตรูทั้งหมดที่มีเครื่องหมาย",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "สำหรับผู้ที่ถูกความตายหมายหัวไว้... มีแต่หนีกับร่วงเท่านั้น",
+    "artistName": "Envar Studio",
+    "name": "Dance of Arrows",
+    "cardCode": "98SB040",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB010-full.png"
       }
     ],
     "regions": [
@@ -1156,8 +2357,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB002-full.png"
       }
     ],
     "regions": [
@@ -1196,8 +2397,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB010T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB010T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB010T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB010T2-full.png"
       }
     ],
     "regions": [
@@ -1238,8 +2439,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB010T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB010T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB010T1-full.png"
       }
     ],
     "regions": [
@@ -1280,8 +2481,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB019T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB019T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB019T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB019T2-full.png"
       }
     ],
     "regions": [
@@ -1322,8 +2523,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB019T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB019T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB019T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB019T1-full.png"
       }
     ],
     "regions": [
@@ -1364,15 +2565,17 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB009-full.png"
       }
     ],
     "regions": [
-      "Spirit Blossom"
+      "Spirit Blossom",
+      "ไอ<zwsp>โอ<zwsp>เนีย"
     ],
     "regionRefs": [
-      "SpiritBlossom"
+      "SpiritBlossom",
+      "Ionia"
     ],
     "attack": 2,
     "cost": 3,
@@ -1402,8 +2605,217 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB025T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB025T2-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "มอบ (<style=Variable>+0|+0</style>) แก่พันธมิตรหนึ่งใบในรอบนี้<br>บัฟนี้เท่ากับค่าโจมตี และค่าพลังชีวิตสูงสุดในบรรดาพันธมิตร<br>ทั้งหมดที่ถูกสังหารในเกมนี้",
+    "descriptionRaw": "มอบ (+0|+0) แก่พันธมิตรหนึ่งใบในรอบนี้บัฟนี้เท่ากับค่าโจมตี และค่าพลังชีวิตสูงสุดในบรรดาพันธมิตรทั้งหมดที่ถูกสังหารในเกมนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ว่ากันว่าผู้ที่ล้มหายจะมอบพลังให้แก่ผู้ที่ยังอยู่",
+    "artistName": "Envar Studio",
+    "name": "Grief's Lesson",
+    "cardCode": "98SB025T2",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "98SB041",
+      "98SB044T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB047-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "อัญเชิญ <link=card.summon><style=AssociatedCard>The Beast</style></link> หนึ่งใบ และ<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ท้าชิง</style></link>ศัตรูที่มีเครื่องหมายหนึ่งใบ",
+    "descriptionRaw": "อัญเชิญ The Beast หนึ่งใบ และท้าชิงศัตรูที่มีเครื่องหมายหนึ่งใบ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "",
+    "artistName": "Kudos Productions",
+    "name": "Beast's Frenzy",
+    "cardCode": "98SB047",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB040T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB040T1-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "สร้างความเสียหาย 3 หน่วยแก่ศัตรูทั้งหมดที่มีเครื่องหมาย",
+    "descriptionRaw": "สร้างความเสียหาย 3 หน่วยแก่ศัตรูทั้งหมดที่มีเครื่องหมาย",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "สำหรับผู้ที่ถูกความตายหมายหัวไว้... มีแต่หนีกับร่วงเท่านั้น",
+    "artistName": "Envar Studio",
+    "name": "Dance of Arrows",
+    "cardCode": "98SB040T1",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB040T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB040T2-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "ทำเครื่องหมายศัตรูหนึ่งใบแบบสุ่ม",
+    "descriptionRaw": "ทำเครื่องหมายศัตรูหนึ่งใบแบบสุ่ม",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "สำหรับผู้ที่ถูกความตายหมายหัวไว้... มีแต่หนีกับร่วงเท่านั้น",
+    "artistName": "Envar Studio",
+    "name": "Dance of Arrows",
+    "cardCode": "98SB040T2",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB038-full.png"
+      }
+    ],
+    "regions": [
+      "Spirit Blossom"
+    ],
+    "regionRefs": [
+      "SpiritBlossom"
+    ],
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "เมื่อคุณเล่นการ์ดอีกใบที่มีการลดค่าร่าย มอบ +1|+1 ให้กับการ์ดใบนี้",
+    "descriptionRaw": "เมื่อคุณเล่นการ์ดอีกใบที่มีการลดค่าร่าย มอบ +1|+1 ให้กับการ์ดใบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ข้าเป็นเพียงการเริ่มต้น ผู้อื่นจะลุกขึ้นมาพร้อมกับสายลม\"",
+    "artistName": "Envar Studio",
+    "name": "Arisen Soul",
+    "cardCode": "98SB038",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Tpoc"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB015-full.png"
       }
     ],
     "regions": [
@@ -1444,8 +2856,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SB003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SB003-full.png"
       }
     ],
     "regions": [
@@ -1490,8 +2902,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98BW003-full.png"
       }
     ],
     "regions": [
@@ -1532,8 +2944,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98BW004-full.png"
       }
     ],
     "regions": [
@@ -1574,8 +2986,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98BW005-full.png"
       }
     ],
     "regions": [
@@ -1616,8 +3028,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98BW002-full.png"
       }
     ],
     "regions": [
@@ -1658,8 +3070,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98BW006-full.png"
       }
     ],
     "regions": [
@@ -1704,8 +3116,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX003-full.png"
       }
     ],
     "regions": [
@@ -1751,8 +3163,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX003T2-full.png"
       }
     ],
     "regions": [
@@ -1797,8 +3209,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX003T1-full.png"
       }
     ],
     "regions": [
@@ -1841,8 +3253,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX007-full.png"
       }
     ],
     "regions": [
@@ -1883,8 +3295,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX008-full.png"
       }
     ],
     "regions": [
@@ -1921,8 +3333,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX004-full.png"
       }
     ],
     "regions": [
@@ -1963,8 +3375,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX006-full.png"
       }
     ],
     "regions": [
@@ -2007,8 +3419,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98NX005-full.png"
       }
     ],
     "regions": [
@@ -2049,8 +3461,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ007-full.png"
       }
     ],
     "regions": [
@@ -2087,8 +3499,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ005-full.png"
       }
     ],
     "regions": [
@@ -2133,8 +3545,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ006-full.png"
       }
     ],
     "regions": [
@@ -2177,8 +3589,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ006T2-full.png"
       }
     ],
     "regions": [
@@ -2222,8 +3634,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ006T3-full.png"
       }
     ],
     "regions": [
@@ -2268,8 +3680,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ006T1-full.png"
       }
     ],
     "regions": [
@@ -2315,8 +3727,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ001-full.png"
       }
     ],
     "regions": [
@@ -2355,8 +3767,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ001T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ001T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ001T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ001T4-full.png"
       }
     ],
     "regions": [
@@ -2400,8 +3812,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ001T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ001T2-full.png"
       }
     ],
     "regions": [
@@ -2447,8 +3859,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ001T1-full.png"
       }
     ],
     "regions": [
@@ -2489,8 +3901,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ004-full.png"
       }
     ],
     "regions": [
@@ -2533,8 +3945,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ008-full.png"
       }
     ],
     "regions": [
@@ -2575,8 +3987,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98PZ009-full.png"
       }
     ],
     "regions": [
@@ -2617,8 +4029,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SI003-full.png"
       }
     ],
     "regions": [
@@ -2659,8 +4071,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SI002-full.png"
       }
     ],
     "regions": [
@@ -2701,8 +4113,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SI002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SI002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SI002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SI002T1-full.png"
       }
     ],
     "regions": [
@@ -2757,8 +4169,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SI002T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SI002T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SI002T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SI002T2-full.png"
       }
     ],
     "regions": [
@@ -2813,8 +4225,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU007-full.png"
       }
     ],
     "regions": [
@@ -2857,8 +4269,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU006-full.png"
       }
     ],
     "regions": [
@@ -2901,8 +4313,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU009-full.png"
       }
     ],
     "regions": [
@@ -2945,8 +4357,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU003-full.png"
       }
     ],
     "regions": [
@@ -2987,8 +4399,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU005-full.png"
       }
     ],
     "regions": [
@@ -3035,8 +4447,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU004-full.png"
       }
     ],
     "regions": [
@@ -3077,8 +4489,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU004T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU004T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU004T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU004T3-full.png"
       }
     ],
     "regions": [
@@ -3123,8 +4535,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU004T1-full.png"
       }
     ],
     "regions": [
@@ -3168,8 +4580,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU004T2-full.png"
       }
     ],
     "regions": [
@@ -3210,8 +4622,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU001-full.png"
       }
     ],
     "regions": [
@@ -3252,8 +4664,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU011-full.png"
       }
     ],
     "regions": [
@@ -3308,8 +4720,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU008-full.png"
       }
     ],
     "regions": [
@@ -3352,8 +4764,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98RU010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98RU010-full.png"
       }
     ],
     "regions": [
@@ -3398,8 +4810,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98DE001-full.png"
       }
     ],
     "regions": [
@@ -3440,8 +4852,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98FR003-full.png"
       }
     ],
     "regions": [
@@ -3482,8 +4894,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SH002-full.png"
       }
     ],
     "regions": [
@@ -3543,8 +4955,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SH001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SH001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SH001-full.png"
       }
     ],
     "regions": [
@@ -3585,8 +4997,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SH001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98SH001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SH001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98SH001T1-full.png"
       }
     ],
     "regions": [
@@ -3629,8 +5041,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98BC001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/6_8_0/tpoc/th_th/img/cards/98BC001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/6_9_0/tpoc/th_th/img/cards/98BC001-full.png"
       }
     ],
     "regions": [
